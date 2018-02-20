@@ -1,2 +1,1 @@
-# prooptiki
-Prooptiki – Athens from Athenian Perspective
+# Taksidiotis – Athens from Athenian Perspective
