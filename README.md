@@ -2,7 +2,7 @@
 
 ## Tasks
 - Clone this repo
-- Add an interesting place (such as museum, bar, or restaurant), activity (walking tour, or food/wine-tasting tour), or anything interesting for a tourist to the guide.md file
+- Add interesting places (such as museum, bar, or restaurant), activity (walking tour, or food/wine-tasting tour), or anything interesting for a tourist to the guide.md file
 - Contribute to at least 3 categories
 - The important thing is – you, as a Greek, are recommending it
 - You may change/modify text added by others
