@@ -1,1 +1,1 @@
-# Taksidiotis - Athens tour guide by the Greeks
+# Taksidiotis - Athens travel guide by the Greeks
