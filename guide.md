@@ -7,13 +7,14 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 ## History
 
 ## Restaurants/Travernas
-Treat yourself with some ice cream and waffles at "buffala gelato" in the sunny Glyfada. [click to view](http://bufalagelato.com)
+Treat yourself with some ice cream and waffles at "buffala gelato" in the sunny Glyfada. [click to view website](http://bufalagelato.com)
 
 ## Bars
 
 ## Night life
 Enjoy R&B and house music alongside with amazing drinks at "Toyroom" in the center of Athens.
-{google_map}37.977635,23.73578699999996{/google_map}[check the local's opinion](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d13137578-Reviews-Toy_Room_Club-Athens_Attica.html)
+{google_map}Omonoia 10, Athens 105 64{/google_map}
+[check the local's opinion](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d13137578-Reviews-Toy_Room_Club-Athens_Attica.html)
 
 ## Islands
 
