@@ -7,7 +7,7 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 ## History
 
 ## Restaurants/Travernas
-Treat yourself with ice cream and waffles at "byffala gelato" in the sunny Glyfada.
+Treat yourself with some ice cream and waffles at "buffala gelato" in the sunny Glyfada.
 
 ## Bars
 
