@@ -6,13 +6,10 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## History
 
-<<<<<<< HEAD
 Democracy was inherited to the world by ancient Greece and especially Athens where it was developed around the fifth century BC. The longest-lasting democratic leader was Pericles. [click to see more details] (https://en.wikipedia.org/wiki/Athenian_democracy)
-
 Mathematics and specifically geometry were greatly advanced in ancient Greece. Among the most famous mathematicians are Pythagoras, Euclides and Thales.  [click to see more details] (https://en.wikipedia.org/wiki/Greek_mathematics)
-=======
+
 The name of Athens, connected to the name of its patron goddess Athena, originates from an earlier Pre-Greek language.
->>>>>>> origin/master
 
 ## Restaurants/Travernas
 
