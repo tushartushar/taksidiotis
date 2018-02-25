@@ -10,6 +10,11 @@ The name of Athens, connected to the name of its patron goddess Athena, originat
 
 ## Restaurants/Travernas
 
+In the heart of Athens, under the shade of the temple of Hephaestus on the picturesque Adrianou Street, lies the unique restaurant Kuzina. 
+The old mansion where the restaurant is hosted keeps a hidden surprise for tis guests: the breathtaking view to Acropolis from its Tarazza!
+Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a unique menu that makes Kuzina stand out for combining traditional cuisine and culinary inventiveness.
+[click to view website] https://www.kuzina.gr/en/home 
+
 Treat yourself with some ice cream and waffles at "Bufala Gelato" in the sunny Glyfada.
 [click to view website](http://bufalagelato.com)
 
@@ -35,7 +40,7 @@ In case you have enough time for holidays, a great choice for you is to visit Ch
 If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vouliagmeni offer lessons in many extreme sports such as: SUP, rowing , wind surf, surf, jet ski, sailing and many more.
 [click to see location](https://www.google.gr/maps/place/Βάρκιζα,+Βάρη+166+72/@37.8175484,23.7816949,14z/data=!3m1!4b1!4m5!3m4!1s0x14a19525c364b6ff:0x77264baecded7346!8m2!3d37.8175503!4d23.7992474?hl=el)
 
-## Grafifiti
+## Grafiti
 
 ## Kids-activities
 
