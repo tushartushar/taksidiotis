@@ -51,6 +51,8 @@ From Hollywood to Athens! The best night club in the city. [click to see locatio
 
 In case you have enough time for holidays, a great choice for you is to visit Chania, Crete. A city that combines wonderful nightlife as well as landscapes and well-known beaches. [click to visit website](https://www.discovergreece.com/el/greek-islands/crete/chania)
 
+Another great city of Crete is Heraklion in which you can visit a lot of well-known sightsees such as Knossos, Koules and Fountain Morozini.
+
 Spetses:
 Beautiful nature, perfect beaches and a complex history ‒ Spetses is an island that has all three. It's close enough to Athens to be enjoyed as a day trip and has enough varied sites and activities to keep you completely occupied for longer trips. 
 http://www.greece-is.com/5-reasons-visit-spetses/ 
@@ -73,3 +75,5 @@ If you want to spend a creative day with your children, get them to the Attica Z
 
 There are many destinations close to Athens where you can make a daily trip, relaxing from the urban noise and air pollution. One of my favorite destinations is Nafplio, a 2-hours drive from Athens, where you can stroll in the peaceful and picturesque streets and also climb the Palamidi fortress and enjoy a breathtaking view! [For more details] (https://en.wikipedia.org/wiki/Nafplio)
 >>>>>>> 1f92f77f97240659b9c55f892277ac5b1da62a1f
+
+A day trip in Sounion (2 hours car drive from Athens) is a nice choice for somebody who wants to escape from the capital. The temple of Poseidon and the view from up there worth the visit. (https://en.wikipedia.org/wiki/Sounion)
