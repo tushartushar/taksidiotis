@@ -6,6 +6,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## History
 
+The name of Athens, connected to the name of its patron goddess Athena, originates from an earlier Pre-Greek language.
+
 ## Restaurants/Travernas
 
 Treat yourself with some ice cream and waffles at "Bufala Gelato" in the sunny Glyfada.
