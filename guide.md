@@ -1,4 +1,4 @@
-# Taksidiotis - Athens travel guide by the Greeks
+﻿# Taksidiotis - Athens travel guide by the Greeks
 
 Athens is the capital city of Greece and the largest as well. Athens is one of the oldest cities in Europe with a great history of more than 3000 years.
 
@@ -6,11 +6,20 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## History
 
+<<<<<<< HEAD
 Democracy was inherited to the world by ancient Greece and especially Athens where it was developed around the fifth century BC. The longest-lasting democratic leader was Pericles. [click to see more details] (https://en.wikipedia.org/wiki/Athenian_democracy)
 
 Mathematics and specifically geometry were greatly advanced in ancient Greece. Among the most famous mathematicians are Pythagoras, Euclides and Thales.  [click to see more details] (https://en.wikipedia.org/wiki/Greek_mathematics)
+=======
+The name of Athens, connected to the name of its patron goddess Athena, originates from an earlier Pre-Greek language.
+>>>>>>> origin/master
 
 ## Restaurants/Travernas
+
+In the heart of Athens, under the shade of the temple of Hephaestus on the picturesque Adrianou Street, lies the unique restaurant Kuzina. 
+The old mansion where the restaurant is hosted keeps a hidden surprise for tis guests: the breathtaking view to Acropolis from its Tarazza!
+Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a unique menu that makes Kuzina stand out for combining traditional cuisine and culinary inventiveness.
+[click to view website] https://www.kuzina.gr/en/home 
 
 Treat yourself with some ice cream and waffles at "Bufala Gelato" in the sunny Glyfada.
 [click to view website](http://bufalagelato.com)
@@ -39,9 +48,11 @@ Another idyllic destination is Chios, an island in the eastern part of the Aegea
 If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vouliagmeni offer lessons in many extreme sports such as: SUP, rowing , wind surf, surf, jet ski, sailing and many more.
 [click to see location](https://www.google.gr/maps/place/Βάρκιζα,+Βάρη+166+72/@37.8175484,23.7816949,14z/data=!3m1!4b1!4m5!3m4!1s0x14a19525c364b6ff:0x77264baecded7346!8m2!3d37.8175503!4d23.7992474?hl=el)
 
-## Grafifiti
+## Grafiti
 
 ## Kids-activities
+
+If you want to spend a creative day with your children, get them to the Attica Zoo Park. Make sure you pick up a map to guide you around the park as it is huge, housing more than 350 animal species of which half are on the endangered list. Kids will love it. [click to visit website] (http://www.atticapark.com/)
 
 ## Other tips and tricks
 
