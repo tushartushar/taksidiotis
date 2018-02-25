@@ -28,7 +28,8 @@ https://www.kuzina.gr/en/home
 Treat yourself with some ice cream and waffles at "Bufala Gelato" in the sunny Glyfada.
 [click to view website](http://bufalagelato.com)
 
-Varoulko restaurant is located in one of the most beautiful places, the Mikrolimano marina, in front of the sea, has easy access from  downtown Athens & Piraeus and provides its visitors an elegant atmosphere and an outstanding view.
+Varoulko restaurant is located in one of the most beautiful places, the Mikrolimano marina, in front of the sea, has easy access from  downtown Athens & Piraeus and provides its visitors an elegant atmosphere and an outstanding view. (http://varoulko.gr/)
+
 
 ## Bars
 
