@@ -27,7 +27,6 @@ From Hollywood to Athens! The best night club in the city. [click to see locatio
 ## Islands
 
 In case you have enough time for holidays, a great choice for you is to visit Chania, Crete. A city that combines wonderful nightlife as well as landscapes and well-known beaches. [click to visit website](https://www.discovergreece.com/el/greek-islands/crete/chania)
-Another great city of Crete is Heraklion in which you can visit a lot of well-known sightsees such as Knossos, Koules and Fountain Morozini.
 
 ## Extreme sports
 
@@ -37,5 +36,7 @@ If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vou
 ## Grafifiti
 
 ## Kids-activities
+
+If you want to spend a creative day with your children, get them to the Attica Zoo Park. Make sure you pick up a map to guide you around the park as it is huge, housing more than 350 animal species of which half are on the endangered list. Kids will love it.
 
 ## Other tips and tricks
