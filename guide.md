@@ -62,13 +62,7 @@ If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vou
 If you want to spend a creative day with your children, get them to the Attica Zoo Park. Make sure you pick up a map to guide you around the park as it is huge, housing more than 350 animal species of which half are on the endangered list. Kids will love it.
 
 ## Other tips and tricks
-=======
-If you want to spend a creative day with your children, get them to the Attica Zoo Park. Make sure you pick up a map to guide you around the park as it is huge, housing more than 350 animal species of which half are on the endangered list. Kids will love it. [click to visit website] (http://www.atticapark.com/)
-=======
-If you want to spend a creative day with your children, get them to the Attica Zoo Park. Make sure you pick up a map to guide you around the park as it is huge, housing more than 350 animal species of which half are on the endangered list. Kids will love it.
->>>>>>> 2cbd4e29515051b4bf18da584d5b84e481984773
 
-## Other tips and tricks
 
 There are many destinations close to Athens where you can make a daily trip, relaxing from the urban noise and air pollution. One of my favorite destinations is Nafplio, a 2-hours drive from Athens, where you can stroll in the peaceful and picturesque streets and also climb the Palamidi fortress and enjoy a breathtaking view! [For more details] (https://en.wikipedia.org/wiki/Nafplio)
 >>>>>>> 1f92f77f97240659b9c55f892277ac5b1da62a1f
