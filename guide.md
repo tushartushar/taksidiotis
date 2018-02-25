@@ -6,6 +6,13 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## History
 
+<<<<<<< HEAD
+=======
+Democracy was inherited to the world by ancient Greece and especially Athens where it was developed around the fifth century BC. The longest-lasting democratic leader was Pericles. [click to see more details] (https://en.wikipedia.org/wiki/Athenian_democracy)
+
+Mathematics and specifically geometry were greatly advanced in ancient Greece. Among the most famous mathematicians are Pythagoras, Euclides and Thales.  [click to see more details] (https://en.wikipedia.org/wiki/Greek_mathematics)
+
+>>>>>>> 1f92f77f97240659b9c55f892277ac5b1da62a1f
 The name of Athens, connected to the name of its patron goddess Athena, originates from an earlier Pre-Greek language.
 
 ## Restaurants/Travernas
@@ -42,6 +49,14 @@ If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vou
 
 ## Kids-activities
 
+<<<<<<< HEAD
 If you want to spend a creative day with your children, get them to the Attica Zoo Park. Make sure you pick up a map to guide you around the park as it is huge, housing more than 350 animal species of which half are on the endangered list. Kids will love it.
 
 ## Other tips and tricks
+=======
+If you want to spend a creative day with your children, get them to the Attica Zoo Park. Make sure you pick up a map to guide you around the park as it is huge, housing more than 350 animal species of which half are on the endangered list. Kids will love it. [click to visit website] (http://www.atticapark.com/)
+
+## Other tips and tricks
+
+There are many destinations close to Athens where you can make a daily trip, relaxing from the urban noise and air pollution. One of my favorite destinations is Nafplio, a 2-hours drive from Athens, where you can stroll in the peaceful and picturesque streets and also climb the Palamidi fortress and enjoy a breathtaking view! [For more details] (https://en.wikipedia.org/wiki/Nafplio)
+>>>>>>> 1f92f77f97240659b9c55f892277ac5b1da62a1f
