@@ -6,6 +6,10 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## History
 
+Democracy was inherited to the world by ancient Greece and especially Athens where it was developed around the fifth century BC. The longest-lasting democratic leader was Pericles. [click to see more details] (https://en.wikipedia.org/wiki/Athenian_democracy)
+
+Mathematics and specifically geometry were greatly advanced in ancient Greece. Among the most famous mathematicians are Pythagoras, Euclides and Thales.  [click to see more details] (https://en.wikipedia.org/wiki/Greek_mathematics)
+
 ## Restaurants/Travernas
 
 Treat yourself with some ice cream and waffles at "Bufala Gelato" in the sunny Glyfada.
@@ -28,6 +32,8 @@ From Hollywood to Athens! The best night club in the city. [click to see locatio
 
 In case you have enough time for holidays, a great choice for you is to visit Chania, Crete. A city that combines wonderful nightlife as well as landscapes and well-known beaches. [click to visit website](https://www.discovergreece.com/el/greek-islands/crete/chania)
 
+Another idyllic destination is Chios, an island in the eastern part of the Aegean sea. It is the fifth biggest island of Greece with a long-standing tradition for its mastic tree, capable to grow only in this island. [to see more details please visit] (http://www.chios.gr/en/)
+
 ## Extreme sports
 
 If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vouliagmeni offer lessons in many extreme sports such as: SUP, rowing , wind surf, surf, jet ski, sailing and many more.
@@ -38,3 +44,5 @@ If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vou
 ## Kids-activities
 
 ## Other tips and tricks
+
+There are many destinations close to Athens where you can make a daily trip, relaxing from the urban noise and air pollution. One of my favorite destinations is Nafplio, a 2-hours drive from Athens, where you can stroll in the peaceful and picturesque streets and also climb the Palamidi fortress and enjoy a breathtaking view! [For more details] (https://en.wikipedia.org/wiki/Nafplio)
