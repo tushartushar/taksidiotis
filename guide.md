@@ -13,7 +13,7 @@ The name of Athens, connected to the name of its patron goddess Athena, originat
 In the heart of Athens, under the shade of the temple of Hephaestus on the picturesque Adrianou Street, lies the unique restaurant Kuzina. 
 The old mansion where the restaurant is hosted keeps a hidden surprise for tis guests: the breathtaking view to Acropolis from its Tarazza!
 Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a unique menu that makes Kuzina stand out for combining traditional cuisine and culinary inventiveness.
-[click to view website] https://www.kuzina.gr/en/home 
+https://www.kuzina.gr/en/home 
 
 Treat yourself with some ice cream and waffles at "Bufala Gelato" in the sunny Glyfada.
 [click to view website](http://bufalagelato.com)
@@ -44,6 +44,6 @@ If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vou
 
 ## Kids-activities
 
-If you want to spend a creative day with your children, get them to the Attica Zoo Park. Make sure you pick up a map to guide you around the park as it is huge, housing more than 350 animal species of which half are on the endangered list. Kids will love it. [click to visit website] (http://www.atticapark.com/)
+If you want to spend a creative day with your children, get them to the Attica Zoo Park. Make sure you pick up a map to guide you around the park as it is huge, housing more than 350 animal species of which half are on the endangered list. Kids will love it.
 
 ## Other tips and tricks
