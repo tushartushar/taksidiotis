@@ -6,9 +6,9 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## History
 
-Democracy was inherited to the world by ancient Greece and especially Athens where it was developed around the fifth century BC. The longest-lasting democratic leader was Pericles. [click to see more details] (https://en.wikipedia.org/wiki/Athenian_democracy)
+Democracy was inherited to the world by ancient Greece and especially Athens where it was developed around the fifth century BC. The longest-lasting democratic leader was Pericles. [click to see more details](https://en.wikipedia.org/wiki/Athenian_democracy)
 
-Mathematics and specifically geometry were greatly advanced in ancient Greece. Among the most famous mathematicians are Pythagoras, Euclides and Thales.  [click to see more details] (https://en.wikipedia.org/wiki/Greek_mathematics)
+Mathematics and specifically geometry were greatly advanced in ancient Greece. Among the most famous mathematicians are Pythagoras, Euclides and Thales.  [click to see more details](https://en.wikipedia.org/wiki/Greek_mathematics)
 
 The name of Athens, connected to the name of its patron goddess Athena, originates from an earlier Pre-Greek language.
 
@@ -20,12 +20,12 @@ The National Archaeological Museum is a must if you want to explore the educatio
 In the heart of Athens, under the shade of the temple of Hephaestus on the picturesque Adrianou Street, lies the unique restaurant Kuzina.
 The old mansion where the restaurant is hosted keeps a hidden surprise for tis guests: the breathtaking view to Acropolis from its Tarazza!
 Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a unique menu that makes Kuzina stand out for combining traditional cuisine and culinary inventiveness.
-https://www.kuzina.gr/en/home
+[click to see more](https://www.kuzina.gr/en/home)
 
 Treat yourself with some ice cream and waffles at "Bufala Gelato" in the sunny Glyfada.
 [click to view website](http://bufalagelato.com)
 
-Varoulko restaurant is located in one of the most beautiful places, the Mikrolimano marina, in front of the sea, has easy access from  downtown Athens & Piraeus and provides its visitors an elegant atmosphere and an outstanding view. (http://varoulko.gr/)
+Varoulko restaurant is located in one of the most beautiful places, the Mikrolimano marina, in front of the sea, has easy access from  downtown Athens & Piraeus and provides its visitors an elegant atmosphere and an outstanding view. [Click to see more](http://varoulko.gr/)
 
 Thanasis taverna is one of the most iconic tavernas in Athens, with its trademark dish being kebabs. It is a nice place to go after a walk in the center of Athens and enjoy a meal near the Monasthraki Square.
 [click to see location](https://goo.gl/maps/sA1seLsfrNG2)
@@ -36,10 +36,10 @@ In the top 10 in annual ratings of world's best bars, The Clumsies bar is one of
 [reference to 2017 list of world's best bars](https://www.worlds50bestbars.com/fifty-best-bars-list-2017/?ist=6)
 
 If it's summer and you are in the capital of Greece, a good choice to spend your night is a bar in the city center called "six d.o.g.s". In its garden, you can relax and enjoy good music.
-(https://www.facebook.com/pg/sixdogsathens/about/?ref=page_internal)
+[click to see the Facebook page](https://www.facebook.com/pg/sixdogsathens/about/?ref=page_internal)
 
 Next to Monastiraki metro station, on the sixth floor of a small hotel, there is a rooftop cocktail bar called "A for Athens". It is now one of Athens’ top after-dark venues. Outrageously popular with locals and visitors alike, it has a stylish open-air lounge terrace with amazing view of the floodlit Acropolis.
-(https://aforathens.com/?lang=el)
+[click to visit website](https://aforathens.com/?lang=el)
 
 Peek a Bloom is the perfect destination for a night out or coffee. It's environment, innovative cocktails linked to names and stories, amazing coffee made with on the spot roasted beans and healthy snacks are the reason it is one of the top spot for athenians and tourists.
 [click to see location](https://goo.gl/maps/bm1Af1QsNpD2)
@@ -60,7 +60,7 @@ Another great city of Crete is Heraklion in which you can visit a lot of well-kn
 
 Spetses:
 Beautiful nature, perfect beaches and a complex history ‒ Spetses is an island that has all three. It's close enough to Athens to be enjoyed as a day trip and has enough varied sites and activities to keep you completely occupied for longer trips.
-http://www.greece-is.com/5-reasons-visit-spetses/
+[click to see more details](http://www.greece-is.com/5-reasons-visit-spetses/)
 
 Santorini is a beautiful and all natural part of the Greek Islands with many wonderful places and a variety of ways you can enjoy your time there.
 [click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/santorini)
@@ -78,6 +78,6 @@ If you want to spend a creative day with your children, get them to the Attica Z
 
 ## Other tips and tricks
 
-There are many destinations close to Athens where you can make a daily trip, relaxing from the urban noise and air pollution. One of my favorite destinations is Nafplio, a 2-hours drive from Athens, where you can stroll in the peaceful and picturesque streets and also climb the Palamidi fortress and enjoy a breathtaking view! [For more details] (https://en.wikipedia.org/wiki/Nafplio)
+There are many destinations close to Athens where you can make a daily trip, relaxing from the urban noise and air pollution. One of my favorite destinations is Nafplio, a 2-hours drive from Athens, where you can stroll in the peaceful and picturesque streets and also climb the Palamidi fortress and enjoy a breathtaking view! [For more details](https://en.wikipedia.org/wiki/Nafplio)
 
-A day trip in Sounion (2 hours car drive from Athens) is a nice choice for somebody who wants to escape from the capital. The temple of Poseidon and the view from up there worth the visit. (https://en.wikipedia.org/wiki/Sounion)
+A day trip in Sounion (2 hours car drive from Athens) is a nice choice for somebody who wants to escape from the capital. The temple of Poseidon and the view from up there worth the visit. [click to see more details](https://en.wikipedia.org/wiki/Sounion)
