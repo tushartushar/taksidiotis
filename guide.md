@@ -1,4 +1,4 @@
-# Taksidiotis - Athens travel guide by the Greeks
+﻿# Taksidiotis - Athens travel guide by the Greeks
 
 Athens is the capital city of Greece and the largest as well. Athens is one of the oldest cities in Europe with a great history of more than 3000 years.
 
@@ -27,6 +27,7 @@ From Hollywood to Athens! The best night club in the city. [click to see locatio
 ## Islands
 
 In case you have enough time for holidays, a great choice for you is to visit Chania, Crete. A city that combines wonderful nightlife as well as landscapes and well-known beaches. [click to visit website](https://www.discovergreece.com/el/greek-islands/crete/chania)
+Another great city of Crete is Heraklion in which you can visit a lot of well-known sightsees such as Knossos, Koules and Fountain Morozini.
 
 ## Extreme sports
 
