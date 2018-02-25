@@ -1,5 +1,6 @@
 # Taksidiotis – Athens travel guide by the Greeks
 
+**Important:** Please send your GitHub username to Tushar (if you have not shared it yet either in the lab or via email) so that you can contribute to this repo as a collaborator.
 ## Tasks
 - Clone this repo
 - Add interesting places (such as museum, bar, or restaurant), activity (walking tour, or food/wine-tasting tour), or anything interesting for a tourist to the guide.md file
