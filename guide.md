@@ -48,6 +48,10 @@ From Hollywood to Athens! The best night club in the city. [click to see locatio
 
 In case you have enough time for holidays, a great choice for you is to visit Chania, Crete. A city that combines wonderful nightlife as well as landscapes and well-known beaches. [click to visit website](https://www.discovergreece.com/el/greek-islands/crete/chania)
 
+Spetses:
+Beautiful nature, perfect beaches and a complex history ‒ Spetses is an island that has all three. It's close enough to Athens to be enjoyed as a day trip and has enough varied sites and activities to keep you completely occupied for longer trips. 
+http://www.greece-is.com/5-reasons-visit-spetses/ 
+
 ## Extreme sports
 
 If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vouliagmeni offer lessons in many extreme sports such as: SUP, rowing , wind surf, surf, jet ski, sailing and many more.
