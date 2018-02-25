@@ -36,6 +36,9 @@ In the top 10 in annual ratings of world's best bars, The Clumsies bar is one of
 If it's summer and you are in the capital of Greece, a good choice to spend your night is a bar in the city center called "six d.o.g.s". In its garden, you can relax and enjoy good music.
 (https://www.facebook.com/pg/sixdogsathens/about/?ref=page_internal)
 
+Next to Monastiraki metro station, on the sixth floor of a small hotel, there is a rooftop cocktail bar called "A for Athens". It is now one of Athens’ top after-dark venues. Outrageously popular with locals and visitors alike, it has a stylish open-air lounge terrace with amazing view of the floodlit Acropolis. 
+(https://aforathens.com/?lang=el)
+
 ## Night life
 
 Enjoy R&B and house music while enjoying your favorite drink at "Toyroom" in the center of Athens.
