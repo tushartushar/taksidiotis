@@ -39,6 +39,6 @@ If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vou
 
 ## Kids-activities
 
-If you want to spend a creative day with your children, get them to the Attica Zoo Park. Make sure you pick up a map to guide you around the park as it is huge, housing more than 350 animal species of which half are on the endangered list. Kids will love it.
+If you want to spend a creative day with your children, get them to the Attica Zoo Park. Make sure you pick up a map to guide you around the park as it is huge, housing more than 350 animal species of which half are on the endangered list. Kids will love it. [click to visit website] (http://www.atticapark.com/)
 
 ## Other tips and tricks
