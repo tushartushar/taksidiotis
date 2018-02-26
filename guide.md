@@ -32,7 +32,7 @@ Thanasis taverna is one of the most iconic tavernas in Athens, with its trademar
 
 Don't forget to go to "Fetticio" in Glyfada to taste delicious crepes. The best crepe on the menu is number 49! It only costs 5 euros, and is covered with chocolate, crushed cookie (like a graham cracker), bananas, strawberries, and inside is ice cream. <br /> 
 This is the crepe called "49" (It is called "49" because it is the number 49 on the menu) <br />
-![alt text](https://github.com/tushartushar/taksidiotis/blob/master/Photos/feticcio_49.jpg) <br />
+<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/feticcio_49.jpg" width="220" height="200"> <br />
 [You can visit the website here](http://www.feticcio.gr/)
 
 
