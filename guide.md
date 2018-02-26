@@ -35,6 +35,9 @@ This is the crepe called "49" (It is called "49" because it is the number 49 on 
 <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/feticcio_49.jpg" width="220" height="200"> <br />
 [You can visit the website here](http://www.feticcio.gr/)
 
+*In Pireas, the country’s biggest port, 20 minutes from Athens by train, you can taste the best, biggest burger in the whole town. People from all the regions of Athens arrive here to taste it. So don’t forget to visit Barbeque!
+http://www.mparmpeekiou.com
+
 
 ## Bars
 
@@ -75,6 +78,12 @@ Beautiful nature, perfect beaches and a complex history â€’ Spetses is an island
 [click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/santorini)
 
 * Visit Lesvos : the island of hidden harmony; a unique destination, recognised as a member of the UNESCO Global Geopark Network, with long tradition and history, inherent contrasts of natural beauty, and delightful flavours with olive oil and ouzo in the spotlight!
+
+*Corfu is maybe the most beautiful Ionian Island with so many exciting places to see. It feels a lot like being in Italy, people are always singing and the food is delicious. Don’t forget to visit the Achileon, Sissi’s holiday palace.
+
+##Theatre
+
+*If you like a bit of art visit the Municipal Theatre in Pireus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with known greek actors. 
 
 ## Extreme sports
 
