@@ -15,7 +15,7 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 * The National Archaeological Museum is a must if you want to explore the educational part of Athens and Greek history.
 [click to see location](https://goo.gl/maps/PqarnX2ounx)
 
-* It's impossible to come to Athens and not visit the Acropolis. The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance, the most famous being the Parthenon. [click to see more details] (https://en.wikipedia.org/wiki/Acropolis_of_Athens)
+* It's impossible to come to Athens and not visit the Acropolis. The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance, the most famous being the Parthenon. [click to see more details](https://en.wikipedia.org/wiki/Acropolis_of_Athens)
 
 * Your walk to Acropolis and the monument of Parthenon can idealy match with a visit to the Acropolis Museum. The Acropolis Museum is an archaeological museum focused on the findings of the archaeological site of the Acropolis of Athens. The museum was built to house every artifact found on the rock and on the surrounding slopes, from the Greek Bronze Age to Roman and Byzantine Greece.
 [Click to see more](http://www.theacropolismuseum.gr/)
