@@ -30,6 +30,12 @@ Varoulko restaurant is located in one of the most beautiful places, the Mikrolim
 Thanasis taverna is one of the most iconic tavernas in Athens, with its trademark dish being kebabs. It is a nice place to go after a walk in the center of Athens and enjoy a meal near the Monasthraki Square.
 [click to see location](https://goo.gl/maps/sA1seLsfrNG2)
 
+Don't forget to go to "Fetticio" in Glyfada to taste delicious crepes. The best crepe on the menu is number 49! It only costs 5 euros, and is covered with chocolate, crushed cookie (like a graham cracker), bananas, strawberries, and inside is ice cream. <br /> 
+This is the crepe called "49" (It is called "49" because it is the number 49 on the menu) <br />
+![alt text](https://github.com/tushartushar/taksidiotis/blob/master/Photos/feticcio_49.jpg) <br />
+[You can visit the website here](http://www.feticcio.gr/)
+
+
 ## Bars
 
 In the top 10 in annual ratings of world's best bars, The Clumsies bar is one of the hottest bars downtown. [click to visit website](http://theclumsies.gr/)
