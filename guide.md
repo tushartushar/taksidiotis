@@ -50,6 +50,9 @@ This is the crepe called "49" (It is called "49" because it is the number 49 on 
 * Peek a Bloom is the perfect destination for a night out or coffee. It's environment, innovative cocktails linked to names and stories, amazing coffee made with on the spot roasted beans and healthy snacks are the reason it is one of the top spot for athenians and tourists.
 [click to see location](https://goo.gl/maps/bm1Af1QsNpD2)
 
+* Don’t miss stunning views of the Parthenon from the famous Athens Rooftop Bar called "AthenStyle", the best spot for meeting people and chilling after a long day sightseeing. Enjoy all year happy hours cheap drinks and live the AthenStyle experience! [Click here to see more.](http://athenstyle.com/en_GB/rooftop/)
+ 
+
 ## Night life
 
 * Enjoy R&B and house music while enjoying your favorite drink at "Toyroom" in the center of Athens.
@@ -70,6 +73,8 @@ Beautiful nature, perfect beaches and a complex history ‒ Spetses is an island
 
 * Santorini is a beautiful and all natural part of the Greek Islands with many wonderful places and a variety of ways you can enjoy your time there.
 [click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/santorini)
+
+* Visit Lesvos : the island of hidden harmony; a unique destination, recognised as a member of the UNESCO Global Geopark Network, with long tradition and history, inherent contrasts of natural beauty, and delightful flavours with olive oil and ouzo in the spotlight!
 
 ## Extreme sports
 
