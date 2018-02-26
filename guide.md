@@ -35,14 +35,14 @@ Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a un
 * Thanasis taverna is one of the most iconic tavernas in Athens, with its trademark dish being kebabs. It is a nice place to go after a walk in the center of Athens and enjoy a meal near the Monasthraki Square.
 [click to see location](https://goo.gl/maps/sA1seLsfrNG2)
 
-* Don't forget to go to "Fetticio" in Glyfada to taste delicious crepes. The best crepe on the menu is number 49! It only costs 5 euros, and is covered with chocolate, crushed cookie (like a graham cracker), bananas, strawberries, and inside is ice cream. <br /> 
+* Don't forget to go to "Fetticio" in Glyfada to taste delicious crepes. The best crepe on the menu is number 49! It only costs 5 euros, and is covered with chocolate, crushed cookie (like a graham cracker), bananas, strawberries, and inside is ice cream. <br />
 This is the crepe called "49" (It is called "49" because it is the number 49 on the menu) <br />
 <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/feticcio_49.jpg" width="220" height="200"> <br />
 [You can visit the website here](http://www.feticcio.gr/)
 
 • In Pireas, the country’s biggest port, 20 minutes from Athens by train, you can taste the best, biggest burger in the whole town. People from all the regions of Athens arrive here to taste it. So don’t forget to visit Barbeque!
 http://www.mparmpeekiou.com
-
+* Agora Restaurant includes great tasty food with unique atmosphere, great service and music. Dish not to miss : Salmon Spaghetti with Vodka Sauce. (https://www.agora-restaurant.gr/)
 
 ## Bars
 
@@ -59,7 +59,7 @@ http://www.mparmpeekiou.com
 [click to see location](https://goo.gl/maps/bm1Af1QsNpD2)
 
 * Don’t miss stunning views of the Parthenon from the famous Athens Rooftop Bar called "AthenStyle", the best spot for meeting people and chilling after a long day sightseeing. Enjoy all year happy hours cheap drinks and live the AthenStyle experience! [Click here to see more.](http://athenstyle.com/en_GB/rooftop/)
- 
+* You can't have fun without a karaoke night! Find the coolest one @ Mike's Irish Pub and drink the best of whiskey. Cozy atmosphere!(http://www.mikesirishbar.gr)
 
 ## Night life
 
@@ -68,7 +68,7 @@ http://www.mparmpeekiou.com
 [check the local's opinion](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d13137578-Reviews-Toy_Room_Club-Athens_Attica.html)
 
 * From Hollywood to Athens! The best night club in the city. [click to see location](https://www.google.gr/maps/place/Lohan+Nightclub/@37.980089,23.7118973,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcdf1361cf75:0xd93f0d81a48af300!8m2!3d37.980089!4d23.714086)
-
+* Enjoy various types of rum and Cuban history in Finca Vigia . Your rum will come along with the best Bar owners of the town and a friendly atmosphere where you can easily fit in. (https://www.facebook.com/fincavigiabar/?rf=176954512815542)
 ## Islands
 
 * In case you have enough time for holidays, a great choice for you is to visit Chania, Crete. A city that combines wonderful nightlife as well as landscapes and well-known beaches. [click to visit website](https://www.discovergreece.com/el/greek-islands/crete/chania)
@@ -90,7 +90,7 @@ Beautiful nature, perfect beaches and a complex history ‒ Spetses is an island
 
 ##Theatre
 
-• If you like a bit of art visit the Municipal Theatre in Pireus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with known greek actors. 
+• If you like a bit of art visit the Municipal Theatre in Pireus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with known greek actors.
 
 ## Extreme sports
 
