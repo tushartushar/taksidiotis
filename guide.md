@@ -15,6 +15,11 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 * The National Archaeological Museum is a must if you want to explore the educational part of Athens and Greek history.
 [click to see location](https://goo.gl/maps/PqarnX2ounx)
 
+* It's impossible to come to Athens and not visit the Acropolis. The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance, the most famous being the Parthenon. [click to see more details] (https://en.wikipedia.org/wiki/Acropolis_of_Athens)
+
+* Your walk to Acropolis and the monument of Parthenon can idealy match with a visit to the Acropolis Museum. The Acropolis Museum is an archaeological museum focused on the findings of the archaeological site of the Acropolis of Athens. The museum was built to house every artifact found on the rock and on the surrounding slopes, from the Greek Bronze Age to Roman and Byzantine Greece.
+[Click to see more](http://www.theacropolismuseum.gr/)
+
 ## Restaurants/Tavernas
 
 * In the heart of Athens, under the shade of the temple of Hephaestus on the picturesque Adrianou Street, lies the unique restaurant Kuzina.
@@ -81,6 +86,8 @@ Beautiful nature, perfect beaches and a complex history ‒ Spetses is an island
 
 • Corfu is maybe the most beautiful Ionian Island with so many exciting places to see. It feels a lot like being in Italy, people are always singing and the food is delicious. Don’t forget to visit the Achileon, Sissi’s holiday palace.
 
+* Lefkada: Amazing beaches, easily accesible as you can travel there by car. You can combine your vacation there by visiting other Ionian islands. Lefkada is quite a pieceful island with fewer tourists than other greek islands.
+
 ##Theatre
 
 • If you like a bit of art visit the Municipal Theatre in Pireus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with known greek actors. 
@@ -98,6 +105,8 @@ Beautiful nature, perfect beaches and a complex history ‒ Spetses is an island
 [For more details click here](http://www.atticapark.com/en/)
 
 ## Other tips and tricks
+
+* Greece is a small country, so it is a good idea to travel almost all around the country and not only to one place, since you decided to travel all the way to the southern country of Europe.
 
 * There are many destinations close to Athens where you can make a daily trip, relaxing from the urban noise and air pollution. One of my favorite destinations is Nafplio, a 2-hours drive from Athens, where you can stroll in the peaceful and picturesque streets and also climb the Palamidi fortress and enjoy a breathtaking view! [For more details click here](https://en.wikipedia.org/wiki/Nafplio)
 
