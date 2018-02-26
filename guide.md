@@ -75,9 +75,10 @@ If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vou
 ## Kids-activities
 
 If you want to spend a creative day with your children, get them to the Attica Zoo Park. Make sure you pick up a map to guide you around the park as it is huge, housing more than 350 animal species of which half are on the endangered list. Kids will love it.
+[For more details click here](http://www.atticapark.com/en/)
 
 ## Other tips and tricks
 
-There are many destinations close to Athens where you can make a daily trip, relaxing from the urban noise and air pollution. One of my favorite destinations is Nafplio, a 2-hours drive from Athens, where you can stroll in the peaceful and picturesque streets and also climb the Palamidi fortress and enjoy a breathtaking view! [For more details](https://en.wikipedia.org/wiki/Nafplio)
+There are many destinations close to Athens where you can make a daily trip, relaxing from the urban noise and air pollution. One of my favorite destinations is Nafplio, a 2-hours drive from Athens, where you can stroll in the peaceful and picturesque streets and also climb the Palamidi fortress and enjoy a breathtaking view! [For more details click here](https://en.wikipedia.org/wiki/Nafplio)
 
 A day trip in Sounion (2 hours car drive from Athens) is a nice choice for somebody who wants to escape from the capital. The temple of Poseidon and the view from up there worth the visit. [click to see more details](https://en.wikipedia.org/wiki/Sounion)
