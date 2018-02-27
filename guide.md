@@ -42,7 +42,7 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 *In Glyfada, you should definetely visit Buffalo Gelato, to taste the most special ice - cream in many different and unusual flavors and of course their famous
  Buffle cone which is a waffle in the shape of cone filled with chocolate, ice-cream and any other ingredient that you want!
  [click to view website](http://bufalagelato.com)
- <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/buffalo_gelato.png" width="300" height="200"> <br/>
+ <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/buffalo_gelato.png" width="170" height="150"> <br/>
 
 * In the heart of Athens, under the shade of the temple of Hephaestus on the picturesque Adrianou Street, lies the unique restaurant Kuzina.
 The old mansion where the restaurant is hosted keeps a hidden surprise for its guests: the breathtaking view to Acropolis from its Tarazza!
@@ -128,7 +128,7 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * To enjoy the most spectacular sunset, alleys, beaches and a beautiful white and blue architecture of houses Santorini is the idial island to go! It's 
   famous about the sunset, the amazing view from all the places and how romantic is there. 
-  For the thing and places you should visit when you go in Santorini click.[click here](https://santorinidave.com/best-things-to-do-santorini)
+  For the things to do and places you should visit when you go in Santorini [click here](https://santorinidave.com/best-things-to-do-santorini)
 
 * In case you have enough time for holidays, a great choice for you is to visit Chania, Crete. A city that combines wonderful nightlife as well as landscapes and well-known beaches. [click to visit website](https://www.discovergreece.com/el/greek-islands/crete/chania)
 
