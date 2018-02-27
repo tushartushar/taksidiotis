@@ -4,6 +4,10 @@ Athens is the capital city of Greece and the largest as well. Athens dominates t
 
 Take a look at the amazing video capturing Athens at night ["City of Athens - A Portrait of a Changing Metropolis"](https://vimeo.com/256590553) by Alexandros Maragos.
 
+## Coffee shops
+
+* Cap Cap is a coffee shop, bistro, tea room or simplier the sweetest fairytale shop. Every few months Cap Cap changes its theme and is redecorated and has a brand new menu inspired by books, movies and TV series such as Game of Thrones, Harry Potter, Alice in Wonderland etc. One of the most beautiful places in Athens and with really delicious options too. Currently there are two shops, one located in Aigaleo and one located in Elliniko within walking distance from those metro stations.
+
 ## History
 
 * One of the Seven Wonders of the Ancient World, the Colossus of Rhodes was a statue of the Greek titan-god of the sun Helios, erected in the city of Rhodes, on the Greek island of the same name, by Chares of Lindos in 280 BC. More info here: https://en.wikipedia.org/wiki/Colossus_of_Rhodes
@@ -116,6 +120,10 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic décor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here (https://www.facebook.com/cinderelladisco/?rf=929806063741649)
 
+* Where street meets fun. Where urban culture is expressed. Where? ΕΚΕΙ. Check this place out if you are more into a more chill way of partying. There
+are events every Friday and Saturday with different music on the ground floor(usually mainstream anthems or R&B) and the basement(techno, electro).
+(https://www.facebook.com/ekei.lekka23/)
+
 ## Islands
 
 * In case you have enough time for holidays, a great choice for you is to visit Chania, Crete. A city that combines wonderful nightlife as well as landscapes and well-known beaches. [click to visit website](https://www.discovergreece.com/el/greek-islands/crete/chania)
@@ -146,6 +154,8 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Amorgos: One of the most impressive Cycladic islands, Amorgos, with its azure waters, unique landscape and picturesque villages is the perfect choise for relaxing holidays in the Aegean.
 
+* Antiparos: A small island in the southern Aegean, at the heart of the Cyclades, which is less than one nautical mile from Paros, the port to which it is connected with a local ferry. Antiparos is the place to be if you are looking for a place with many young people, relaxation and fun at the same time. Make sure to eat at Ntamis and spend a night at the La Luna Disco. For accommodation check out the island's camping.
+
 ## Natural Resorts
 
 * Near the city of Volos (in the Magnisia regional unit), one can find the magical mountain of Pilio. According to myth, this is where the gods used to live during the summer, and with good reason!!! The beauty of Pilio is truly something to behold since it is (possibly) the Greece's nature at it's absolute best! Combining breath-taking mountain forrests and sunny beaches with clear blue waters, this place is a must visit. And most importantly, do not be fooled by the beautiful sea into thinking that this is a place to only visit during the summer. If you are a friend of snow and skiing, just don't think twice.
@@ -160,7 +170,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 ## Cinema
 
-* Cine Thisseon: With a direct view to the one and only Acropolis, Cine Thisseon is a classic summer open air cinema in Athens to check out. Showing films since 1935, it can be found on the paved walkway that connects Thission with Filoppapou Hill. Typically, the operation of the cinema begins the last week of April or the first week of May and ends in late October. [click to see location](https://goo.gl/maps/L2ENKs1wHb12) 
+* Cine Thisseon: With a direct view to the one and only Acropolis, Cine Thisseon is a classic summer open air cinema in Athens to check out. Showing films since 1935, it can be found on the paved walkway that connects Thission with Filoppapou Hill. Typically, the operation of the cinema begins the last week of April or the first week of May and ends in late October. [click to see location](https://goo.gl/maps/L2ENKs1wHb12)
 
 ## Extreme sports
 
@@ -186,7 +196,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 ## Shopping
 
-* The Mall Athens: Located at Marousi, next to the "Neratziotissa station" on the Attiki Odos motorway, it is the biggest shopping centre of Greece hosting more than 200 shopping alternatives. Apart from shopping, the Mall also hosts lots of restaurants and coffee shops, cutting-edge cinemas and leisure areas for all family members. You can get there either by train or suburban railway. [click to see location](https://goo.gl/maps/9rzPaefnvvy) 
+* The Mall Athens: Located at Marousi, next to the "Neratziotissa station" on the Attiki Odos motorway, it is the biggest shopping centre of Greece hosting more than 200 shopping alternatives. Apart from shopping, the Mall also hosts lots of restaurants and coffee shops, cutting-edge cinemas and leisure areas for all family members. You can get there either by train or suburban railway. [click to see location](https://goo.gl/maps/9rzPaefnvvy)
 
 ## Other tips and tricks
 
