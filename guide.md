@@ -158,6 +158,8 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Amorgos: One of the most impressive Cycladic islands, Amorgos, with its azure waters, unique landscape and picturesque villages is the perfect choise for relaxing holidays in the Aegean.
 
+* Milos: One of the most beautiful islands of Greece. Its volcanic activity in combination with the turquoise water make a unique landscape that every tourist should visit. Milos is ideal for young couples and a private means of transport would be recommended.
+
 ## Natural Resorts
 
 * Near the city of Volos (in the Magnisia regional unit), one can find the magical mountain of Pilio. According to myth, this is where the gods used to live during the summer, and with good reason!!! The beauty of Pilio is truly something to behold since it is (possibly) the Greece's nature at it's absolute best! Combining breath-taking mountain forrests and sunny beaches with clear blue waters, this place is a must visit. And most importantly, do not be fooled by the beautiful sea into thinking that this is a place to only visit during the summer. If you are a friend of snow and skiing, just don't think twice.
