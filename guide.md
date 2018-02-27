@@ -1,4 +1,4 @@
-# Taksidiotis - Athens travel guide by the Greeks
+﻿# Taksidiotis - Athens travel guide by the Greeks
 
 Athens is the capital city of Greece and the largest as well. Athens dominates the Attica region and is one of the world's oldest cities, with its recorded history spanning over 3,400 years.
 
@@ -33,6 +33,9 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 [Click to see more](http://www.theacropolismuseum.gr/)
 
 * Apart from Athens, if you are in Greece and you have decided to visit parts of the rest of the country as well, one of the most important and most visited Greek museums is the Delphi Archaeological Museum. This museum displays some of the most valuable ancient Greece's surviving treasures, like Heniokhos (also known as Charioteer of Delphi), the Sphinx of Naxos and many more. Delphi was considered to be the navel (or center) of the earth and should definitely be one of the top priority destinations of every visitor.
+
+* Don't forget to visit the Archaeological Museum of Delphi.The Archaeological Museum of Delphi is one of the most important in Greece since it exhibits the history of the Delphic sanctuary, site of the most famous ancient Greek oracle. Its rich collections comprise primarily architectural sculpture and statues donated to the sanctuary reflecting its religious, political and artistic activities from its early years in the 8th century BC to its decline in Late Antiquity.[Click to see more] (http://odysseus.culture.gr/h/1/eh151.jsp?obj_id=3404)
+
 
 ## Restaurants/Tavernas
 
@@ -71,7 +74,7 @@ http://www.mparmpeekiou.com
 * While in Athens , you shouldn't miss the opportunity to visit Thanasis, one of the oldest kebab taverns in Athens.Located in Monastiraki square and dating back to 1964, Thanasis is the perfect place to eat a traditional greek kebab!
 [You can visit the website here](http://othanasis.com)
 
-
+*Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website] (http://www.ciaoitalia.gr/)  
 
 ## Bars
 
@@ -108,7 +111,10 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 [check the locals' opinion](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d13137578-Reviews-Toy_Room_Club-Athens_Attica.html)
 
 * From Hollywood to Athens! The best night club in the city. [click to see location](https://www.google.gr/maps/place/Lohan+Nightclub/@37.980089,23.7118973,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcdf1361cf75:0xd93f0d81a48af300!8m2!3d37.980089!4d23.714086)
+
 * Enjoy various types of rum and Cuban history in Finca Vigia . Your rum will come along with the best Bar owners of the town and a friendly atmosphere where you can easily fit in. (https://www.facebook.com/fincavigiabar/?rf=176954512815542)
+
+* Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic décor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here (https://www.facebook.com/cinderelladisco/?rf=929806063741649)
 
 ## Islands
 
