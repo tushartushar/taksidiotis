@@ -22,6 +22,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * One of the most commonly used gadget these days, an alarm clock has its origin in ancient Greece. In due course of time and with the proper sophistication of technology, the alarm clock went through a number of changes from a mechanical alarm to the modern gadgets like cell phone, which come with inbuilt alarm. But the first of alarms used by ancient Greeks were nothing like today. They used to integrate mechanism to time the alarm which would sound off delicate water organs or pebbles into drums.
 
+* The Greeks also are important for the contribution to sports. "Gymnasiums" and "stadiums" today--are names that both come from Greek.  There are lots of other echoes of the Greeks in our sports tradition of today. Some of the universal track and field events (e.g., the javelin and the discus) come out of Greek tradition.  Events like the Marathon and the Decathalon have Greek names, though they weren't specific Greek events. Perhaps the best example of Greek influence on our sports tradition: the Olympic games.
+
 ## Restaurants/Tavernas
 
 * In the heart of Athens, under the shade of the temple of Hephaestus on the picturesque Adrianou Street, lies the unique restaurant Kuzina.
@@ -46,7 +48,12 @@ This is the crepe called "49" (It is called "49" because it is the number 49 on 
 http://www.mparmpeekiou.com
 * Agora Restaurant includes great tasty food with unique atmosphere, great service and music. Dish not to miss : Salmon Spaghetti with Vodka Sauce. (https://www.agora-restaurant.gr/)
 
+
 * The various Greek beaches not only benefit us with their waters, where we can swim and cool off the hot days of summer, but also with the organisms that leave there. Therefore you should definitely visit a fish tavern, like 'Logo Timis' in Likovrisi. It is a very clean place with a very hostile owner, and his wife is the best cooker ever. Try the 'regosalata' plate, it is just awesome!
+
+* When it comes to greek traditional food, "Christoforos" restaurant is the right place to visit! A cozy atmosphere and plenty of tasty plates, such as lamp, gyros, souvlaki, mousaka, all in affordable prices! The quality and quantity won't disappoint you!
+
+
 ## Bars
 
 * In the top 10 in annual ratings of world's best bars, The Clumsies bar is one of the hottest bars downtown. [click to visit website](http://theclumsies.gr/)
@@ -64,7 +71,11 @@ http://www.mparmpeekiou.com
 * Don’t miss stunning views of the Parthenon from the famous Athens Rooftop Bar called "AthenStyle", the best spot for meeting people and chilling after a long day sightseeing. Enjoy all year happy hours cheap drinks and live the AthenStyle experience! [Click here to see more.](http://athenstyle.com/en_GB/rooftop/)
 * You can't have fun without a karaoke night! Find the coolest one @ Mike's Irish Pub and drink the best of whiskey. Cozy atmosphere!(http://www.mikesirishbar.gr)
 
+
 * For a more traditional approach try the night life of Aigaleo. On its central road there are many greek bars (mezedopolia) to choose from. The wine is good but the food is better. You will be surprised by the quantities, there is no way you return home being hungry!!
+
+* If you want to taste your drink like... experimenters visit "MoMix" ! A Molecular Mixology Bar Concept in Athens, in which you can travel your mind tasting cocktails & drinks in solid form and many other alternative ways… MoMix was created for traveling customer’s senses to another Level!  
+
 
 ## Night life
 
@@ -96,6 +107,10 @@ Beautiful nature, perfect beaches and a complex history ‒ Spetses is an island
 
 * Serifos: an island with wild beauty and relaxing atmosphere. Not many people visit this island per year, therefore is perfect for those who want to run away from the hustle and bustle of Athens. The beaches are mainly sandy with crystal clear water. If you ever get the chance to go to the island, don't forget to go to the castle and wait for the sunrise. The view will reward you. [Click for more info](https://www.discovergreece.com/el/greek-islands/cyclades/serifos)
 
+* Mykonos:  Famous for its nightlife, though Mykonos has a lot more to offer. Beautiful and exotic rocky beaches, well-known restaurants offering traditional plates, mysterious and wonderful alleys. Mykonos combine both the quiet and the frostbite memories you want to add in your summer vacations!  
+[click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/mykonos)
+
+
 ##Theatre
 
 • If you like a bit of art visit the Municipal Theatre in Pireus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with known greek actors.
@@ -119,3 +134,5 @@ Beautiful nature, perfect beaches and a complex history ‒ Spetses is an island
 * There are many destinations close to Athens where you can make a daily trip, relaxing from the urban noise and air pollution. One of my favorite destinations is Nafplio, a 2-hours drive from Athens, where you can stroll in the peaceful and picturesque streets and also climb the Palamidi fortress and enjoy a breathtaking view! [For more details click here](https://en.wikipedia.org/wiki/Nafplio)
 
 * A day trip in Sounion (2 hours car drive from Athens) is a nice choice for somebody who wants to escape from the capital. The temple of Poseidon and the view from up there worth the visit. [click to see more details](https://en.wikipedia.org/wiki/Sounion)
+
+* Don't forget your hat and your sunglasses!!
