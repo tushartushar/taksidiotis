@@ -169,7 +169,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * If you like a bit of art visit the Municipal Theatre in Piraeus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with Greek well-known actors.
 
 * Odeon of Herodes Atticus: A stone theatre structure located on the southwest slope of the Acropolis of Athens, Greece. The building was completed in 161 AD and then renovated in 1950. Since then it has been the main venue of the Athens Festival, which runs from May through October each year, featuring a variety of acclaimed Greek as well as International performances.<br/>
-<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/Odeon_of_Herodes_Atticus.jpg"><br/>
+<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/Odeon_of_Herodes_Atticus.jpg" width="220" height="200"><br/>
 [click for more information regarding access, history and upcoming events](http://greekfestival.gr/en/venues/view/odeon-of-herodes-atticus)
 
 ## Cinema
@@ -217,3 +217,9 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * Mobile Phone Data is important when you’ve stopped using paper maps. Outside the central subway stations you’ll find people set up selling sim cards with various data packs on offer. While they are looking to sell to locals – as a tourist it’s an absolute bargain for the mouth of data you get plus the ability to book bars and restaurants.
 
 * The Greeks will be more friendly and eager to help if you try to speak some Greek, too. Just a couple of words are fine, they love it when they hear a stranger speaking their language. So, say “kalimera” instead of “good morning” and “efxaristo” instead of “thank you”, and you will see some big proud smiles in their faces.
+
+## Accommodation
+
+* Electra Palace Hotel - The five star Electra Palace with a capacity of 150 rooms situated in a very central location only a few minutes walk from the Acropolis, the main business and shopping centre of Athens. The hotel has a neo classic design in the interior and the exterior in perfect harmony with the architectural style of Plaka. Sauna, Fitness Centre, Spa & Wellness Centre, Massage, Jacuzzi, Steam Bath, , Indoor Swimming Pool, Outdoor Swimming Pool
+
+* Margi Hotel - The Margi Hotel situated in the coastal resort of Vouliagmeni one of the upmarket areas of the Athenian Riviera 20 km from the Athens international airport and 18 km from the centre of Athens. This boutique hotel is near to the beach of Vouliagmeni, one of the most well organised and famous beaches of Athens, and all the sport facilities of the area. Very near is the Lake of Vouliagmeni, Glyfada with its shopping centres, trendy bars and nightlife while a few kilometres to the south is the resort of Varkiza. The hotel is an ideal place to stay, it combines the sophisticate hotel of a cosmopolitan city in a seaside resort . You can enjoy the end of a busy day with a drink at the outdoor swimming pool and later with a dinner at the hotel's fine restaurant.
