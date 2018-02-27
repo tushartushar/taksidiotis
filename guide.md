@@ -80,7 +80,7 @@ http://www.mparmpeekiou.com
 
 * For me the best place at the center of Athens is "Avli", which is located at Psirri, Athens. If you are lucky enough to find the tiny door, open it and you will feel like you've entered the square of a small island village with white walls and blue shutters. It's the place were locals go to eat Greek traditional plates, all homemade dishes, and drink raki, tsipouro, ouzo, beer and wine. Despite all the above mentioned, what I personally love the most is the ambience of the place, which makes you forget you are a stranger and someway unites you with other people.
 Here you can take a look at the inside:
-<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/avli.jpg" width="500" height="500">
+<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/avli.jpg">
 Because of its' difficult location to find, we provide you with one here:
 [click to see location](https://goo.gl/maps/XeHgK5bzf2v)
 
