@@ -39,6 +39,11 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## Restaurants/Tavernas
 
+*In Glyfada, you should definetely visit Buffalo Gelato, to taste the most special ice - cream in many different and unusual flavors and of course their famous
+ Buffle cone which is a waffle in the shape of cone filled with chocolate, ice-cream and any other ingredient that you want!
+ [click to view website](http://bufalagelato.com)
+ <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/buffalo_gelato.png" width="300" height="200"> <br/>
+
 * In the heart of Athens, under the shade of the temple of Hephaestus on the picturesque Adrianou Street, lies the unique restaurant Kuzina.
 The old mansion where the restaurant is hosted keeps a hidden surprise for its guests: the breathtaking view to Acropolis from its Tarazza!
 Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a unique menu that makes Kuzina stand out for combining traditional cuisine and culinary inventiveness.
@@ -77,6 +82,9 @@ http://www.mparmpeekiou.com
 * Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website] (http://www.ciaoitalia.gr/)  
 
 ## Bars
+
+* In the heart of the town, Speakeasy is a must visit bar with live classic jazz music  and great decoration and tables inspired by 80's.
+  [click to visit website](https://foursquare.com/v/the-speakeasy/52b8ab6c11d2bde308cd9ae7) 
 
 * In the top 10 in annual ratings of world's best bars, The Clumsies bar is one of the hottest bars downtown. [click to visit website](http://theclumsies.gr/)
 [reference to 2017 list of world's best bars](https://www.worlds50bestbars.com/fifty-best-bars-list-2017/?ist=6)
@@ -117,6 +125,10 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 * Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic décor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here (https://www.facebook.com/cinderelladisco/?rf=929806063741649)
 
 ## Islands
+
+* To enjoy the most spectacular sunset, alleys, beaches and a beautiful white and blue architecture of houses Santorini is the idial island to go! It's 
+  famous about the sunset, the amazing view from all the places and how romantic is there. 
+  For the thing and places you should visit when you go in Santorini click.[click here](https://santorinidave.com/best-things-to-do-santorini)
 
 * In case you have enough time for holidays, a great choice for you is to visit Chania, Crete. A city that combines wonderful nightlife as well as landscapes and well-known beaches. [click to visit website](https://www.discovergreece.com/el/greek-islands/crete/chania)
 
