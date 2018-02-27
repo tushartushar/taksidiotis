@@ -82,6 +82,10 @@ http://www.mparmpeekiou.com
 
 * If you want to taste your drink like... experimenters visit "MoMix" ! A Molecular Mixology Bar Concept in Athens, in which you can travel your mind tasting cocktails & drinks in solid form and many other alternative ways� MoMix was created for traveling customer�s senses to another Level!  
 
+* MoMix Kerameikos - The first bar in Athens which combined molecular gastronomy with bartending, creating special cocktails for guests who like experiments.
+Opened in November 2012 and soon conquered the Athenians, and offers cocktails in alternative forms, in addition to liquid. The Momix team with lots of imagination and playfulness, shuffles foams, powders and jellies and serves the most original coktails in cups, plates and bowls!
+[click to see location](https://www.google.gr/maps/place/MoMix+Bar+Kerameikos/@37.981228,23.7103453,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcded85399e7:0x58470aee4d500a46!8m2!3d37.981228!4d23.712534)
+
 
 ## Night life
 
