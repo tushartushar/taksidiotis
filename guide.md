@@ -6,6 +6,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## History
 
+* Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress.
+
 * Democracy was inherited to the world by ancient Greece and especially Athens where it was developed around the fifth century BC. The longest-lasting democratic leader was Pericles. [click to see more details](https://en.wikipedia.org/wiki/Athenian_democracy)
 
 * Mathematics and specifically geometry were greatly advanced in ancient Greece. Among the most famous mathematicians are Pythagoras, Euclides and Thales.  [click to see more details](https://en.wikipedia.org/wiki/Greek_mathematics)
