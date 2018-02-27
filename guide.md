@@ -87,17 +87,17 @@ This is the crepe called "49" (It is called "49" because it is the number 49 on 
 * While in Athens , you shouldn't miss the opportunity to visit "Thanasis", one of the oldest kebab taverns in Athens.Located in Monastiraki square and dating back to 1964, Thanasis is the perfect place to eat a traditional Greek kebab!
 [You can visit the website here](http://othanasis.com)
 
-<<<<<<< HEAD
+
 * For me the best place at the center of Athens is "Avli", which is located at Psirri, Athens. If you are lucky enough to find the tiny door, open it and you will feel like you've entered the square of a small island village with white walls and blue shutters. It's the place were locals go to eat Greek traditional plates, all homemade dishes, and drink raki, tsipouro, ouzo, beer and wine. Despite all the above mentioned, what I personally love the most is the ambience of the place, which makes you forget you are a stranger and someway unites you with other people.
 Here you can take a look at the inside:
-<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/avli.jpg">
+<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/avli.jpg" width="220" height="200">
 Because of its' difficult location to find, we provide you with one here:
 [click to see location](https://goo.gl/maps/XeHgK5bzf2v)
 
 * Don't forget to visit the Italian restaurant named Ciao. Located in Pagrati, is the best place for pasta, pizza and many other Italian recipes, for sure you will not be disappointed! For more info [click to see the website] [You can visit the website here](http://www.ciaoitalia.gr/)  
-=======
+
 * Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website] (http://www.ciaoitalia.gr/)  
->>>>>>> 777b49809b5162f8b4e4978c210b77364e8beed3
+
 
 ## Bars
 
