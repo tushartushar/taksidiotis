@@ -6,6 +6,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## History
 
+* One of the Seven Wonders of the Ancient World, the Colossus of Rhodes was a statue of the Greek titan-god of the sun Helios, erected in the city of Rhodes, on the Greek island of the same name, by Chares of Lindos in 280 BC. More info here: https://en.wikipedia.org/wiki/Colossus_of_Rhodes
+
 * Democracy was inherited to the world by ancient Greece and especially Athens where it was developed around the fifth century BC. The longest-lasting democratic leader was Pericles. [click to see more details](https://en.wikipedia.org/wiki/Athenian_democracy)
 
 * Mathematics and specifically geometry were greatly advanced in ancient Greece. Among the most famous mathematicians are Pythagoras, Euclides and Thales.  [click to see more details](https://en.wikipedia.org/wiki/Greek_mathematics)
