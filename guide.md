@@ -46,7 +46,7 @@ This is the crepe called "49" (It is called "49" because it is the number 49 on 
 <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/feticcio_49.jpg" width="220" height="200"> <br />
 [You can visit the website here](http://www.feticcio.gr/)
 
-� In Pireas, the country�s biggest port, 20 minutes from Athens by train, you can taste the best, biggest burger in the whole town. People from all the regions of Athens arrive here to taste it. So don�t forget to visit Barbeque!
+* In Pireas, the country is biggest port, 20 minutes from Athens by train, you can taste the best, biggest burger in the whole town. People from all the regions of Athens arrive here to taste it. So don't forget to visit Barbeque!
 http://www.mparmpeekiou.com
 * Agora Restaurant includes great tasty food with unique atmosphere, great service and music. Dish not to miss : Salmon Spaghetti with Vodka Sauce. (https://www.agora-restaurant.gr/)
 
@@ -74,13 +74,12 @@ http://www.mparmpeekiou.com
 * Peek a Bloom is the perfect destination for a night out or coffee. It's environment, innovative cocktails linked to names and stories, amazing coffee made with on the spot roasted beans and healthy snacks are the reason it is one of the top spot for athenians and tourists.
 [click to see location](https://goo.gl/maps/bm1Af1QsNpD2)
 
-* Don�t miss stunning views of the Parthenon from the famous Athens Rooftop Bar called "AthenStyle", the best spot for meeting people and chilling after a long day sightseeing. Enjoy all year happy hours cheap drinks and live the AthenStyle experience! [Click here to see more.](http://athenstyle.com/en_GB/rooftop/)
+* Don't miss stunning views of the Parthenon from the famous Athens Rooftop Bar called "AthenStyle", the best spot for meeting people and chilling after a long day sightseeing. Enjoy all year happy hours cheap drinks and live the AthenStyle experience! [Click here to see more.](http://athenstyle.com/en_GB/rooftop/)
 * You can't have fun without a karaoke night! Find the coolest one @ Mike's Irish Pub and drink the best of whiskey. Cozy atmosphere!(http://www.mikesirishbar.gr)
 
 
 * For a more traditional approach try the night life of Aigaleo. On its central road there are many greek bars (mezedopolia) to choose from. The wine is good but the food is better. You will be surprised by the quantities, there is no way you return home being hungry!!
 
-* If you want to taste your drink like... experimenters visit "MoMix" ! A Molecular Mixology Bar Concept in Athens, in which you can travel your mind tasting cocktails & drinks in solid form and many other alternative ways� MoMix was created for traveling customer�s senses to another Level!  
 
 * MoMix Kerameikos - The first bar in Athens which combined molecular gastronomy with bartending, creating special cocktails for guests who like experiments.
 Opened in November 2012 and soon conquered the Athenians, and offers cocktails in alternative forms, in addition to liquid. The Momix team with lots of imagination and playfulness, shuffles foams, powders and jellies and serves the most original coktails in cups, plates and bowls!
@@ -113,7 +112,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Visit Lesvos : the island of hidden harmony; a unique destination, recognised as a member of the UNESCO Global Geopark Network, with long tradition and history, inherent contrasts of natural beauty, and delightful flavours with olive oil and ouzo in the spotlight!
 
-� Corfu is maybe the most beautiful Ionian Island with so many exciting places to see. It feels a lot like being in Italy, people are always singing and the food is delicious. Don�t forget to visit the Achileon, Sissi�s holiday palace.
+* Corfu is maybe the most beautiful Ionian Island with so many exciting places to see. It feels a lot like being in Italy, people are always singing and the food is delicious. Don't forget to visit the Achileon, Sissi�s holiday palace.
 
 * Lefkada: Amazing beaches, easily accesible as you can travel there by car. You can combine your vacation there by visiting other Ionian islands. Lefkada is quite a pieceful island with fewer tourists than other greek islands.
 
@@ -122,10 +121,13 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * Mykonos:  Famous for its nightlife, though Mykonos has a lot more to offer. Beautiful and exotic rocky beaches, well-known restaurants offering traditional plates, mysterious and wonderful alleys. Mykonos combine both the quiet and the frostbite memories you want to add in your summer vacations!  
 [click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/mykonos)
 
+* Skiathos: Skiathos is among the most popular islands of Greece. Famous for the golden beaches, the green nature and the vivid atmosphere, Skiathos Greece is a favourite destination for both youth and families. The most popular beaches are located on the southern side of the island, including the famous bay of Koukounaries. However, very impressive is the exotic beach of Lalaria, accessible only by boat trip that also goes to the Medieval Castle of the island. The Town is the centre of activities on the island, where visitors head in the evenings to enjoy a relaxing drink. From Skiathos island, visitors can make day excursions to Skopelos and Alonissos, the other islands of Sporades. 
+
 
 ## Theatre
 
 * If you like a bit of art visit the Municipal Theatre in Pireus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with known greek actors.
+
 
 ## Extreme sports
 
