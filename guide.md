@@ -8,6 +8,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * Cap Cap is a coffee shop, bistro, tea room or simplier the sweetest fairytale shop. Every few months Cap Cap changes its theme and is redecorated and has a brand new menu inspired by books, movies and TV series such as Game of Thrones, Harry Potter, Alice in Wonderland etc. One of the most beautiful places in Athens and with really delicious options too. Currently there are two shops, one located in Aigaleo and one located in Elliniko within walking distance from those metro stations.
 
+* Mind The Cup - Far from the madding crowds in residential Peristeri, Mind the Cup is a friendly establishment where you can have high-grade coffee in a beautiful space adorned with a mix of concrete and wood.
+
 ## History
 
 * One of the Seven Wonders of the Ancient World, the Colossus of Rhodes was a statue of the Greek titan-god of the sun Helios, erected in the city of Rhodes, on the Greek island of the same name, by Chares of Lindos in 280 BC. More info here: https://en.wikipedia.org/wiki/Colossus_of_Rhodes
@@ -26,7 +28,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## Museums/Sightseeing
 
-* Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress. More info here: https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes
+* Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress. More info here:
+[click to see more details] (https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes)
 
 * The National Archaeological Museum is a must if you want to explore the educational part of Athens and Greek history.
 [click to see location](https://goo.gl/maps/PqarnX2ounx)
