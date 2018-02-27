@@ -1,5 +1,7 @@
 ﻿# Taksidiotis - Athens travel guide by the Greeks
 
+<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/athensguide.jpg"> <br />
+
 Athens is the capital city of Greece and the largest as well. Athens dominates the Attica region and is one of the world's oldest cities, with its recorded history spanning over 3,400 years.
 
 Take a look at the amazing video capturing Athens at night ["City of Athens - A Portrait of a Changing Metropolis"](https://vimeo.com/256590553) by Alexandros Maragos.
