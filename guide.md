@@ -12,6 +12,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * The name of Athens, connected to the name of its patron goddess Athena, originates from an earlier Pre-Greek language.
 
+* Athens was named according to the Greek mythology from competition that the goddess Athena had with Poseidon  about who will become protector of the city. The myth says that Poseidon gave a spring with sea water whilst Athena offered an olive tree as she touched the ground of the sacred rock of the Acropolis. The people of Athens choose Athena as their protector and so the city was named after the goddess of wisdom. The myth is symbolic but the two Gods symbolising the strength of Athens as a city of wisdom and as a sea power. The first settlement of Athens 3000 BC was situated on the rock of Acropolis.
+
 * The National Archaeological Museum is a must if you want to explore the educational part of Athens and Greek history.
 [click to see location](https://goo.gl/maps/PqarnX2ounx)
 
