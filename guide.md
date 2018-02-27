@@ -1,7 +1,5 @@
 ﻿# Taksidiotis - Athens travel guide by the Greeks
 
-<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/athensguide.jpg"> <br />
-
 Athens is the capital city of Greece and the largest as well. Athens dominates the Attica region and is one of the world's oldest cities, with its recorded history spanning over 3,400 years.
 
 Take a look at the amazing video capturing Athens at night ["City of Athens - A Portrait of a Changing Metropolis"](https://vimeo.com/256590553) by Alexandros Maragos.
@@ -82,9 +80,9 @@ http://www.mparmpeekiou.com
 
 * For me the best place at the center of Athens is "Avli", which is located at Psirri, Athens. If you are lucky enough to find the tiny door, open it and you will feel like you've entered the square of a small island village with white walls and blue shutters. It's the place were locals go to eat Greek traditional plates, all homemade dishes, and drink raki, tsipouro, ouzo, beer and wine. Despite all the above mentioned, what I personally love the most is the ambience of the place, which makes you forget you are a stranger and someway unites you with other people.
 Here you can take a look at the inside:
-<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/avli.jpg">
+<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/avli.jpg" width="500" height="500">
 Because of its' difficult location to find, we provide you with one here:
-[click on the following link to see the location](https://goo.gl/maps/XeHgK5bzf2v)
+[click to see location](https://goo.gl/maps/XeHgK5bzf2v)
 
 * Don't forget to visit the Italian restaurant named Ciao. Located in Pagrati, is the best place for pasta, pizza and many other Italian recipes, for sure you will not be disappointed! For more info [click to see the website] (http://www.ciaoitalia.gr/)  
 
