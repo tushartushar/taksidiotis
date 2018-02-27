@@ -22,6 +22,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 * Your walk to Acropolis and the monument of Parthenon can idealy match with a visit to the Acropolis Museum. The Acropolis Museum is an archaeological museum focused on the findings of the archaeological site of the Acropolis of Athens. The museum was built to house every artifact found on the rock and on the surrounding slopes, from the Greek Bronze Age to Roman and Byzantine Greece.
 [Click to see more](http://www.theacropolismuseum.gr/)
 
+* Apart from Athens, if you are in Greece and you have decided to visit parts of the rest of the country as well, one of the most important and most visited greek museums is the Delphi Archaeological Museum. This museum displays some of the most valuable ancient Greece's surviving treasures, like Heniokhos (also known as Charioteer of Delphi), the Sphinx of Naxos and many more. Delphi was considered to be the navel (or center) of the earth and should definitely be one of the top priority destinations of every visitor.
+
 * One of the most commonly used gadget these days, an alarm clock has its origin in ancient Greece. In due course of time and with the proper sophistication of technology, the alarm clock went through a number of changes from a mechanical alarm to the modern gadgets like cell phone, which come with inbuilt alarm. But the first of alarms used by ancient Greeks were nothing like today. They used to integrate mechanism to time the alarm which would sound off delicate water organs or pebbles into drums.
 
 * The Greeks also are important for the contribution to sports. "Gymnasiums" and "stadiums" today--are names that both come from Greek.  There are lots of other echoes of the Greeks in our sports tradition of today. Some of the universal track and field events (e.g., the javelin and the discus) come out of Greek tradition.  Events like the Marathon and the Decathalon have Greek names, though they weren't specific Greek events. Perhaps the best example of Greek influence on our sports tradition: the Olympic games.
@@ -40,6 +42,8 @@ Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a un
 
 * Thanasis taverna is one of the most iconic tavernas in Athens, with its trademark dish being kebabs. It is a nice place to go after a walk in the center of Athens and enjoy a meal near the Monasthraki Square.
 [click to see location](https://goo.gl/maps/sA1seLsfrNG2)
+
+* Just 33 km east of Athens, there is a village named Kalyvia Thorikou. This village is lucky enough to have plenty of simply amazing tavernas. There one might find some of the tastiest delicacies Greece has to offer to meat lovers the world around. The most iconic of them all should be the famous kontosouvli and this is just the tip of the iceberg as you can try tasty grilled goat chops and many many more!!!
 
 * Don't forget to go to "Fetticio" in Glyfada to taste delicious crepes. The best crepe on the menu is number 49! It only costs 5 euros, and is covered with chocolate, crushed cookie (like a graham cracker), bananas, strawberries, and inside is ice cream. <br />
 This is the crepe called "49" (It is called "49" because it is the number 49 on the menu) <br />
@@ -122,6 +126,10 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 [click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/mykonos)
 
 * Skiathos: Skiathos is among the most popular islands of Greece. Famous for the golden beaches, the green nature and the vivid atmosphere, Skiathos Greece is a favourite destination for both youth and families. The most popular beaches are located on the southern side of the island, including the famous bay of Koukounaries. However, very impressive is the exotic beach of Lalaria, accessible only by boat trip that also goes to the Medieval Castle of the island. The Town is the centre of activities on the island, where visitors head in the evenings to enjoy a relaxing drink. From Skiathos island, visitors can make day excursions to Skopelos and Alonissos, the other islands of Sporades.
+
+## Natural Resorts
+
+* Near the city of Volos (in the Magnisia regional unit), one can fing the magical mountain of Pilio. According to myth, this is where the gods used to live during the summer, and with good reason!!! The beauty of Pilio is truly something to behold since it is (possibly) the Greece's nature at it's absolute best! Combining breath-taking mountain forrests and sunny beaches with clear blue waters, this place is a must visit. And most importantly, do not be fooled by the beautiful sea into thinking that this is a place to only visit during the summer. If you are a friend of snow and skiing, just don't think twice.
 
 
 ## Theatre
