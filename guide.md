@@ -184,6 +184,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Allou! Fun Park: The most famous theme park of Athens, located at Rentis. It offers plenty of activities for both kids and, why not, adults! Unfortunately, the only public means of transport that gets you there is bus. [click to see location](https://goo.gl/maps/GAZStSK2NeA2)
 
+*If you want to have fun and at the same time educate your kids visit Hellenic Children’s Museum:This museum is dedicated to kids and helps them learn in a fun way about how the world functions. A couple of examples of things they can do is to create with building materials, learn about the concepts of supply and demand in the marketplace, or even experiment with food ingredients in the kitchen.[Just click here to learn more about this interesting museum] (https://www.kidslovegreece.com/en/culture/hellenic-childrens-museum/)
 ## Shopping
 
 * The Mall Athens: Located at Marousi, next to the "Neratziotissa station" on the Attiki Odos motorway, it is the biggest shopping centre of Greece hosting more than 200 shopping alternatives. Apart from shopping, the Mall also hosts lots of restaurants and coffee shops, cutting-edge cinemas and leisure areas for all family members. You can get there either by train or suburban railway. [click to see location](https://goo.gl/maps/9rzPaefnvvy) 
