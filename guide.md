@@ -1,6 +1,6 @@
 # Taksidiotis - Athens travel guide by the Greeks
 
-Athens is the capital city of Greece and the largest as well. Athens is one of the oldest cities in Europe with a great history of more than 3000 years.
+Athens is the capital city of Greece and the largest as well. Athens dominates the Attica region and is one of the world's oldest cities, with its recorded history spanning over 3,400 years.
 
 Take a look at the amazing video capturing Athens at night ["City of Athens - A Portrait of a Changing Metropolis"](https://vimeo.com/256590553) by Alexandros Maragos.
 
@@ -44,7 +44,7 @@ This is the crepe called "49" (It is called "49" because it is the number 49 on 
 <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/feticcio_49.jpg" width="220" height="200"> <br />
 [You can visit the website here](http://www.feticcio.gr/)
 
-• In Pireas, the country’s biggest port, 20 minutes from Athens by train, you can taste the best, biggest burger in the whole town. People from all the regions of Athens arrive here to taste it. So don’t forget to visit Barbeque!
+ï¿½ In Pireas, the countryï¿½s biggest port, 20 minutes from Athens by train, you can taste the best, biggest burger in the whole town. People from all the regions of Athens arrive here to taste it. So donï¿½t forget to visit Barbeque!
 http://www.mparmpeekiou.com
 * Agora Restaurant includes great tasty food with unique atmosphere, great service and music. Dish not to miss : Salmon Spaghetti with Vodka Sauce. (https://www.agora-restaurant.gr/)
 
@@ -62,19 +62,19 @@ http://www.mparmpeekiou.com
 * If it's summer and you are in the capital of Greece, a good choice to spend your night is a bar in the city center called "six d.o.g.s". In its garden, you can relax and enjoy good music.
 [click to see the Facebook page](https://www.facebook.com/pg/sixdogsathens/about/?ref=page_internal)
 
-* Next to Monastiraki metro station, on the sixth floor of a small hotel, there is a rooftop cocktail bar called "A for Athens". It is now one of Athens’ top after-dark venues. Outrageously popular with locals and visitors alike, it has a stylish open-air lounge terrace with amazing view of the floodlit Acropolis.
+* Next to Monastiraki metro station, on the sixth floor of a small hotel, there is a rooftop cocktail bar called "A for Athens". It is now one of Athensï¿½ top after-dark venues. Outrageously popular with locals and visitors alike, it has a stylish open-air lounge terrace with amazing view of the floodlit Acropolis.
 [click to visit website](https://aforathens.com/?lang=el)
 
 * Peek a Bloom is the perfect destination for a night out or coffee. It's environment, innovative cocktails linked to names and stories, amazing coffee made with on the spot roasted beans and healthy snacks are the reason it is one of the top spot for athenians and tourists.
 [click to see location](https://goo.gl/maps/bm1Af1QsNpD2)
 
-* Don’t miss stunning views of the Parthenon from the famous Athens Rooftop Bar called "AthenStyle", the best spot for meeting people and chilling after a long day sightseeing. Enjoy all year happy hours cheap drinks and live the AthenStyle experience! [Click here to see more.](http://athenstyle.com/en_GB/rooftop/)
+* Donï¿½t miss stunning views of the Parthenon from the famous Athens Rooftop Bar called "AthenStyle", the best spot for meeting people and chilling after a long day sightseeing. Enjoy all year happy hours cheap drinks and live the AthenStyle experience! [Click here to see more.](http://athenstyle.com/en_GB/rooftop/)
 * You can't have fun without a karaoke night! Find the coolest one @ Mike's Irish Pub and drink the best of whiskey. Cozy atmosphere!(http://www.mikesirishbar.gr)
 
 
 * For a more traditional approach try the night life of Aigaleo. On its central road there are many greek bars (mezedopolia) to choose from. The wine is good but the food is better. You will be surprised by the quantities, there is no way you return home being hungry!!
 
-* If you want to taste your drink like... experimenters visit "MoMix" ! A Molecular Mixology Bar Concept in Athens, in which you can travel your mind tasting cocktails & drinks in solid form and many other alternative ways… MoMix was created for traveling customer’s senses to another Level!  
+* If you want to taste your drink like... experimenters visit "MoMix" ! A Molecular Mixology Bar Concept in Athens, in which you can travel your mind tasting cocktails & drinks in solid form and many other alternative waysï¿½ MoMix was created for traveling customerï¿½s senses to another Level!  
 
 
 ## Night life
@@ -103,7 +103,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Visit Lesvos : the island of hidden harmony; a unique destination, recognised as a member of the UNESCO Global Geopark Network, with long tradition and history, inherent contrasts of natural beauty, and delightful flavours with olive oil and ouzo in the spotlight!
 
-• Corfu is maybe the most beautiful Ionian Island with so many exciting places to see. It feels a lot like being in Italy, people are always singing and the food is delicious. Don’t forget to visit the Achileon, Sissi’s holiday palace.
+ï¿½ Corfu is maybe the most beautiful Ionian Island with so many exciting places to see. It feels a lot like being in Italy, people are always singing and the food is delicious. Donï¿½t forget to visit the Achileon, Sissiï¿½s holiday palace.
 
 * Lefkada: Amazing beaches, easily accesible as you can travel there by car. You can combine your vacation there by visiting other Ionian islands. Lefkada is quite a pieceful island with fewer tourists than other greek islands.
 
@@ -115,12 +115,12 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 ##Theatre
 
-• If you like a bit of art visit the Municipal Theatre in Pireus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with known greek actors.
+ï¿½ If you like a bit of art visit the Municipal Theatre in Pireus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with known greek actors.
 
 ## Extreme sports
 
 * If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vouliagmeni offer lessons in many extreme sports such as: SUP, rowing , wind surf, surf, jet ski, sailing and many more.
-[click to see location](https://www.google.gr/maps/place/ÂÜñêéæá,+ÂÜñç+166+72/@37.8175484,23.7816949,14z/data=!3m1!4b1!4m5!3m4!1s0x14a19525c364b6ff:0x77264baecded7346!8m2!3d37.8175503!4d23.7992474?hl=el)
+[click to see location](https://www.google.gr/maps/place/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½,+ï¿½ï¿½ï¿½ï¿½+166+72/@37.8175484,23.7816949,14z/data=!3m1!4b1!4m5!3m4!1s0x14a19525c364b6ff:0x77264baecded7346!8m2!3d37.8175503!4d23.7992474?hl=el)
 
 ## Grafifiti
 
