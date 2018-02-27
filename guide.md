@@ -6,9 +6,7 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## Coffee shops
 
-* Cap Cap is a coffee shop, bistro, tea room or simplier the sweetest fairytale shop. Every few months Cap Cap changes its theme and is redecorated and has a brand new menu inspired by books, movies and TV series such as Game of Thrones, Harry Potter, Alice in Wonderland etc. One of the most beautiful places in Athens and with really delicious options too. Currently there are two shops, one located in Aigaleo and one located in Elliniko within walking distance from those metro stations.
-
-* Mind The Cup - Far from the madding crowds in residential Peristeri, Mind the Cup is a friendly establishment where you can have high-grade coffee in a beautiful space adorned with a mix of concrete and wood.
+* Cap Cap is a coffee shop, bistro, tea room or more simple the sweetest fairytale shop. Every few months Cap Cap changes its theme and is redecorated and has a brand new menu inspired by books, movies and TV series such as Game of Thrones, Harry Potter, Alice in Wonderland etc. One of the most beautiful places in Athens and with really delicious options too. Currently there are two shops, one located in Aigaleo and one located in Elliniko within walking distance from those metro stations.
 
 ## History
 
@@ -20,7 +18,7 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * The name of Athens, connected to the name of its patron goddess Athena, originates from an earlier Pre-Greek language.
 
-* Athens was named according to the Greek mythology from competition that the goddess Athena had with Poseidon about who will become protector of the city. The myth says that Poseidon gave a spring with sea water whilst Athena offered an olive tree as she touched the ground of the sacred rock of the Acropolis. The people of Athens choose Athena as their protector and so the city was named after the goddess of wisdom. The myth is symbolic but the two Gods symbolising the strength of Athens as a city of wisdom and as a sea power. The first settlement of Athens 3000 BC was situated on the rock of Acropolis.
+* Athens was named according to the Greek mythology from competition that the goddess Athena had with Poseidon about who will become protector of the city. The myth says that Poseidon gave a spring with sea water whilst Athena offered an olive tree as she touched the ground of the sacred rock of the Acropolis. The people of Athens choose Athena as their protector and so the city was named after the goddess of wisdom. The myth is symbolic but the two Gods symbolizing the strength of Athens as a city of wisdom and as a sea power. The first settlement of Athens 3000 BC was situated on the rock of Acropolis.
 
 * One of the most commonly used gadgets these days, an alarm clock has its origin in ancient Greece. In due course of time and with the proper sophistication of technology, the alarm clock went through a number of changes from a mechanical alarm to the modern gadgets like cell phone, which come with inbuilt alarm. But the first of alarms used by ancient Greeks were nothing like today. They used to integrate mechanism to time the alarm which would sound off delicate water organs or pebbles into drums.
 
@@ -28,8 +26,7 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## Museums/Sightseeing
 
-* Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress. More info here:
-[Click to see more](https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes)
+* Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress. More info here: https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes
 
 * The National Archaeological Museum is a must if you want to explore the educational part of Athens and Greek history.
 [click to see location](https://goo.gl/maps/PqarnX2ounx)
@@ -41,10 +38,10 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * Apart from Athens, if you are in Greece and you have decided to visit parts of the rest of the country as well, one of the most important and most visited Greek museums is the Delphi Archaeological Museum. This museum displays some of the most valuable ancient Greece's surviving treasures, like Heniokhos (also known as Charioteer of Delphi), the Sphinx of Naxos and many more. Delphi was considered to be the navel (or center) of the earth and should definitely be one of the top priority destinations of every visitor.
 
-* Don't forget to visit the Archaeological Museum of Delphi.The Archaeological Museum of Delphi is one of the most important in Greece since it exhibits the history of the Delphic sanctuary, site of the most famous ancient Greek oracle. Its rich collections comprise primarily architectural sculpture and statues donated to the sanctuary reflecting its religious, political and artistic activities from its early years in the 8th century BC to its decline in Late Antiquity.[Click to see more] (http://odysseus.culture.gr/h/1/eh151.jsp?obj_id=3404)
+* Don't forget to visit the Archaeological Museum of Delphi. The Archaeological Museum of Delphi is one of the most important in Greece since it exhibits the history of the Delphic sanctuary, site of the most famous ancient Greek oracle. Its rich collections comprise primarily architectural sculpture and statues donated to the sanctuary reflecting its religious, political and artistic activities from its early years in the 8th century BC to its decline in Late Antiquity.[Click to see more] (http://odysseus.culture.gr/h/1/eh151.jsp?obj_id=3404)
 
 
-## Restaurants/Taverns
+## Restaurants/Tavernas
 
 * In the heart of Athens, under the shade of the temple of Hephaestus on the picturesque Adrianou Street, lies the unique restaurant Kuzina.
 The old mansion where the restaurant is hosted keeps a hidden surprise for its guests: the breathtaking view to Acropolis from its Tarazza!
@@ -59,7 +56,7 @@ Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a un
 * Thanasis taverna is one of the most iconic tavernas in Athens, with its trademark dish being kebabs. It is a nice place to go after a walk in the center of Athens and enjoy a meal near the Monastiraki Square.
 [click to see location](https://goo.gl/maps/sA1seLsfrNG2)
 
-* Just 33 km east of Athens, there is a village named Kalyvia Thorikou. This village is lucky enough to have plenty of simply amazing tavernas. There one might find some of the tastiest delicacies Greece has to offer to meat lovers the world around. The most iconic of them all should be the famous kontosouvli and this is just the tip of the iceberg as you can try tasty grilled goat chops and many many more!!!
+* Just 33 km east of Athens, there is a village named "Kalyvia Thorikou". This village is lucky enough to have plenty of simply amazing tavernas. There one might find some of the tastiest delicacies Greece has to offer to meat lovers the world around. The most iconic of them all should be the famous kontosouvli and this is just the tip of the iceberg as you can try tasty grilled goat chops and many many more!!!
 
 * Don't forget to go to "Fetticio" in Glyfada to taste delicious crepes. The best crepe on the menu is number 49! It only costs 5 euros, and is covered with chocolate, crushed cookie (like a graham cracker), bananas, strawberries, and inside is ice cream. <br />
 This is the crepe called "49" (It is called "49" because it is the number 49 on the menu) <br />
@@ -67,22 +64,27 @@ This is the crepe called "49" (It is called "49" because it is the number 49 on 
 [You can visit the website here](http://www.feticcio.gr/)
 
 * In Piraeus, the country's biggest port, 20 minutes from Athens by train, you can taste the best, biggest burger in the whole town. People from all the regions of Athens arrive here to taste it. So don't forget to visit Barbeque!
-[You can visit the website here](http://www.mparmpeekiou.com)
+http://www.mparmpeekiou.com
+* Agora Restaurant includes great tasty food with unique atmosphere, great service and music. Dish not to miss : Salmon Spaghetti with Vodka Sauce. (https://www.agora-restaurant.gr/)
 
-* Agora Restaurant includes great tasty food with unique atmosphere, great service and music. Dish not to miss : Salmon Spaghetti with Vodka Sauce. [You can visit the website here](https://www.agora-restaurant.gr/)
 
-
-* The various Greek beaches not only benefit us with their waters, where we can swim and cool off the hot days of summer, but also with the organisms that leave there. Therefore you should definitely visit a fish tavern, like 'Logo Timis' in Likovrisi. It is a very clean place with a very hostile owner, and his wife is the best cooker ever. Try the 'regosalata' plate, it is just awesome!
+* The various Greek beaches not only benefit us with their waters, where we can swim and cool off the hot days of summer, but also with the organisms that leave there. Therefore you should definitely visit a fish tavern, like "Logo Timis" at Likovrisi. It is a very clean place with a very hostile owner, and his wife is the best cooker ever. Try the 'regosalata' plate, it is just awesome!
 
 * When it comes to Greek traditional food, "Christoforos" restaurant is the right place to visit! A cozy atmosphere and plenty of tasty plates, such as lamp, gyros, souvlaki, mousaka, all in affordable prices! The quality and quantity won't disappoint you!
 
 * The BALTHAZAR occupies a unique neoclassical building of 1897 with one of the few remaining green gardens on the outskirts of the city center. It works continuously since 1973 and in recent years the kitchen runs the famous chef Christoforos Peskias who takes great care of your gastronomic experience. His cuisine is characterized as Mediterranean with fusion shades. A special sushi menu is also served during the summer season.
-[You can visit the website here](https://balthazar.gr/)
+(https://balthazar.gr/)
 
-* While in Athens , you shouldn't miss the opportunity to visit Thanasis, one of the oldest kebab taverns in Athens.Located in Monastiraki square and dating back to 1964, Thanasis is the perfect place to eat a traditional greek kebab!
+* While in Athens , you shouldn't miss the opportunity to visit "Thanasis", one of the oldest kebab taverns in Athens.Located in Monastiraki square and dating back to 1964, Thanasis is the perfect place to eat a traditional Greek kebab!
 [You can visit the website here](http://othanasis.com)
 
-* Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website](http://www.ciaoitalia.gr)  
+* For me the best place at the center of Athens is "Avli", which is located at Psirri, Athens. If you are lucky enough to find the tiny door, open it and you will feel like you've entered the square of a small island village with white walls and blue shutters. It's the place were locals go to eat Greek traditional plates, all homemade dishes, and drink raki, tsipouro, ouzo, beer and wine. Despite all the above mentioned, what I personally love the most is the ambience of the place, which makes you forget you are a stranger and someway unites you with other people.
+Here you can take a look at the inside:
+<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/avli.jpg">
+Because of its' difficult location to find, we provide you with one here:
+[click on the following link to see the location](https://goo.gl/maps/XeHgK5bzf2v)
+
+* Don't forget to visit the Italian restaurant named Ciao. Located in Pagrati, is the best place for pasta, pizza and many other Italian recipes, for sure you will not be disappointed! For more info [click to see the website] (http://www.ciaoitalia.gr/)  
 
 ## Bars
 
@@ -90,17 +92,17 @@ This is the crepe called "49" (It is called "49" because it is the number 49 on 
 [reference to 2017 list of world's best bars](https://www.worlds50bestbars.com/fifty-best-bars-list-2017/?ist=6)
 
 * If it's summer and you are in the capital of Greece, a good choice to spend your night is a bar in the city center called "six d.o.g.s". In its garden, you can relax and enjoy good music.
-[click to see the FaceBook page](https://www.facebook.com/pg/sixdogsathens/about/?ref=page_internal)
+[click to see the Facebook page](https://www.facebook.com/pg/sixdogsathens/about/?ref=page_internal)
 
-* Next to Monastiraki metro station, on the sixth floor of a small hotel, there is a rooftop cocktail bar called "A for Athens". It is now one of Athens's top after-dark venues. Outrageously popular with locals and visitors alike, it has a stylish open-air lounge terrace with amazing view of the floodlit Acropolis.
+* Next to "Monastiraki" metro station, on the sixth floor of a small hotel, there is a rooftop cocktail bar called "A for Athens". It is now one of Athens's top after-dark venues. Outrageously popular with locals and visitors alike, it has a stylish open-air lounge terrace with amazing view of the floodlit Acropolis.
 [click to visit website](https://aforathens.com/?lang=el)
 
 * Peek a Bloom is the perfect destination for a night out or coffee. It's environment, innovative cocktails linked to names and stories, amazing coffee made with on the spot roasted beans and healthy snacks are the reason it is one of the top spot for Athenians and tourists.
 [click to see location](https://goo.gl/maps/bm1Af1QsNpD2)
 
 * Don't miss stunning views of the Parthenon from the famous Athens Rooftop Bar called "AthenStyle", the best spot for meeting people and chilling after a long day sightseeing. Enjoy all year happy hours cheap drinks and live the AthenStyle experience! [Click here to see more.](http://athenstyle.com/en_GB/rooftop/)
+* You can't have fun without a karaoke night! Find the coolest one @ Mike's Irish Pub and drink the best of whiskey. Cozy atmosphere!(http://www.mikesirishbar.gr)
 
-* You can't have fun without a karaoke night! Find the coolest one @ Mike's Irish Pub and drink the best of whiskey. Cozy atmosphere![You can visit the website here](http://www.mikesirishbar.gr)
 
 * For a more traditional approach try the night life of Aigaleo. On its central road there are many Greek bars (mezedopolia) to choose from. The wine is good but the food is better. You will be surprised by the quantities, there is no way you return home being hungry!!
 
@@ -120,13 +122,13 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * From Hollywood to Athens! The best night club in the city. [click to see location](https://www.google.gr/maps/place/Lohan+Nightclub/@37.980089,23.7118973,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcdf1361cf75:0xd93f0d81a48af300!8m2!3d37.980089!4d23.714086)
 
-* Enjoy various types of rum and Cuban history in Finca Vigia . Your rum will come along with the best Bar owners of the town and a friendly atmosphere where you can easily fit in. [click to see more details](https://www.facebook.com/fincavigiabar/?rf=176954512815542)
+* Enjoy various types of rum and Cuban history in Finca Vigia . Your rum will come along with the best Bar owners of the town and a friendly atmosphere where you can easily fit in. (https://www.facebook.com/fincavigiabar/?rf=176954512815542)
 
-* Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic décor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here [click to see more details](https://www.facebook.com/cinderelladisco/?rf=929806063741649)
+* Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic décor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here (https://www.facebook.com/cinderelladisco/?rf=929806063741649)
 
 * Where street meets fun. Where urban culture is expressed. Where? ΕΚΕΙ. Check this place out if you are more into a more chill way of partying. There
 are events every Friday and Saturday with different music on the ground floor(usually mainstream anthems or R&B) and the basement(techno, electro).
-[click to see more details](https://www.facebook.com/ekei.lekka23/)
+(https://www.facebook.com/ekei.lekka23/)
 
 ## Islands
 
@@ -141,7 +143,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * Santorini is a beautiful and all natural part of the Greek Islands with many wonderful places and a variety of ways you can enjoy your time there.
 [click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/santorini)
 
-* Visit Rhodes : Rhodes is a unique island that combines History from different eras of time. It has ancient Greek ruins, Medieval structures, Italian structures from the Italian occupation of Rhodes, Turkish structures etc. It is well known for its sightseeings and landscape variety, which makes it one of the most visited destination in Europe.  [click to see more details](https://en.wikipedia.org/wiki/Rhodes)
+* Visit Rhodes : Rhodes is a unique island that combines History from different eras of time. It has ancient Greek ruins, Medieval structures, Italian structures from the Italian occupation of Rhodes, Turkish structures etc. It is well known for its sightseeings and landscape variety, which makes it one of the most visited destination in Europe. For more information check the wiki page: https://en.wikipedia.org/wiki/Rhodes
 
 * Visit Lesvos : the island of hidden harmony; a unique destination, recognised as a member of the UNESCO Global Geopark Network, with long tradition and history, inherent contrasts of natural beauty, and delightful flavours with olive oil and ouzo in the spotlight!
 
@@ -169,7 +171,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * If you like a bit of art visit the Municipal Theatre in Piraeus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with Greek well-known actors.
 
 * Odeon of Herodes Atticus: A stone theatre structure located on the southwest slope of the Acropolis of Athens, Greece. The building was completed in 161 AD and then renovated in 1950. Since then it has been the main venue of the Athens Festival, which runs from May through October each year, featuring a variety of acclaimed Greek as well as International performances.<br/>
-<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/Odeon_of_Herodes_Atticus.jpg" width="220" height="200"><br/>
+<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/Odeon_of_Herodes_Atticus.jpg"><br/>
 [click for more information regarding access, history and upcoming events](http://greekfestival.gr/en/venues/view/odeon-of-herodes-atticus)
 
 ## Cinema
@@ -217,9 +219,3 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * Mobile Phone Data is important when you’ve stopped using paper maps. Outside the central subway stations you’ll find people set up selling sim cards with various data packs on offer. While they are looking to sell to locals – as a tourist it’s an absolute bargain for the mouth of data you get plus the ability to book bars and restaurants.
 
 * The Greeks will be more friendly and eager to help if you try to speak some Greek, too. Just a couple of words are fine, they love it when they hear a stranger speaking their language. So, say “kalimera” instead of “good morning” and “efxaristo” instead of “thank you”, and you will see some big proud smiles in their faces.
-
-## Accommodation
-
-* Electra Palace Hotel - The five star Electra Palace with a capacity of 150 rooms situated in a very central location only a few minutes walk from the Acropolis, the main business and shopping centre of Athens. The hotel has a neo classic design in the interior and the exterior in perfect harmony with the architectural style of Plaka. Sauna, Fitness Centre, Spa & Wellness Centre, Massage, Jacuzzi, Steam Bath, , Indoor Swimming Pool, Outdoor Swimming Pool
-
-* Margi Hotel - The Margi Hotel situated in the coastal resort of Vouliagmeni one of the upmarket areas of the Athenian Riviera 20 km from the Athens international airport and 18 km from the centre of Athens. This boutique hotel is near to the beach of Vouliagmeni, one of the most well organised and famous beaches of Athens, and all the sport facilities of the area. Very near is the Lake of Vouliagmeni, Glyfada with its shopping centres, trendy bars and nightlife while a few kilometres to the south is the resort of Varkiza. The hotel is an ideal place to stay, it combines the sophisticate hotel of a cosmopolitan city in a seaside resort . You can enjoy the end of a busy day with a drink at the outdoor swimming pool and later with a dinner at the hotel's fine restaurant.
