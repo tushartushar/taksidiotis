@@ -6,6 +6,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## History
 
+* Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress. More info here: https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes
+
 * Democracy was inherited to the world by ancient Greece and especially Athens where it was developed around the fifth century BC. The longest-lasting democratic leader was Pericles. [click to see more details](https://en.wikipedia.org/wiki/Athenian_democracy)
 
 * Mathematics and specifically geometry were greatly advanced in ancient Greece. Among the most famous mathematicians are Pythagoras, Euclides and Thales.  [click to see more details](https://en.wikipedia.org/wiki/Greek_mathematics)
@@ -64,6 +66,9 @@ http://www.mparmpeekiou.com
 * The BALTHAZAR occupies a unique neoclassical building of 1897 with one of the few remaining green gardens on the outskirts of the city center. It works continuously since 1973 and in recent years the kitchen runs the famous chef Christoforos Peskias who takes great care of your gastronomic experience. His cuisine is characterized as Mediterranean with fusion shades. A special sushi menu is also served during the summer season.
 (https://balthazar.gr/)
 
+* While in Athens , you shouldn't miss the opportunity to visit Thanasis, one of the oldest kebab taverns in Athens.Located in Monastiraki square and dating back to 1964, Thanasis is the perfect place to eat a traditional greek kebab!
+[You can visit the website here](http://othanasis.com)
+
 
 
 ## Bars
@@ -90,6 +95,8 @@ http://www.mparmpeekiou.com
 * MoMix Kerameikos - The first bar in Athens which combined molecular gastronomy with bartending, creating special cocktails for guests who like experiments.
 Opened in November 2012 and soon conquered the Athenians, and offers cocktails in alternative forms, in addition to liquid. The Momix team with lots of imagination and playfulness, shuffles foams, powders and jellies and serves the most original cocktails in cups, plates and bowls!
 [click to see location](https://www.google.gr/maps/place/MoMix+Bar+Kerameikos/@37.981228,23.7103453,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcded85399e7:0x58470aee4d500a46!8m2!3d37.981228!4d23.712534)
+
+* If you are in the mood for rock and metal music the place in Athens for you to go is Intrepid Fox in Gazi square.A great collection of beers cocktails and shots that will give you a night to remember!
 
 
 ## Night life
@@ -128,6 +135,8 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 [click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/mykonos)
 
 * Skiathos: Skiathos is among the most popular islands of Greece. Famous for the golden beaches, the green nature and the vivid atmosphere, Skiathos Greece is a favourite destination for both youth and families. The most popular beaches are located on the southern side of the island, including the famous bay of Koukounaries. However, very impressive is the exotic beach of Lalaria, accessible only by boat trip that also goes to the Medieval Castle of the island. The Town is the centre of activities on the island, where visitors head in the evenings to enjoy a relaxing drink. From Skiathos island, visitors can make day excursions to Skopelos and Alonissos, the other islands of Sporades.
+
+* Amorgos: One of the most impressive Cycladic islands, Amorgos, with its azure waters, unique landscape and picturesque villages is the perfect choise for relaxing holidays in the Aegean.
 
 ## Natural Resorts
 
