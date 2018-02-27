@@ -180,7 +180,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 ## Shopping
 
-* The Mall Athens: Located at Marousi, next to the "Neratziotissa station" on the Attiki Odos motorway, you will find the biggest shopping centre of Greece which hosts more than 200 shopping alternatives. Apart from shopping, the Mall also hosts lots of restaurants and coffee shops, cutting-edge cinemas and leisure areas for all family members. You can get there either by train or suburban railway. [click to see location](https://goo.gl/maps/9rzPaefnvvy) 
+* The Mall Athens: Located at Marousi, next to the "Neratziotissa station" on the Attiki Odos motorway, it is the biggest shopping centre of Greece hosting more than 200 shopping alternatives. Apart from shopping, the Mall also hosts lots of restaurants and coffee shops, cutting-edge cinemas and leisure areas for all family members. You can get there either by train or suburban railway. [click to see location](https://goo.gl/maps/9rzPaefnvvy) 
 
 ## Other tips and tricks
 
