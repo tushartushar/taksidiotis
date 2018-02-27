@@ -47,6 +47,11 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## Restaurants/Taverns
 
+* In Glyfada, you should definetely visit Buffalo Gelato, to taste the most special ice - cream in many different and unusual flavors and of course their famous
+ Buffle cone which is a waffle in the shape of cone filled with chocolate, ice-cream and any other ingredient that you want!
+ [click to view website](http://bufalagelato.com)
+ <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/buffalo_gelato.png" width="170" height="150"> <br/>
+
 * In the heart of Athens, under the shade of the temple of Hephaestus on the picturesque Adrianou Street, lies the unique restaurant Kuzina.
 The old mansion where the restaurant is hosted keeps a hidden surprise for its guests: the breathtaking view to Acropolis from its Tarazza!
 Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a unique menu that makes Kuzina stand out for combining traditional cuisine and culinary inventiveness.
@@ -82,6 +87,7 @@ This is the crepe called "49" (It is called "49" because it is the number 49 on 
 * While in Athens , you shouldn't miss the opportunity to visit "Thanasis", one of the oldest kebab taverns in Athens.Located in Monastiraki square and dating back to 1964, Thanasis is the perfect place to eat a traditional Greek kebab!
 [You can visit the website here](http://othanasis.com)
 
+<<<<<<< HEAD
 * For me the best place at the center of Athens is "Avli", which is located at Psirri, Athens. If you are lucky enough to find the tiny door, open it and you will feel like you've entered the square of a small island village with white walls and blue shutters. It's the place were locals go to eat Greek traditional plates, all homemade dishes, and drink raki, tsipouro, ouzo, beer and wine. Despite all the above mentioned, what I personally love the most is the ambience of the place, which makes you forget you are a stranger and someway unites you with other people.
 Here you can take a look at the inside:
 <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/avli.jpg">
@@ -89,8 +95,14 @@ Because of its' difficult location to find, we provide you with one here:
 [click to see location](https://goo.gl/maps/XeHgK5bzf2v)
 
 * Don't forget to visit the Italian restaurant named Ciao. Located in Pagrati, is the best place for pasta, pizza and many other Italian recipes, for sure you will not be disappointed! For more info [click to see the website] [You can visit the website here](http://www.ciaoitalia.gr/)  
+=======
+* Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website] (http://www.ciaoitalia.gr/)  
+>>>>>>> 777b49809b5162f8b4e4978c210b77364e8beed3
 
 ## Bars
+
+* In the heart of the town, Speakeasy is a must visit bar with live classic jazz music  and great decoration and tables inspired by 80's.
+  [click to visit website](https://foursquare.com/v/the-speakeasy/52b8ab6c11d2bde308cd9ae7)
 
 * In the top 10 in annual ratings of world's best bars, The Clumsies bar is one of the hottest bars downtown. [click to visit website](http://theclumsies.gr/)
 [reference to 2017 list of world's best bars](https://www.worlds50bestbars.com/fifty-best-bars-list-2017/?ist=6)
@@ -136,6 +148,10 @@ are events every Friday and Saturday with different music on the ground floor(us
 [click to see more details](https://www.facebook.com/ekei.lekka23/)
 
 ## Islands
+
+* To enjoy the most spectacular sunset, alleys, beaches and a beautiful white and blue architecture of houses Santorini is the idial island to go! It's
+  famous about the sunset, the amazing view from all the places and how romantic is there.
+  For the things to do and places you should visit when you go in Santorini [click here](https://santorinidave.com/best-things-to-do-santorini)
 
 * In case you have enough time for holidays, a great choice for you is to visit Chania, Crete. A city that combines wonderful nightlife as well as landscapes and well-known beaches. [click to visit website](https://www.discovergreece.com/el/greek-islands/crete/chania)
 
@@ -205,6 +221,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Allou! Fun Park: The most famous theme park of Athens, located at Rentis. It offers plenty of activities for both kids and, why not, adults! Unfortunately, the only public means of transport that gets you there is bus. [click to see location](https://goo.gl/maps/GAZStSK2NeA2)
 
+* If you want to have fun and at the same time educate your kids visit Hellenic Children’s Museum:This museum is dedicated to kids and helps them learn in a fun way about how the world functions. A couple of examples of things they can do is to create with building materials, learn about the concepts of supply and demand in the marketplace, or even experiment with food ingredients in the kitchen.[Just click here to learn more about this interesting museum] (https://www.kidslovegreece.com/en/culture/hellenic-childrens-museum/)
 ## Shopping
 
 * The Mall Athens: Located at Marousi, next to the "Neratziotissa station" on the Attiki Odos motorway, it is the biggest shopping centre of Greece hosting more than 200 shopping alternatives. Apart from shopping, the Mall also hosts lots of restaurants and coffee shops, cutting-edge cinemas and leisure areas for all family members. You can get there either by train or suburban railway. [click to see location](https://goo.gl/maps/9rzPaefnvvy)
