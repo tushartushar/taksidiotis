@@ -121,7 +121,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * Mykonos:  Famous for its nightlife, though Mykonos has a lot more to offer. Beautiful and exotic rocky beaches, well-known restaurants offering traditional plates, mysterious and wonderful alleys. Mykonos combine both the quiet and the frostbite memories you want to add in your summer vacations!  
 [click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/mykonos)
 
-* Skiathos: Skiathos is among the most popular islands of Greece. Famous for the golden beaches, the green nature and the vivid atmosphere, Skiathos Greece is a favourite destination for both youth and families. The most popular beaches are located on the southern side of the island, including the famous bay of Koukounaries. However, very impressive is the exotic beach of Lalaria, accessible only by boat trip that also goes to the Medieval Castle of the island. The Town is the centre of activities on the island, where visitors head in the evenings to enjoy a relaxing drink. From Skiathos island, visitors can make day excursions to Skopelos and Alonissos, the other islands of Sporades. 
+* Skiathos: Skiathos is among the most popular islands of Greece. Famous for the golden beaches, the green nature and the vivid atmosphere, Skiathos Greece is a favourite destination for both youth and families. The most popular beaches are located on the southern side of the island, including the famous bay of Koukounaries. However, very impressive is the exotic beach of Lalaria, accessible only by boat trip that also goes to the Medieval Castle of the island. The Town is the centre of activities on the island, where visitors head in the evenings to enjoy a relaxing drink. From Skiathos island, visitors can make day excursions to Skopelos and Alonissos, the other islands of Sporades.
 
 
 ## Theatre
@@ -150,3 +150,9 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * A day trip in Sounion (2 hours car drive from Athens) is a nice choice for somebody who wants to escape from the capital. The temple of Poseidon and the view from up there worth the visit. [click to see more details](https://en.wikipedia.org/wiki/Sounion)
 
 * Don't forget your hat and your sunglasses!!
+
+* Never bother lining up at the main entrance of the Acropolis. There’s a back way in that has a tiny line that no one knows about. This back door is faster and more efficient than the main like that every other tourist uses. By using this alternative entrance it will save you an hour of lining up in the blazing sun (should you ignore Vasilis’ tip above).
+
+* Mobile Phone Data is important when you’ve stopped using paper maps. Outside the central subway stations you’ll find people set up selling sim cards with various data packs on offer. While they are looking to sell to locals – as a tourist it’s an absolute bargain for the mouth of data you get plus the ability to book bars and restaurants.
+
+* The Greeks will be more friendly and eager to help if you try to speak some Greek, too. Just a couple of words are fine, they love it when they hear a stranger speaking their language. So, say kalimera instead of “good morning” and efxaristo instead of “thank you”, and you will see some big proud smiles in their faces.
