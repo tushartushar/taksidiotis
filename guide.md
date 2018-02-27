@@ -1,4 +1,4 @@
-Ôªø# Taksidiotis - Athens travel guide by the Greeks
+# Taksidiotis - Athens travel guide by the Greeks
 
 Athens is the capital city of Greece and the largest as well. Athens is one of the oldest cities in Europe with a great history of more than 3000 years.
 
@@ -44,7 +44,7 @@ This is the crepe called "49" (It is called "49" because it is the number 49 on 
 <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/feticcio_49.jpg" width="220" height="200"> <br />
 [You can visit the website here](http://www.feticcio.gr/)
 
-‚Ä¢ In Pireas, the country‚Äôs biggest port, 20 minutes from Athens by train, you can taste the best, biggest burger in the whole town. People from all the regions of Athens arrive here to taste it. So don‚Äôt forget to visit Barbeque!
+ï In Pireas, the countryís biggest port, 20 minutes from Athens by train, you can taste the best, biggest burger in the whole town. People from all the regions of Athens arrive here to taste it. So donít forget to visit Barbeque!
 http://www.mparmpeekiou.com
 * Agora Restaurant includes great tasty food with unique atmosphere, great service and music. Dish not to miss : Salmon Spaghetti with Vodka Sauce. (https://www.agora-restaurant.gr/)
 
@@ -62,19 +62,19 @@ http://www.mparmpeekiou.com
 * If it's summer and you are in the capital of Greece, a good choice to spend your night is a bar in the city center called "six d.o.g.s". In its garden, you can relax and enjoy good music.
 [click to see the Facebook page](https://www.facebook.com/pg/sixdogsathens/about/?ref=page_internal)
 
-* Next to Monastiraki metro station, on the sixth floor of a small hotel, there is a rooftop cocktail bar called "A for Athens". It is now one of Athens‚Äô top after-dark venues. Outrageously popular with locals and visitors alike, it has a stylish open-air lounge terrace with amazing view of the floodlit Acropolis.
+* Next to Monastiraki metro station, on the sixth floor of a small hotel, there is a rooftop cocktail bar called "A for Athens". It is now one of Athensí top after-dark venues. Outrageously popular with locals and visitors alike, it has a stylish open-air lounge terrace with amazing view of the floodlit Acropolis.
 [click to visit website](https://aforathens.com/?lang=el)
 
 * Peek a Bloom is the perfect destination for a night out or coffee. It's environment, innovative cocktails linked to names and stories, amazing coffee made with on the spot roasted beans and healthy snacks are the reason it is one of the top spot for athenians and tourists.
 [click to see location](https://goo.gl/maps/bm1Af1QsNpD2)
 
-* Don‚Äôt miss stunning views of the Parthenon from the famous Athens Rooftop Bar called "AthenStyle", the best spot for meeting people and chilling after a long day sightseeing. Enjoy all year happy hours cheap drinks and live the AthenStyle experience! [Click here to see more.](http://athenstyle.com/en_GB/rooftop/)
+* Donít miss stunning views of the Parthenon from the famous Athens Rooftop Bar called "AthenStyle", the best spot for meeting people and chilling after a long day sightseeing. Enjoy all year happy hours cheap drinks and live the AthenStyle experience! [Click here to see more.](http://athenstyle.com/en_GB/rooftop/)
 * You can't have fun without a karaoke night! Find the coolest one @ Mike's Irish Pub and drink the best of whiskey. Cozy atmosphere!(http://www.mikesirishbar.gr)
 
 
 * For a more traditional approach try the night life of Aigaleo. On its central road there are many greek bars (mezedopolia) to choose from. The wine is good but the food is better. You will be surprised by the quantities, there is no way you return home being hungry!!
 
-* If you want to taste your drink like... experimenters visit "MoMix" ! A Molecular Mixology Bar Concept in Athens, in which you can travel your mind tasting cocktails & drinks in solid form and many other alternative ways‚Ä¶ MoMix was created for traveling customer‚Äôs senses to another Level!  
+* If you want to taste your drink like... experimenters visit "MoMix" ! A Molecular Mixology Bar Concept in Athens, in which you can travel your mind tasting cocktails & drinks in solid form and many other alternative waysÖ MoMix was created for traveling customerís senses to another Level!  
 
 
 ## Night life
@@ -93,15 +93,17 @@ http://www.mparmpeekiou.com
 * Another great city of Crete is Heraklion in which you can visit a lot of well-known sightsees such as Knossos, Koules and Fountain Morozini.
 
 * Spetses:
-Beautiful nature, perfect beaches and a complex history ‚Äí Spetses is an island that has all three. It's close enough to Athens to be enjoyed as a day trip and has enough varied sites and activities to keep you completely occupied for longer trips.
+Beautiful nature, perfect beaches and a complex history ? Spetses is an island that has all three. It's close enough to Athens to be enjoyed as a day trip and has enough varied sites and activities to keep you completely occupied for longer trips.
 [click to see more details](http://www.greece-is.com/5-reasons-visit-spetses/)
 
 * Santorini is a beautiful and all natural part of the Greek Islands with many wonderful places and a variety of ways you can enjoy your time there.
 [click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/santorini)
 
+* Visit Rhodes : Rhodes is a unique island that combines History from different eras of time. It has ancient greek ruins, Medieval structures, Italian structures from the Italian occupation of Rhodes, Turkish structures etc. It is well known for its sightseeings and landscape variety, which makes it one of the most visited destination in Europe. For more information check the wiki page: https://en.wikipedia.org/wiki/Rhodes
+
 * Visit Lesvos : the island of hidden harmony; a unique destination, recognised as a member of the UNESCO Global Geopark Network, with long tradition and history, inherent contrasts of natural beauty, and delightful flavours with olive oil and ouzo in the spotlight!
 
-‚Ä¢ Corfu is maybe the most beautiful Ionian Island with so many exciting places to see. It feels a lot like being in Italy, people are always singing and the food is delicious. Don‚Äôt forget to visit the Achileon, Sissi‚Äôs holiday palace.
+ï Corfu is maybe the most beautiful Ionian Island with so many exciting places to see. It feels a lot like being in Italy, people are always singing and the food is delicious. Donít forget to visit the Achileon, Sissiís holiday palace.
 
 * Lefkada: Amazing beaches, easily accesible as you can travel there by car. You can combine your vacation there by visiting other Ionian islands. Lefkada is quite a pieceful island with fewer tourists than other greek islands.
 
@@ -113,12 +115,12 @@ Beautiful nature, perfect beaches and a complex history ‚Äí Spetses is an island
 
 ##Theatre
 
-‚Ä¢ If you like a bit of art visit the Municipal Theatre in Pireus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with known greek actors.
+ï If you like a bit of art visit the Municipal Theatre in Pireus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with known greek actors.
 
 ## Extreme sports
 
 * If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vouliagmeni offer lessons in many extreme sports such as: SUP, rowing , wind surf, surf, jet ski, sailing and many more.
-[click to see location](https://www.google.gr/maps/place/ŒíŒ¨œÅŒ∫ŒπŒ∂Œ±,+ŒíŒ¨œÅŒ∑+166+72/@37.8175484,23.7816949,14z/data=!3m1!4b1!4m5!3m4!1s0x14a19525c364b6ff:0x77264baecded7346!8m2!3d37.8175503!4d23.7992474?hl=el)
+[click to see location](https://www.google.gr/maps/place/¬‹ÒÍÈÊ·,+¬‹ÒÁ+166+72/@37.8175484,23.7816949,14z/data=!3m1!4b1!4m5!3m4!1s0x14a19525c364b6ff:0x77264baecded7346!8m2!3d37.8175503!4d23.7992474?hl=el)
 
 ## Grafifiti
 
