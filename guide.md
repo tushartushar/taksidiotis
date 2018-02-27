@@ -112,7 +112,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Visit Lesvos : the island of hidden harmony; a unique destination, recognised as a member of the UNESCO Global Geopark Network, with long tradition and history, inherent contrasts of natural beauty, and delightful flavours with olive oil and ouzo in the spotlight!
 
-* Corfu is maybe the most beautiful Ionian Island with so many exciting places to see. It feels a lot like being in Italy, people are always singing and the food is delicious. Don't forget to visit the Achileon, Sissi�s holiday palace.
+* Corfu is maybe the most beautiful Ionian Island with so many exciting places to see. It feels a lot like being in Italy, people are always singing and the food is delicious. Don't forget to visit the Achileon, Sissi's holiday palace.
 
 * Lefkada: Amazing beaches, easily accesible as you can travel there by car. You can combine your vacation there by visiting other Ionian islands. Lefkada is quite a pieceful island with fewer tourists than other greek islands.
 
@@ -132,14 +132,22 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 ## Extreme sports
 
 * If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vouliagmeni offer lessons in many extreme sports such as: SUP, rowing , wind surf, surf, jet ski, sailing and many more.
-[click to see location](https://www.google.gr/maps/place/�������,+����+166+72/@37.8175484,23.7816949,14z/data=!3m1!4b1!4m5!3m4!1s0x14a19525c364b6ff:0x77264baecded7346!8m2!3d37.8175503!4d23.7992474?hl=el)
+[click to see location](https://www.google.gr/maps/place/Varkiza,+Vari+166+72/@37.8175485,23.7817378,14z/data=!3m1!4b1!4m5!3m4!1s0x14a19525c364b6ff:0x77264baecded7346!8m2!3d37.8175503!4d23.7992474?hl=el)
 
-## Grafifiti
+## Graffiti
+
+~ Top Places to See Street Art in Athens:
+
+* Pireos - Right next to a busy street, try not to get run over by a car while admiring the panels of street art that line this area. If you’re feeling more adventurous, head to Leonidou and Keramikou Streets and pretty much anywhere in the surrounding area. Once super-sketch and now only mildly sketch, find a lot of great pieces here too.
+
+* Gazi - Not just for nightlife anymore. Come here and around the Technopolis area (an industrial museum and cultural space) to get your fill of culture without all the tourists. Large, government-approved pieces may not be as exciting as undercover art, but everything here is still raw and beautiful.
 
 ## Kids-activities
 
 * If you want to spend a creative day with your children, get them to the Attica Zoo Park. Make sure you pick up a map to guide you around the park as it is huge, housing more than 350 animal species of which half are on the endangered list. Kids will love it.
 [For more details click here](http://www.atticapark.com/en/)
+
+* The Children's Museum in Plaka, which operates in collaboration with the Municipality of Athens, is very popular with young visitors, who enjoy the exhibits and the possibility to develop their observation skills, learn more about the cultural heritage and understand everyday life through games. Children can play at the shops of the "Market", make their own biscuits at the "Kitchen", journey through time at the "Attic", learn about their body at the exhibit "How do I move?", experiment and play with water and much more. Children under six years love the playroom where they can play with building blocks and visitors of all ages appreciate the toyshop with original toys and handmade objects.
 
 ## Other tips and tricks
 
