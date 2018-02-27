@@ -131,13 +131,19 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 ## Natural Resorts
 
-* Near the city of Volos (in the Magnisia regional unit), one can fing the magical mountain of Pilio. According to myth, this is where the gods used to live during the summer, and with good reason!!! The beauty of Pilio is truly something to behold since it is (possibly) the Greece's nature at it's absolute best! Combining breath-taking mountain forrests and sunny beaches with clear blue waters, this place is a must visit. And most importantly, do not be fooled by the beautiful sea into thinking that this is a place to only visit during the summer. If you are a friend of snow and skiing, just don't think twice.
-
+* Near the city of Volos (in the Magnisia regional unit), one can find the magical mountain of Pilio. According to myth, this is where the gods used to live during the summer, and with good reason!!! The beauty of Pilio is truly something to behold since it is (possibly) the Greece's nature at it's absolute best! Combining breath-taking mountain forrests and sunny beaches with clear blue waters, this place is a must visit. And most importantly, do not be fooled by the beautiful sea into thinking that this is a place to only visit during the summer. If you are a friend of snow and skiing, just don't think twice.
 
 ## Theatre
 
 * If you like a bit of art visit the Municipal Theatre in Piraeus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with Greek well-known actors.
 
+* Odeon of Herodes Atticus: A stone theatre structure located on the southwest slope of the Acropolis of Athens, Greece. The building was completed in 161 AD and then renovated in 1950. Since then it has been the main venue of the Athens Festival, which runs from May through October each year, featuring a variety of acclaimed Greek as well as International performances.<br/>
+<img src="https://github.com/tushartushar/taksidiotis/Photos/Odeon_of_Herodes_Atticus.jpg"><br/>
+[click for more information regarding access, history and upcoming events] (http://greekfestival.gr/en/venues/view/odeon-of-herodes-atticus)
+
+## Cinema
+
+* Cine Thisseon: With a direct view to the one and only Acropolis, Cine Thisseon is a classic summer open air cinema in Athens to check out. Showing films since 1935, it can be found on the paved walkway that connects Thission with Filoppapou Hill. Typically, the operation of the cinema begins the last week of April or the first week of May and ends in late October. [click to see location] (https://goo.gl/maps/L2ENKs1wHb12) 
 
 ## Extreme sports
 
@@ -158,6 +164,12 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 [For more details click here](http://www.atticapark.com/en/)
 
 * The Children's Museum in Plaka, which operates in collaboration with the Municipality of Athens, is very popular with young visitors, who enjoy the exhibits and the possibility to develop their observation skills, learn more about the cultural heritage and understand everyday life through games. Children can play at the shops of the "Market", make their own biscuits at the "Kitchen", journey through time at the "Attic", learn about their body at the exhibit "How do I move?", experiment and play with water and much more. Children under six years love the playroom where they can play with building blocks and visitors of all ages appreciate the toyshop with original toys and handmade objects.
+
+* Allou! Fun Park: The most famous theme park of Athens, located at Rentis. It offers plenty of activities for both kids and, why not, adults! Unfortunately, the only public means of transport that gets you there is bus. [click to see location] (https://goo.gl/maps/GAZStSK2NeA2)
+
+## Shopping
+
+* The Mall Athens: Located at Marousi, next to the "Neratziotissa station" on the Attiki Odos motorway, you will find the biggest shopping centre of Greece which hosts more than 200 shopping alternatives. Apart from shopping, the Mall also hosts lots of restaurants and coffee shops, cutting-edge cinemas and leisure areas for all family members. You can get there either by train or suburban railway. [click to see location] (https://goo.gl/maps/9rzPaefnvvy) 
 
 ## Other tips and tricks
 
