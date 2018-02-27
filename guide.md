@@ -74,7 +74,7 @@ http://www.mparmpeekiou.com
 * While in Athens , you shouldn't miss the opportunity to visit Thanasis, one of the oldest kebab taverns in Athens.Located in Monastiraki square and dating back to 1964, Thanasis is the perfect place to eat a traditional greek kebab!
 [You can visit the website here](http://othanasis.com)
 
-*Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website] (http://www.ciaoitalia.gr/)  
+* Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website] (http://www.ciaoitalia.gr/)  
 
 ## Bars
 
