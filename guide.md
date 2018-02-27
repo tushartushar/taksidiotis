@@ -123,9 +123,9 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 [click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/mykonos)
 
 
-##Theatre
+## Theatre
 
-� If you like a bit of art visit the Municipal Theatre in Pireus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with known greek actors.
+* If you like a bit of art visit the Municipal Theatre in Pireus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with known greek actors.
 
 ## Extreme sports
 
