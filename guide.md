@@ -12,7 +12,13 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * The name of Athens, connected to the name of its patron goddess Athena, originates from an earlier Pre-Greek language.
 
-* Athens was named according to the Greek mythology from competition that the goddess Athena had with Poseidon  about who will become protector of the city. The myth says that Poseidon gave a spring with sea water whilst Athena offered an olive tree as she touched the ground of the sacred rock of the Acropolis. The people of Athens choose Athena as their protector and so the city was named after the goddess of wisdom. The myth is symbolic but the two Gods symbolising the strength of Athens as a city of wisdom and as a sea power. The first settlement of Athens 3000 BC was situated on the rock of Acropolis.
+* Athens was named according to the Greek mythology from competition that the goddess Athena had with Poseidon about who will become protector of the city. The myth says that Poseidon gave a spring with sea water whilst Athena offered an olive tree as she touched the ground of the sacred rock of the Acropolis. The people of Athens choose Athena as their protector and so the city was named after the goddess of wisdom. The myth is symbolic but the two Gods symbolising the strength of Athens as a city of wisdom and as a sea power. The first settlement of Athens 3000 BC was situated on the rock of Acropolis.
+
+* One of the most commonly used gadgets these days, an alarm clock has its origin in ancient Greece. In due course of time and with the proper sophistication of technology, the alarm clock went through a number of changes from a mechanical alarm to the modern gadgets like cell phone, which come with inbuilt alarm. But the first of alarms used by ancient Greeks were nothing like today. They used to integrate mechanism to time the alarm which would sound off delicate water organs or pebbles into drums.
+
+* The Greeks also are important for the contribution to sports. "Gymnasiums" and "stadiums" today--are names that both come from Greek.  There are lots of other echoes of the Greeks in our sports tradition of today. Some of the universal track and field events (e.g., the javelin and the discus) come out of Greek tradition.  Events like the Marathon and the Decathalon have Greek names, though they weren't specific Greek events. Perhaps the best example of Greek influence on our sports tradition: the Olympic games.
+
+## Museums/Sightseeing
 
 * The National Archaeological Museum is a must if you want to explore the educational part of Athens and Greek history.
 [click to see location](https://goo.gl/maps/PqarnX2ounx)
@@ -22,11 +28,7 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 * Your walk to Acropolis and the monument of Parthenon can ideally match with a visit to the Acropolis Museum. The Acropolis Museum is an archaeological museum focused on the findings of the archaeological site of the Acropolis of Athens. The museum was built to house every artifact found on the rock and on the surrounding slopes, from the Greek Bronze Age to Roman and Byzantine Greece.
 [Click to see more](http://www.theacropolismuseum.gr/)
 
-* Apart from Athens, if you are in Greece and you have decided to visit parts of the rest of the country as well, one of the most important and most visited greek museums is the Delphi Archaeological Museum. This museum displays some of the most valuable ancient Greece's surviving treasures, like Heniokhos (also known as Charioteer of Delphi), the Sphinx of Naxos and many more. Delphi was considered to be the navel (or center) of the earth and should definitely be one of the top priority destinations of every visitor.
-
-* One of the most commonly used gadget these days, an alarm clock has its origin in ancient Greece. In due course of time and with the proper sophistication of technology, the alarm clock went through a number of changes from a mechanical alarm to the modern gadgets like cell phone, which come with inbuilt alarm. But the first of alarms used by ancient Greeks were nothing like today. They used to integrate mechanism to time the alarm which would sound off delicate water organs or pebbles into drums.
-
-* The Greeks also are important for the contribution to sports. "Gymnasiums" and "stadiums" today--are names that both come from Greek.  There are lots of other echoes of the Greeks in our sports tradition of today. Some of the universal track and field events (e.g., the javelin and the discus) come out of Greek tradition.  Events like the Marathon and the Decathalon have Greek names, though they weren't specific Greek events. Perhaps the best example of Greek influence on our sports tradition: the Olympic games.
+* Apart from Athens, if you are in Greece and you have decided to visit parts of the rest of the country as well, one of the most important and most visited Greek museums is the Delphi Archaeological Museum. This museum displays some of the most valuable ancient Greece's surviving treasures, like Heniokhos (also known as Charioteer of Delphi), the Sphinx of Naxos and many more. Delphi was considered to be the navel (or center) of the earth and should definitely be one of the top priority destinations of every visitor.
 
 ## Restaurants/Tavernas
 
