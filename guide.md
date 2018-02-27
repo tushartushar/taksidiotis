@@ -19,7 +19,7 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * It's impossible to come to Athens and not visit the Acropolis. The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance, the most famous being the Parthenon. [click to see more details](https://en.wikipedia.org/wiki/Acropolis_of_Athens)
 
-* Your walk to Acropolis and the monument of Parthenon can idealy match with a visit to the Acropolis Museum. The Acropolis Museum is an archaeological museum focused on the findings of the archaeological site of the Acropolis of Athens. The museum was built to house every artifact found on the rock and on the surrounding slopes, from the Greek Bronze Age to Roman and Byzantine Greece.
+* Your walk to Acropolis and the monument of Parthenon can ideally match with a visit to the Acropolis Museum. The Acropolis Museum is an archaeological museum focused on the findings of the archaeological site of the Acropolis of Athens. The museum was built to house every artifact found on the rock and on the surrounding slopes, from the Greek Bronze Age to Roman and Byzantine Greece.
 [Click to see more](http://www.theacropolismuseum.gr/)
 
 * One of the most commonly used gadget these days, an alarm clock has its origin in ancient Greece. In due course of time and with the proper sophistication of technology, the alarm clock went through a number of changes from a mechanical alarm to the modern gadgets like cell phone, which come with inbuilt alarm. But the first of alarms used by ancient Greeks were nothing like today. They used to integrate mechanism to time the alarm which would sound off delicate water organs or pebbles into drums.
@@ -29,7 +29,7 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 ## Restaurants/Tavernas
 
 * In the heart of Athens, under the shade of the temple of Hephaestus on the picturesque Adrianou Street, lies the unique restaurant Kuzina.
-The old mansion where the restaurant is hosted keeps a hidden surprise for tis guests: the breathtaking view to Acropolis from its Tarazza!
+The old mansion where the restaurant is hosted keeps a hidden surprise for its guests: the breathtaking view to Acropolis from its Tarazza!
 Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a unique menu that makes Kuzina stand out for combining traditional cuisine and culinary inventiveness.
 [click to see more](https://www.kuzina.gr/en/home)
 
@@ -38,7 +38,7 @@ Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a un
 
 * Varoulko restaurant is located in one of the most beautiful places, the Mikrolimano marina, in front of the sea, has easy access from  downtown Athens & Piraeus and provides its visitors an elegant atmosphere and an outstanding view. [Click to see more](http://varoulko.gr/)
 
-* Thanasis taverna is one of the most iconic tavernas in Athens, with its trademark dish being kebabs. It is a nice place to go after a walk in the center of Athens and enjoy a meal near the Monasthraki Square.
+* Thanasis taverna is one of the most iconic tavernas in Athens, with its trademark dish being kebabs. It is a nice place to go after a walk in the center of Athens and enjoy a meal near the Monastiraki Square.
 [click to see location](https://goo.gl/maps/sA1seLsfrNG2)
 
 * Don't forget to go to "Fetticio" in Glyfada to taste delicious crepes. The best crepe on the menu is number 49! It only costs 5 euros, and is covered with chocolate, crushed cookie (like a graham cracker), bananas, strawberries, and inside is ice cream. <br />
@@ -46,14 +46,14 @@ This is the crepe called "49" (It is called "49" because it is the number 49 on 
 <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/feticcio_49.jpg" width="220" height="200"> <br />
 [You can visit the website here](http://www.feticcio.gr/)
 
-* In Pireas, the country is biggest port, 20 minutes from Athens by train, you can taste the best, biggest burger in the whole town. People from all the regions of Athens arrive here to taste it. So don't forget to visit Barbeque!
+* In Piraeus, the country's biggest port, 20 minutes from Athens by train, you can taste the best, biggest burger in the whole town. People from all the regions of Athens arrive here to taste it. So don't forget to visit Barbeque!
 http://www.mparmpeekiou.com
 * Agora Restaurant includes great tasty food with unique atmosphere, great service and music. Dish not to miss : Salmon Spaghetti with Vodka Sauce. (https://www.agora-restaurant.gr/)
 
 
 * The various Greek beaches not only benefit us with their waters, where we can swim and cool off the hot days of summer, but also with the organisms that leave there. Therefore you should definitely visit a fish tavern, like 'Logo Timis' in Likovrisi. It is a very clean place with a very hostile owner, and his wife is the best cooker ever. Try the 'regosalata' plate, it is just awesome!
 
-* When it comes to greek traditional food, "Christoforos" restaurant is the right place to visit! A cozy atmosphere and plenty of tasty plates, such as lamp, gyros, souvlaki, mousaka, all in affordable prices! The quality and quantity won't disappoint you!
+* When it comes to Greek traditional food, "Christoforos" restaurant is the right place to visit! A cozy atmosphere and plenty of tasty plates, such as lamp, gyros, souvlaki, mousaka, all in affordable prices! The quality and quantity won't disappoint you!
 
 * The BALTHAZAR occupies a unique neoclassical building of 1897 with one of the few remaining green gardens on the outskirts of the city center. It works continuously since 1973 and in recent years the kitchen runs the famous chef Christoforos Peskias who takes great care of your gastronomic experience. His cuisine is characterized as Mediterranean with fusion shades. A special sushi menu is also served during the summer season.
 (https://balthazar.gr/)
@@ -66,23 +66,23 @@ http://www.mparmpeekiou.com
 [reference to 2017 list of world's best bars](https://www.worlds50bestbars.com/fifty-best-bars-list-2017/?ist=6)
 
 * If it's summer and you are in the capital of Greece, a good choice to spend your night is a bar in the city center called "six d.o.g.s". In its garden, you can relax and enjoy good music.
-[click to see the Facebook page](https://www.facebook.com/pg/sixdogsathens/about/?ref=page_internal)
+[click to see the FaceBook page](https://www.facebook.com/pg/sixdogsathens/about/?ref=page_internal)
 
-* Next to Monastiraki metro station, on the sixth floor of a small hotel, there is a rooftop cocktail bar called "A for Athens". It is now one of Athens� top after-dark venues. Outrageously popular with locals and visitors alike, it has a stylish open-air lounge terrace with amazing view of the floodlit Acropolis.
+* Next to Monastiraki metro station, on the sixth floor of a small hotel, there is a rooftop cocktail bar called "A for Athens". It is now one of Athens's top after-dark venues. Outrageously popular with locals and visitors alike, it has a stylish open-air lounge terrace with amazing view of the floodlit Acropolis.
 [click to visit website](https://aforathens.com/?lang=el)
 
-* Peek a Bloom is the perfect destination for a night out or coffee. It's environment, innovative cocktails linked to names and stories, amazing coffee made with on the spot roasted beans and healthy snacks are the reason it is one of the top spot for athenians and tourists.
+* Peek a Bloom is the perfect destination for a night out or coffee. It's environment, innovative cocktails linked to names and stories, amazing coffee made with on the spot roasted beans and healthy snacks are the reason it is one of the top spot for Athenians and tourists.
 [click to see location](https://goo.gl/maps/bm1Af1QsNpD2)
 
 * Don't miss stunning views of the Parthenon from the famous Athens Rooftop Bar called "AthenStyle", the best spot for meeting people and chilling after a long day sightseeing. Enjoy all year happy hours cheap drinks and live the AthenStyle experience! [Click here to see more.](http://athenstyle.com/en_GB/rooftop/)
 * You can't have fun without a karaoke night! Find the coolest one @ Mike's Irish Pub and drink the best of whiskey. Cozy atmosphere!(http://www.mikesirishbar.gr)
 
 
-* For a more traditional approach try the night life of Aigaleo. On its central road there are many greek bars (mezedopolia) to choose from. The wine is good but the food is better. You will be surprised by the quantities, there is no way you return home being hungry!!
+* For a more traditional approach try the night life of Aigaleo. On its central road there are many Greek bars (mezedopolia) to choose from. The wine is good but the food is better. You will be surprised by the quantities, there is no way you return home being hungry!!
 
 
 * MoMix Kerameikos - The first bar in Athens which combined molecular gastronomy with bartending, creating special cocktails for guests who like experiments.
-Opened in November 2012 and soon conquered the Athenians, and offers cocktails in alternative forms, in addition to liquid. The Momix team with lots of imagination and playfulness, shuffles foams, powders and jellies and serves the most original coktails in cups, plates and bowls!
+Opened in November 2012 and soon conquered the Athenians, and offers cocktails in alternative forms, in addition to liquid. The Momix team with lots of imagination and playfulness, shuffles foams, powders and jellies and serves the most original cocktails in cups, plates and bowls!
 [click to see location](https://www.google.gr/maps/place/MoMix+Bar+Kerameikos/@37.981228,23.7103453,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcded85399e7:0x58470aee4d500a46!8m2!3d37.981228!4d23.712534)
 
 
@@ -90,7 +90,7 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * Enjoy R&B and house music while enjoying your favorite drink at "Toyroom" in the center of Athens.
 [click to see location](https://www.google.gr/maps/place/ToyRoom+Athens/@37.977635,23.733593,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3931ab9175:0xd4f4699dd47969a8!8m2!3d37.977635!4d23.735787?hl=el)
-[check the local's opinion](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d13137578-Reviews-Toy_Room_Club-Athens_Attica.html)
+[check the locals' opinion](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d13137578-Reviews-Toy_Room_Club-Athens_Attica.html)
 
 * From Hollywood to Athens! The best night club in the city. [click to see location](https://www.google.gr/maps/place/Lohan+Nightclub/@37.980089,23.7118973,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcdf1361cf75:0xd93f0d81a48af300!8m2!3d37.980089!4d23.714086)
 * Enjoy various types of rum and Cuban history in Finca Vigia . Your rum will come along with the best Bar owners of the town and a friendly atmosphere where you can easily fit in. (https://www.facebook.com/fincavigiabar/?rf=176954512815542)
@@ -99,7 +99,7 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * In case you have enough time for holidays, a great choice for you is to visit Chania, Crete. A city that combines wonderful nightlife as well as landscapes and well-known beaches. [click to visit website](https://www.discovergreece.com/el/greek-islands/crete/chania)
 
-* Another great city of Crete is Heraklion in which you can visit a lot of well-known sightsees such as Knossos, Koules and Fountain Morozini.
+* Another great city of Crete is Heraklion in which you can visit a lot of well-known sights such as Knossos, Koules and Fountain Morozini.
 
 * Spetses:
 Beautiful nature, perfect beaches and a complex history ? Spetses is an island that has all three. It's close enough to Athens to be enjoyed as a day trip and has enough varied sites and activities to keep you completely occupied for longer trips.
@@ -108,17 +108,17 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * Santorini is a beautiful and all natural part of the Greek Islands with many wonderful places and a variety of ways you can enjoy your time there.
 [click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/santorini)
 
-* Visit Rhodes : Rhodes is a unique island that combines History from different eras of time. It has ancient greek ruins, Medieval structures, Italian structures from the Italian occupation of Rhodes, Turkish structures etc. It is well known for its sightseeings and landscape variety, which makes it one of the most visited destination in Europe. For more information check the wiki page: https://en.wikipedia.org/wiki/Rhodes
+* Visit Rhodes : Rhodes is a unique island that combines History from different eras of time. It has ancient Greek ruins, Medieval structures, Italian structures from the Italian occupation of Rhodes, Turkish structures etc. It is well known for its sightseeings and landscape variety, which makes it one of the most visited destination in Europe. For more information check the wiki page: https://en.wikipedia.org/wiki/Rhodes
 
 * Visit Lesvos : the island of hidden harmony; a unique destination, recognised as a member of the UNESCO Global Geopark Network, with long tradition and history, inherent contrasts of natural beauty, and delightful flavours with olive oil and ouzo in the spotlight!
 
 * Corfu is maybe the most beautiful Ionian Island with so many exciting places to see. It feels a lot like being in Italy, people are always singing and the food is delicious. Don't forget to visit the Achileon, Sissi's holiday palace.
 
-* Lefkada: Amazing beaches, easily accesible as you can travel there by car. You can combine your vacation there by visiting other Ionian islands. Lefkada is quite a pieceful island with fewer tourists than other greek islands.
+* Lefkada: Amazing beaches, easily accessible as you can travel there by car. You can combine your vacation there by visiting other Ionian islands. Lefkada is quite a peaceful island with fewer tourists than other Greek islands.
 
 * Serifos: an island with wild beauty and relaxing atmosphere. Not many people visit this island per year, therefore is perfect for those who want to run away from the hustle and bustle of Athens. The beaches are mainly sandy with crystal clear water. If you ever get the chance to go to the island, don't forget to go to the castle and wait for the sunrise. The view will reward you. [Click for more info](https://www.discovergreece.com/el/greek-islands/cyclades/serifos)
 
-* Mykonos:  Famous for its nightlife, though Mykonos has a lot more to offer. Beautiful and exotic rocky beaches, well-known restaurants offering traditional plates, mysterious and wonderful alleys. Mykonos combine both the quiet and the frostbite memories you want to add in your summer vacations!  
+* Mykonos: Famous for its nightlife, though Mykonos has a lot more to offer. Beautiful and exotic rocky beaches, well-known restaurants offering traditional plates, mysterious and wonderful alleys. Mykonos combine both the quiet and the frostbite memories you want to add in your summer vacations!  
 [click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/mykonos)
 
 * Skiathos: Skiathos is among the most popular islands of Greece. Famous for the golden beaches, the green nature and the vivid atmosphere, Skiathos Greece is a favourite destination for both youth and families. The most popular beaches are located on the southern side of the island, including the famous bay of Koukounaries. However, very impressive is the exotic beach of Lalaria, accessible only by boat trip that also goes to the Medieval Castle of the island. The Town is the centre of activities on the island, where visitors head in the evenings to enjoy a relaxing drink. From Skiathos island, visitors can make day excursions to Skopelos and Alonissos, the other islands of Sporades.
@@ -126,7 +126,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 ## Theatre
 
-* If you like a bit of art visit the Municipal Theatre in Pireus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with known greek actors.
+* If you like a bit of art visit the Municipal Theatre in Piraeus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with Greek well-known actors.
 
 
 ## Extreme sports
@@ -157,10 +157,10 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * A day trip in Sounion (2 hours car drive from Athens) is a nice choice for somebody who wants to escape from the capital. The temple of Poseidon and the view from up there worth the visit. [click to see more details](https://en.wikipedia.org/wiki/Sounion)
 
-* Don't forget your hat and your sunglasses!!
+* Don't forget your hat and your sunglasses!! Sunscreen is also a must (especially if you are fair-skinned)!
 
-* Never bother lining up at the main entrance of the Acropolis. There’s a back way in that has a tiny line that no one knows about. This back door is faster and more efficient than the main like that every other tourist uses. By using this alternative entrance it will save you an hour of lining up in the blazing sun (should you ignore Vasilis’ tip above).
+* Never bother lining up at the main entrance of the Acropolis. There’s a back way in that has a tiny line that no one knows about. This back door is faster and more efficient than the main like that every other tourist uses. By using this alternative entrance it will save you an hour of lining up in the blazing sun (should you ignore Vasilis’s tip above).
 
 * Mobile Phone Data is important when you’ve stopped using paper maps. Outside the central subway stations you’ll find people set up selling sim cards with various data packs on offer. While they are looking to sell to locals – as a tourist it’s an absolute bargain for the mouth of data you get plus the ability to book bars and restaurants.
 
-* The Greeks will be more friendly and eager to help if you try to speak some Greek, too. Just a couple of words are fine, they love it when they hear a stranger speaking their language. So, say kalimera instead of “good morning” and efxaristo instead of “thank you”, and you will see some big proud smiles in their faces.
+* The Greeks will be more friendly and eager to help if you try to speak some Greek, too. Just a couple of words are fine, they love it when they hear a stranger speaking their language. So, say “kalimera” instead of “good morning” and “efxaristo” instead of “thank you”, and you will see some big proud smiles in their faces.
