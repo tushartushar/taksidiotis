@@ -6,8 +6,6 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## History
 
-* Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress. More info here: https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes
-
 * Democracy was inherited to the world by ancient Greece and especially Athens where it was developed around the fifth century BC. The longest-lasting democratic leader was Pericles. [click to see more details](https://en.wikipedia.org/wiki/Athenian_democracy)
 
 * Mathematics and specifically geometry were greatly advanced in ancient Greece. Among the most famous mathematicians are Pythagoras, Euclides and Thales.  [click to see more details](https://en.wikipedia.org/wiki/Greek_mathematics)
@@ -21,6 +19,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 * The Greeks also are important for the contribution to sports. "Gymnasiums" and "stadiums" today--are names that both come from Greek.  There are lots of other echoes of the Greeks in our sports tradition of today. Some of the universal track and field events (e.g., the javelin and the discus) come out of Greek tradition.  Events like the Marathon and the Decathalon have Greek names, though they weren't specific Greek events. Perhaps the best example of Greek influence on our sports tradition: the Olympic games.
 
 ## Museums/Sightseeing
+
+* Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress. More info here: https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes
 
 * The National Archaeological Museum is a must if you want to explore the educational part of Athens and Greek history.
 [click to see location](https://goo.gl/maps/PqarnX2ounx)
