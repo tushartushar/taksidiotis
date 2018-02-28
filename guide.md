@@ -44,6 +44,7 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 * Stavros Niarchos Foundation Cultural Center: If you want to rest and take a walk into Athens' most beautiful spots [SNFCC](https://en.wikipedia.org/wiki/Stavros_Niarchos_Foundation_Cultural_Center) is your place. [Located in the bay of Phaliron](https://goo.gl/maps/fB6XJbZ5pwk), includes new facilities for the National Library of Greece and the National Opera, as well as the 210,000 m² Stavros Niarchos Park. For more info click [here](https://www.snfcc.org/?lang=en)
 
 * Technopolis - Located within touching distance of Syntagma Square and the Monastiraki Flea Market, Technopolis is an event and art space within an old natural gas processing plant. It has sort of a MoMA PS1 vibe. The industrial museum is open to the public Tuesday through Sunday. Visitors learn about the work conditions in the old plant and its experiential approach to its operations during the 19th century. Most Athenians, though, will simply tell you to check the venue's events calendar for any upcoming concerts, parties, DJ sets and exhibits.
+<br/><img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/tp.jpg" width="220" height="200"><br/>
 
 * Eloi 1 - In the basement of the historic building of the Athens University of Economics and Business in Patission Street lies a place of dream and wonder. Where grandmaster Sofos awaits to nurture the young students who frequently use the lab scrambling to finish their projects in Java, SQL and various other subjects. ATTENTION!! Heavy rain might cause the lab to be flooded with water so I wouldn't visit it if the skies are grey. 
 
@@ -218,6 +219,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 [click for more information regarding access, history and upcoming events](http://greekfestival.gr/en/venues/view/odeon-of-herodes-atticus)
 
 * To Treno Sto Rouf : Opened in 1997, the venue is housed in an Italian passenger wagon dating back to 1950. Though small, the stage is fully-equipped and hosts lectures, musical performances and of course, theatrical works. Plus, the wagon is equipped with a mechanism that stimulated the comforting motion of a train. To Treno Sto Rouf’s agenda is rich and varied with educational programs, theatrical performances for adults and children, exhibitions and other cultural events. This little hidden gem is located less than 10 minutes from the nightlife hub of Gazi and certainly deserves a visit. Whether you are in the mood for a play, a performance or simply a drink in an unusual venue, To Treno Sto Rouf is undeniably one of the best-kept secrets in Athens.
+<br/><img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/treno.jpg"><br/>
 
 * During your stay in Athens, you should totally visit Ebros!It is an theatre in Psurri, which is occupied by a group of people. They have regular meetings where they organise everything about the theatre 's operation, the events, the concerts the parties and the plays. The good thing about Ebros is that its logic is that all its members are equal, without any boss or individual property. [click for more info http://embrostheater.blogspot.gr/]
 
@@ -267,12 +269,15 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * Aeropagus Hill - If you need to take a rest after visiting the Acropolis, take a break at the Vrahakia, the rocky top of Aeropagus Hill, right across from the entrance of the sacred site. From there, you can admire the actual size of the city and simply relax.
 
 * Lycabettus Hill - If you’re the sporty type, why not hike up the paths in Kolonaki? If not take a bus from Panepistimiou Street or the funicular from Aristippou Street. The end game is to enjoy the most amazing view of Athens at an altitude of 300 meters. The 19th century chapel of Saint George, surrounded by pine trees, dominates the top of the mount Lycabettus, while the open-air theater here hosts a number of performances and concerts every summer.
+<br/><img src="https://github.com/tushartushar/taksidiotis/blob/master/lycabettus.jpg"><br/>
 
 ## Events
 
 * Technopolis Jazz Festival - Organized by the Technopolis City of Athens and the Onassis Cultural Center, the Technopolis Jazz Festival is one of the best open-air concert experiences you can have in Athens before the summer. Each year, during the last week of May, multiple talented jazz musicians from Greece and all around the globe come together to celebrate Jazz Music and give you a performance you will never forget! The festival lasts 6 days and the entrance is free so Jazz Be There - pun intended.
+[click to visit website](https://www.technopolisjazzfestival.com/index.php)
 
 * Epidaurus Festival - Ever wondered what theater was like in Ancient Greece? Then why not make the trip to Epidaurus to witness it with your own eyes, in the place where some of the most important figures of Ancient Greece's tragedy and comedy scene like Euripides, Aeschylus and Aristophanes enacted their plays. Epidaurus performances are presented every Friday and Saturday, from the beginning of July to mid-August. Starting hours: 21:00 for Ancient Theatre of Epidaurus, 21:30 for Little Theatre of Ancient Epidaurus.
+[click to visit website](http://greekfestival.gr/gr/events)
 
 ## Other tips and tricks
 
@@ -291,3 +296,5 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * The Greeks will be more friendly and eager to help if you try to speak some Greek, too. Just a couple of words are fine, they love it when they hear a stranger speaking their language. So, say “kalimera” instead of “good morning” and “efxaristo” instead of “thank you”, and you will see some big proud smiles in their faces.
 
 * Adding to the previous tip a visitor can watch this 13 minutes video if he wants to learn something more: https://www.youtube.com/watch?v=O5cI_D1XA7M
+
+<br/><img src="https://github.com/tushartushar/taksidiotis/blob/master/jug.jpg"><br/>
