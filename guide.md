@@ -88,6 +88,8 @@ Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a un
 * Thanasis taverna is one of the most iconic tavernas in Athens, with its trademark dish being kebabs. It is a nice place to go after a walk in the center of Athens and enjoy a meal near the Monastiraki Square.
 [click to see location](https://goo.gl/maps/sA1seLsfrNG2)
 
+> The ultimate in fast food. Great gyros very tasty and good value. Efficient and friendly service. Would definitely come again - Sarah M.
+
 * Just 33 km east of Athens, there is a village named Kalyvia Thorikou. This village is lucky enough to have plenty of simply amazing tavernas. There one might find some of the tastiest delicacies Greece has to offer to meat lovers the world around. The most iconic of them all should be the famous kontosouvli and this is just the tip of the iceberg as you can try tasty grilled goat chops and many many more!!!
 
 * Don't forget to go to "Fetticio" in Glyfada to taste delicious crepes. The best crepe on the menu is number 49! It only costs 5 euros, and is covered with chocolate, crushed cookie (like a graham cracker), bananas, strawberries, and inside is ice cream. <br />
