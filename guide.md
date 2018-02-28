@@ -80,17 +80,22 @@ http://www.mparmpeekiou.com
 * The BALTHAZAR occupies a unique neoclassical building of 1897 with one of the few remaining green gardens on the outskirts of the city center. It works continuously since 1973 and in recent years the kitchen runs the famous chef Christoforos Peskias who takes great care of your gastronomic experience. His cuisine is characterized as Mediterranean with fusion shades. A special sushi menu is also served during the summer season.
 (https://balthazar.gr/)
 
-* While in Athens , you shouldn't miss the opportunity to visit Thanasis, one of the oldest kebab taverns in Athens.Located in Monastiraki square and dating back to 1964, Thanasis is the perfect place to eat a traditional greek kebab!
+* While in Athens , you shouldn't miss the opportunity to visit Thanasis, one of the oldest kebab taverns in Athens. Located in Monastiraki square and dating back to 1964, Thanasis is the perfect place to eat a traditional greek kebab!
 [You can visit the website here](http://othanasis.com)
 
-* Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website] (http://www.ciaoitalia.gr/)  
+* Dont forget to visit the Italian restaurant named Ciao. Located in Pagrati, is the best place for pasta, pizza and many other italian recipes, for sure you will not be dissapointed! For more info [click to see the website] (http://www.ciaoitalia.gr/)  
 
 * Wafflehouse offers an extremely wide variety of homemade ice-cream flavours and delicious fresh baked waffles. It is located in Vouliagmeni and there you can enjoy your dessert while gazing at the mesmerizing sea! (http://www.wafflehouse.gr/)
 
-* A hidden place in the center of Athens is the Restaurant-Cafe-Bar named Cabezon("Καμπεθόν"). This place is unique, you won't find an open door with a big logo outside. It is a house with a garden, and you can either drink your coffee in the morning, eat a meal in the afternoon or party with some techno vibes at night.
-[Location: Καμπεθόν, Kerameikou 110,  Athens](https://goo.gl/maps/6VMXmBKzLwK2)
+* A hidden place in the center of Athens is the Restaurant-Coffee-Bar named Cabezon("Καμπεθόν"). This place is unique, you won't find an open door with a big logo outside. It is a house with a garden, and you can either drink your coffee in the morning, eat a meal in the afternoon or party with some techno vibes at night.
+[Click to see location](https://goo.gl/maps/6VMXmBKzLwK2)
 <br>
 
+* For me the best place at the center of Athens is "Avli", which is located at Psirri, Athens. If you are lucky enough to find the tiny door, open it and you will feel like you've entered the square of a small island village with white walls and blue shutters. It's the place were locals go to eat Greek traditional plates, all homemade dishes, and drink raki, tsipouro, ouzo, beer and wine. Despite all the above mentioned, what I personally love the most is the ambience of the place, which makes you forget you are a stranger and someway unites you with other people.
+Here you can take a look at the inside:
+<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/avli.jpg">
+Because of its' difficult location to find, we provide you with one here:
+[click to see location](https://goo.gl/maps/XeHgK5bzf2v)
 
 ## Bars
 
@@ -105,7 +110,7 @@ http://www.mparmpeekiou.com
 [reference to 2017 list of world's best bars](https://www.worlds50bestbars.com/fifty-best-bars-list-2017/?ist=6)
 
 * If it's summer and you are in the capital of Greece, a good choice to spend your night is a bar in the city center called "six d.o.g.s". In its garden, you can relax and enjoy good music.
-[click to see the FaceBook page](https://www.facebook.com/pg/sixdogsathens/about/?ref=page_internal)
+[click to see the Facebook page](https://www.facebook.com/pg/sixdogsathens/about/?ref=page_internal)
 
 * Next to Monastiraki metro station, on the sixth floor of a small hotel, there is a rooftop cocktail bar called "A for Athens". It is now one of Athens's top after-dark venues. Outrageously popular with locals and visitors alike, it has a stylish open-air lounge terrace with amazing view of the floodlit Acropolis.
 [click to visit website](https://aforathens.com/?lang=el)
