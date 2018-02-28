@@ -25,12 +25,12 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * The marathon event was created for the modern Olympic Games held in Athens. The marathon is a commemoration of the run of the Greek soldier Pheidippides (also known as Philippides), who ran from Marathon to Athens to report the Athenians’ victory against the Persians in 490 B.C.
 
-##Climate
+## Climate
 
 Athens has a hot-summer Mediterranean climate. The dominant feature of Athens' climate is alternation between prolonged hot and dry summers and mild to cool winters with moderate rainfall.[37] With an average of 416.8 millimetres (16.41 in) of yearly precipitation, rainfall occurs largely between the months of October and April. July and August are the driest months, where thunderstorms occur sparsely once or twice a month.
 
 | Month     | High | Low |
-| --------- |:----:| ---:|
+| --------- |:----:|:---:|
 | January   | 13   | 7   |
 | February  | 14   | 7   |
 | March     | 16   | 8   |
