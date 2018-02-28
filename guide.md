@@ -1,6 +1,7 @@
 ﻿# Taksidiotis - Athens travel guide by the Greeks
 
 Athens is the capital city of Greece and the largest as well. Athens dominates the Attica region and is one of the world's oldest cities, with its recorded history spanning over 3,400 years.
+Athens is a vibrant city with unlimited choices and contrasts to fall in love with. Here’s a list of the sights, places and activities that will make your Athenian experience unforgettable.
 
 Take a look at the amazing video capturing Athens at night ["City of Athens - A Portrait of a Changing Metropolis"](https://vimeo.com/256590553) by Alexandros Maragos.
 
@@ -40,6 +41,9 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * Stavros Niarchos Foundation Cultural Center: If you want to rest and take a walk into Athens' most beautiful spots [SNFCC](https://en.wikipedia.org/wiki/Stavros_Niarchos_Foundation_Cultural_Center) is your place. [Located in the bay of Phaliron](https://goo.gl/maps/fB6XJbZ5pwk), includes new facilities for the National Library of Greece and the National Opera, as well as the 210,000 m² Stavros Niarchos Park. For more info click [here](https://www.snfcc.org/?lang=en)
 
+* Technopolis - Located within touching distance of Syntagma Square and the Monastiraki Flea Market, Technopolis is an event and art space within an old natural gas processing plant. It has sort of a MoMA PS1 vibe. The industrial museum is open to the public Tuesday through Sunday. Visitors learn about the work conditions in the old plant and its experiential approach to its operations during the 19th century. Most Athenians, though, will simply tell you to check the venue's events calendar for any upcoming concerts, parties, DJ sets and exhibits.
+
+* Eloi 1 - In the basement of the historic building of the Athens University of Economics and Business in Patission Street lies a place of dream and wonder. Where grandmaster Sofos awaits to nurture the young students who frequently use the lab scrambling to finish their projects in Java, SQL and various other subjects. ATTENTION!! Heavy rain might cause the lab to be flooded with water so I wouldn't visit it if the skies are grey. 
 
 ## Restaurants/Tavernas
 
@@ -117,6 +121,9 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * An oasis in the heart of Athens called "Six D.O.G.S" combines a lot of different happenings in one place. One can enjoy a relaxing coffee or snack in the back garden, a cocktail watching a concert, or cultural event while mingling with people from different backgrounds. [Click here to see more.] (https://sixdogs.gr/)
 
+* Baba au Rum - As strange as it sounds, this Greek, rum-focused cocktail joint has actually been named one of the world's 50 best bars.The cozy spot has a groovy 1950s feel and is located on a small, pedestrian street close to Syntagma Square. With tables outside and no cars to worry about, visitors tend to simply take over the street, turning the small bar into an awesome block party. It boasts a ridiculous selection of rums from Cuba, Trinidad, Mexico, Puerto Rico, the list goes on. While there is a set cocktail menu featuring everything from Tiki drinks to non-rum varietals like Pimm's Cups and Bloody Marys, patrons can simply tell the bartender what they're in the mood for and they'll mix something unique up especially for you. Don't despair if you can't make it to an island during your first visit to Greece, you'll definitely get the happy-go-lucky summer vibe here (even if it's more Barbados than Mykonos).
+  [click to visit website] (http://babaaurum.com/)
+
 ## Night life
 
 * Enjoy R&B and house music while enjoying your favorite drink at "Toyroom" in the center of Athens.
@@ -179,6 +186,8 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/Odeon_of_Herodes_Atticus.jpg"><br/>
 [click for more information regarding access, history and upcoming events](http://greekfestival.gr/en/venues/view/odeon-of-herodes-atticus)
 
+* To Treno Sto Rouf : Opened in 1997, the venue is housed in an Italian passenger wagon dating back to 1950. Though small, the stage is fully-equipped and hosts lectures, musical performances and of course, theatrical works. Plus, the wagon is equipped with a mechanism that stimulated the comforting motion of a train. To Treno Sto Rouf’s agenda is rich and varied with educational programs, theatrical performances for adults and children, exhibitions and other cultural events. This little hidden gem is located less than 10 minutes from the nightlife hub of Gazi and certainly deserves a visit. Whether you are in the mood for a play, a performance or simply a drink in an unusual venue, To Treno Sto Rouf is undeniably one of the best-kept secrets in Athens.
+
 ## Cinema
 
 * Cine Thisseon: With a direct view to the one and only Acropolis, Cine Thisseon is a classic summer open air cinema in Athens to check out. Showing films since 1935, it can be found on the paved walkway that connects Thission with Filoppapou Hill. Typically, the operation of the cinema begins the last week of April or the first week of May and ends in late October. [click to see location](https://goo.gl/maps/L2ENKs1wHb12)
@@ -187,6 +196,8 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vouliagmeni offer lessons in many extreme sports such as: SUP, rowing , wind surf, surf, jet ski, sailing and many more.
 [click to see location](https://www.google.gr/maps/place/Varkiza,+Vari+166+72/@37.8175485,23.7817378,14z/data=!3m1!4b1!4m5!3m4!1s0x14a19525c364b6ff:0x77264baecded7346!8m2!3d37.8175503!4d23.7992474?hl=el)
+
+* If you are a hiking enthusiast, Mount Hymettus, culminating at 1026 kilometers, is located east of Athens, near the Zografou university campus. So skip the monument visits and get your dose of fresh air by climbing up the mountain and enjoying spectacular views of the city all the way to the sea. Make a day of it and try to reach Kaisariani Monastery, a Byzantine monastery dating back to 1100.
 
 ## Graffiti
 
@@ -209,6 +220,22 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 ## Shopping
 
 * The Mall Athens: Located at Marousi, next to the "Neratziotissa station" on the Attiki Odos motorway, it is the biggest shopping centre of Greece hosting more than 200 shopping alternatives. Apart from shopping, the Mall also hosts lots of restaurants and coffee shops, cutting-edge cinemas and leisure areas for all family members. You can get there either by train or suburban railway. [click to see location](https://goo.gl/maps/9rzPaefnvvy)
+
+## Urban Tourist Spots
+
+* Pittaki Street, a poorly lit industrial alley near Monastiraki Square connecting Ermou Street to Psirri, was not a very popular one. Lined with warehouses and small businesses, the pedestrian street was mostly used as a urinal after dusk. But everything changed in 2012, when a non-profit organization called Imagine The City partnered up with creative design studio Beforelight to revamp the forgotten street. Their idea? Turn the dark alley into a promenade. They started by asking locals to donate lamps and shades, and the residents quickly obliged; pretty soon, chandeliers, Chinese paper lanterns, and lamp fixtures piled up and were weatherproofed, wired, and strung together, creating a bright, cozy canopy over the street.
+
+* Anafiotika - Mimicking the Cycladic architecture, with its stark white cubic houses, flat roofs and colorful shutters and doors, Anafiotika is truly a little island in the Greek metropolis. Wander through the narrow streets of Anafiotika, admire the many bougainvillea-covered walls but don’t forget to snatch some shots of the Acropolis from a different perspective.
+
+* Aeropagus Hill - If you need to take a rest after visiting the Acropolis, take a break at the Vrahakia, the rocky top of Aeropagus Hill, right across from the entrance of the sacred site. From there, you can admire the actual size of the city and simply relax.
+
+* Lycabettus Hill - If you’re the sporty type, why not hike up the paths in Kolonaki? If not take a bus from Panepistimiou Street or the funicular from Aristippou Street. The end game is to enjoy the most amazing view of Athens at an altitude of 300 meters. The 19th century chapel of Saint George, surrounded by pine trees, dominates the top of the mount Lycabettus, while the open-air theater here hosts a number of performances and concerts every summer.
+
+## Events
+
+* Technopolis Jazz Festival - Organized by the Technopolis City of Athens and the Onassis Cultural Center, the Technopolis Jazz Festival is one of the best open-air concert experiences you can have in Athens before the summer. Each year, during the last week of May, multiple talented jazz musicians from Greece and all around the globe come together to celebrate Jazz Music and give you a performance you will never forget! The festival lasts 6 days and the entrance is free so Jazz Be There - pun intended.
+
+* Epidaurus Festival - Ever wondered what theater was like in Ancient Greece? Then why not make the trip to Epidaurus to witness it with your own eyes, in the place where some of the most important figures of Ancient Greece's tragedy and comedy scene like Euripides, Aeschylus and Aristophanes enacted their plays. Epidaurus performances are presented every Friday and Saturday, from the beginning of July to mid-August. Starting hours: 21:00 for Ancient Theatre of Epidaurus, 21:30 for Little Theatre of Ancient Epidaurus.
 
 ## Other tips and tricks
 
