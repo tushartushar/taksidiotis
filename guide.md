@@ -20,6 +20,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * The Greeks also are important for the contribution to sports. "Gymnasiums" and "stadiums" today--are names that both come from Greek.  There are lots of other echoes of the Greeks in our sports tradition of today. Some of the universal track and field events (e.g., the javelin and the discus) come out of Greek tradition.  Events like the Marathon and the Decathalon have Greek names, though they weren't specific Greek events. Perhaps the best example of Greek influence on our sports tradition: the Olympic games.
 
+* The marathon event was created for the modern Olympic Games held in Athens. The marathon is a commemoration of the run of the Greek soldier Pheidippides (also known as Philippides), who ran from Marathon to Athens to report the Athenians’ victory against the Persians in 490 B.C.
+
 ## Museums/Sightseeing
 
 * Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress. More info here: https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes
@@ -111,6 +113,7 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * If you are in the mood for rock and metal music the place in Athens for you to go is Intrepid Fox in Gazi square.A great collection of beers cocktails and shots that will give you a night to remember!
 
+* An oasis in the heart of Athens called "Six D.O.G.S" combines a lot of different happenings in one place. One can enjoy a relaxing coffee or snack in the back garden, a cocktail watching a concert, or cultural event while mingling with people from different backgrounds. [Click here to see more.] (https://sixdogs.gr/)
 
 ## Night life
 
@@ -216,3 +219,5 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * Mobile Phone Data is important when you’ve stopped using paper maps. Outside the central subway stations you’ll find people set up selling sim cards with various data packs on offer. While they are looking to sell to locals – as a tourist it’s an absolute bargain for the mouth of data you get plus the ability to book bars and restaurants.
 
 * The Greeks will be more friendly and eager to help if you try to speak some Greek, too. Just a couple of words are fine, they love it when they hear a stranger speaking their language. So, say “kalimera” instead of “good morning” and “efxaristo” instead of “thank you”, and you will see some big proud smiles in their faces.
+
+* Adding to the previous tip a visitor can watch this 13 minutes video if he wants to learn something more: https://www.youtube.com/watch?v=O5cI_D1XA7M
