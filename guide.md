@@ -50,7 +50,7 @@ Athens has a hot-summer Mediterranean climate. The dominant feature of Athens' c
 
 * [The Pnyx](https://en.wikipedia.org/wiki/Pnyx) is a picturesque location under the Acropolis where many distinguished Greeks addressed the people. [Themistocles](https://en.wikipedia.org/wiki/Themistocles), [Pericles](https://en.wikipedia.org/wiki/Pericles) and [Kolokotronis](https://en.wikipedia.org/wiki/Theodoros_Kolokotronis) were some among them.
 
-* Despite the fact that Greece was the center of Science and Art in the ancient world, Greeks had to fight many wars. Regardless of its causes or its tolls, every war is a matter of study. [Athens War Museum](http://warmuseum.gr/en) is a place where artifacts from every war fought by the Greeks are gathered. Some of them predate even the iron age.
+* Despite the fact that Greece was the centre of Science and Art in the ancient world, Greeks had to fight many wars. Regardless of its causes or its tolls, every war is a matter of study. [Athens War Museum](http://warmuseum.gr/en) is a place where artifacts from every war fought by the Greeks are gathered. Some of them predate even the iron age.
 
 *ο Αρχαιολογικό Μουσείο Αγρινίου στεγάζεται σε κτίριο που βρίσκεται νοτιοανατολικά του μεγάλου πάρκου της πόλης και κτίστηκε τη δεκαετία του ’60 με δωρεά των αδελφών παπαστράτου
 
