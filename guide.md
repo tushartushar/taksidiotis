@@ -25,6 +25,25 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * The marathon event was created for the modern Olympic Games held in Athens. The marathon is a commemoration of the run of the Greek soldier Pheidippides (also known as Philippides), who ran from Marathon to Athens to report the Athenians’ victory against the Persians in 490 B.C.
 
+## Climate
+
+Athens has a hot-summer Mediterranean climate. The dominant feature of Athens' climate is alternation between prolonged hot and dry summers and mild to cool winters with moderate rainfall.[37] With an average of 416.8 millimetres (16.41 in) of yearly precipitation, rainfall occurs largely between the months of October and April. July and August are the driest months, where thunderstorms occur sparsely once or twice a month.
+
+| Month     | High | Low | Rain   |
+| --------- |:----:|:---:|:------:|
+| January   | 13   | 7   | 5 days |
+| February  | 14   | 7   | 4 days |
+| March     | 16   | 8   | 4 days |
+| April     | 20   | 11  | 3 days |
+| May       | 25   | 16  | 2 days |
+| June      | 29   | 20  | 1 day  |
+| July      | 33   | 23  | 0 day  |
+| August    | 32   | 23  | 0 day  |
+| September | 29   | 20  | 1 day  |
+| October   | 23   | 15  | 3 days |
+| November  | 18   | 11  | 4 days |
+| December  | 15   | 8   | 6 days |
+
 ## Museums/Sightseeing
 
 * Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress. More info here: https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes
@@ -109,6 +128,10 @@ Here you can take a look at the inside:
 Because of its' difficult location to find, we provide you with one here:
 [click to see location](https://goo.gl/maps/XeHgK5bzf2v)
 
+
+* Nancysweethome located in Monastiraki. Juicy chocolates, loafed strawberries, oriental kazan dibi and carnouses, mastitis creos, syropiasta and all the serbets (for the heavy cribs), arrived at the most relaxed and cute Glycopolis in Athens. (http://nancysweethome.gr/)
+
+=======
 * **Atitamatos** - Greek/Mediterranean Cuisine. Excellent food and service. Moderate price. _Solonos & Kapodistriou 2, Athens_
 
 * **Feyrouz** - Lebanese Cuisine. Lovely Food. Cheap. Self service. _Karori 23 & Aiolou, Athens_ [See more](http://feyrouz.gr/en/)
@@ -116,7 +139,11 @@ Because of its' difficult location to find, we provide you with one here:
 ## Cafe
 
 * **Little Tree Books & Coffee** - Coffee/Books. Cozy and Charming place. Excellent service. _Kavalloti 2, Athens_
+
+>>>>>>> 1faf1635a903d732eb4621d686bd1451bd9a7fb6
+=======
 >>>>>>> a17c39321c15d5090710124c69e51910194156cf
+>>>>>>> 8a0b284162d8ccfcabf9b7d14a332d585c84d7c0
 
 ## Bars
 
@@ -153,8 +180,13 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * An oasis in the heart of Athens called "Six D.O.G.S" combines a lot of different happenings in one place. One can enjoy a relaxing coffee or snack in the back garden, a cocktail watching a concert, or cultural event while mingling with people from different backgrounds. [Click here to see more.] (https://sixdogs.gr/)
 
+
+* Tiki Bar Athens is a well known treasure for the ones visiting the Greek capital, offering some genuine tropical vibes near the Acropolis, Odeon of Herodes Atticus and Athens Central square of Syntagma.Tiki Bar Athens is a place that it's spirit and...high quality spirits can only be found in Quentin Tarantino movies. Given the decoration with Rock and Roll, Tiki, Dia de Los Muertos and B Movies, it's unique style matches the unique cocktails and it's authentic perspective in music from 1920's up to date. (http://www.tikiathens.com/en/)
+
+=======
 * Baba au Rum - As strange as it sounds, this Greek, rum-focused cocktail joint has actually been named one of the world's 50 best bars.The cozy spot has a groovy 1950s feel and is located on a small, pedestrian street close to Syntagma Square. With tables outside and no cars to worry about, visitors tend to simply take over the street, turning the small bar into an awesome block party. It boasts a ridiculous selection of rums from Cuba, Trinidad, Mexico, Puerto Rico, the list goes on. While there is a set cocktail menu featuring everything from Tiki drinks to non-rum varietals like Pimm's Cups and Bloody Marys, patrons can simply tell the bartender what they're in the mood for and they'll mix something unique up especially for you. Don't despair if you can't make it to an island during your first visit to Greece, you'll definitely get the happy-go-lucky summer vibe here (even if it's more Barbados than Mykonos).
   [click to visit website] (http://babaaurum.com/)
+>>>>>>> 1faf1635a903d732eb4621d686bd1451bd9a7fb6
 
 ## Night life
 
@@ -173,7 +205,13 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic d?cor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here (https://www.facebook.com/cinderelladisco/?rf=929806063741649)
 
+
+* Located in Excarcheia, Kioumprik is a bar that you should totally visit! It plays many kind of music such as reggae, hip hop, punk, rock, stoner and more! the people who work there also run it with an assemply, so that they all can have part in its management. There is no relationship of employers - employees something difficult to find in a capitalistic country. [To see photos of Kioumprik click here https://www.google.gr/maps/uv?hl=el&pb=!1s0x14a1bd36e8ade401%3A0x10f139cef177887a!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd%3Dw216-h160-k-no!5zzrrOuc6_z4XOvM-Az4HOuc66IM61zr7Osc-Bz4fOtc65zrEgLSDOkc69zrHOts6uz4TOt8-DzrcgR29vZ2xl&imagekey=!1e10!2sAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd&sa=X&ved=0ahUKEwi0wJK_xsjZAhWDWxQKHbMlCUAQoioIeTAK]
+
+* Located in Monastiraki, Crust Athens is an underground club for people who want to party till the morning hours. It's also recommended for those who love pizza due to the fact that it serves great and worth-the-money pizza.(http://www.crust.gr/)
+=======
 * Located in Excarcheia, Kioumprik is a bar that you should totally visit! It plays many kind of music such as reggae, hip hop, punk, rock, stoner and more! the people who work there also run it with an assemply, so that they all can have part in its management. There is no relationship of employers - employees something difficult to find in a capitalistic country. [To see photos of Kioumprik click here](https://www.google.gr/maps/uv?hl=el&pb=!1s0x14a1bd36e8ade401%3A0x10f139cef177887a!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd%3Dw216-h160-k-no!5zzrrOuc6_z4XOvM-Az4HOuc66IM61zr7Osc-Bz4fOtc65zrEgLSDOkc69zrHOts6uz4TOt8-DzrcgR29vZ2xl&imagekey=!1e10!2sAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd&sa=X&ved=0ahUKEwi0wJK_xsjZAhWDWxQKHbMlCUAQoioIeTAK)
+
 
 ## Islands
 
@@ -229,10 +267,14 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/Odeon_of_Herodes_Atticus.jpg"><br/>
 [click for more information regarding access, history and upcoming events](http://greekfestival.gr/en/venues/view/odeon-of-herodes-atticus)
 
+
+* During your stay in Athens, you should totally visit Ebros!It is an theatre in Psurri, which is occupied by a group of people. They have regular meetings where they organise everything about the theatre 's operation, the events, the concerts the parties and the plays. The good thing about Ebros is that its logic is that all its members are equal, without any boss or individual property. [click for more info http://embrostheater.blogspot.gr/]
+=======
 * To Treno Sto Rouf : Opened in 1997, the venue is housed in an Italian passenger wagon dating back to 1950. Though small, the stage is fully-equipped and hosts lectures, musical performances and of course, theatrical works. Plus, the wagon is equipped with a mechanism that stimulated the comforting motion of a train. To Treno Sto Rouf’s agenda is rich and varied with educational programs, theatrical performances for adults and children, exhibitions and other cultural events. This little hidden gem is located less than 10 minutes from the nightlife hub of Gazi and certainly deserves a visit. Whether you are in the mood for a play, a performance or simply a drink in an unusual venue, To Treno Sto Rouf is undeniably one of the best-kept secrets in Athens.
 
 * During your stay in Athens, you should totally visit Ebros!It is an theatre in Psurri, which is occupied by a group of people. They have regular meetings where they organise everything about the theatre 's operation, the events, the concerts the parties and the plays. The good thing about Ebros is that its logic is that all its members are equal, without any boss or individual property. [click for more info http://embrostheater.blogspot.gr/]
 
+>>>>>>> 1faf1635a903d732eb4621d686bd1451bd9a7fb6
 ## Cinema
 
 * Cine Thisseon: With a direct view to the one and only Acropolis, Cine Thisseon is a classic summer open air cinema in Athens to check out. Showing films since 1935, it can be found on the paved walkway that connects Thission with Filoppapou Hill. Typically, the operation of the cinema begins the last week of April or the first week of May and ends in late October. [click to see location](https://goo.gl/maps/L2ENKs1wHb12)
@@ -242,10 +284,13 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vouliagmeni offer lessons in many extreme sports such as: SUP, rowing , wind surf, surf, jet ski, sailing and many more.
 [click to see location](https://www.google.gr/maps/place/Varkiza,+Vari+166+72/@37.8175485,23.7817378,14z/data=!3m1!4b1!4m5!3m4!1s0x14a19525c364b6ff:0x77264baecded7346!8m2!3d37.8175503!4d23.7992474?hl=el)
 
+
+=======
 * If you are a hiking enthusiast, Mount Hymettus, culminating at 1026 kilometers, is located east of Athens, near the Zografou university campus. So skip the monument visits and get your dose of fresh air by climbing up the mountain and enjoying spectacular views of the city all the way to the sea. Make a day of it and try to reach Kaisariani Monastery, a Byzantine monastery dating back to 1100.
 
 * Bungee Jumping: If you want to feel happiness through the absolute meaning of freedom, this is the place to go. The power of the ability to “fly” everywhere, will definitely rise your adrenaline levels. "Zulu Bungy" have made their personal need of generously sharing smiles to people so as to make their world more beautiful. The spot that has been chosen to set up the appropriate facilities is one of the most magnificent works in the world. The Isthmus is the main strategic point of the Greek area and one of the most important works in East Mediterranean. Its tunneling has been a significant issue since the ancient times  as the creation of the canal would solve a lot of problems and would facilitate the navigation and the trade.
 [click to see what it looks like](https://youtu.be/QcbhWYmjdLw)
+>>>>>>> 1faf1635a903d732eb4621d686bd1451bd9a7fb6
 
 
 
