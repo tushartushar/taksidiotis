@@ -74,8 +74,8 @@ This is the crepe called "49" (It is called "49" because it is the number 49 on 
 
 * In Piraeus, the country's biggest port, 20 minutes from Athens by train, you can taste the best, biggest burger in the whole town. People from all the regions of Athens arrive here to taste it. So don't forget to visit Barbeque!
 http://www.mparmpeekiou.com
-* Agora Restaurant includes great tasty food with unique atmosphere, great service and music. Dish not to miss : Salmon Spaghetti with Vodka Sauce. (https://www.agora-restaurant.gr/)
 
+* Agora Restaurant includes great tasty food with unique atmosphere, great service and music. Dish not to miss : Salmon Spaghetti with Vodka Sauce. (https://www.agora-restaurant.gr/)
 
 * The various Greek beaches not only benefit us with their waters, where we can swim and cool off the hot days of summer, but also with the organisms that leave there. Therefore you should definitely visit a fish tavern, like 'Logo Timis' in Likovrisi. It is a very clean place with a very hostile owner, and his wife is the best cooker ever. Try the 'regosalata' plate, it is just awesome!
 
@@ -127,9 +127,7 @@ http://www.mparmpeekiou.com
 * Don't miss stunning views of the Parthenon from the famous Athens Rooftop Bar called "AthenStyle", the best spot for meeting people and chilling after a long day sightseeing. Enjoy all year happy hours cheap drinks and live the AthenStyle experience! [Click here to see more.](http://athenstyle.com/en_GB/rooftop/)
 * You can't have fun without a karaoke night! Find the coolest one @ Mike's Irish Pub and drink the best of whiskey. Cozy atmosphere!(http://www.mikesirishbar.gr)
 
-
 * For a more traditional approach try the night life of Aigaleo. On its central road there are many Greek bars (mezedopolia) to choose from. The wine is good but the food is better. You will be surprised by the quantities, there is no way you return home being hungry!!
-
 
 * MoMix Kerameikos - The first bar in Athens which combined molecular gastronomy with bartending, creating special cocktails for guests who like experiments.
 Opened in November 2012 and soon conquered the Athenians, and offers cocktails in alternative forms, in addition to liquid. The Momix team with lots of imagination and playfulness, shuffles foams, powders and jellies and serves the most original cocktails in cups, plates and bowls!
@@ -199,7 +197,6 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Ios: If you want to party a lot and live a wonderful experience in the Greek islands then **Ios** should be your choice. Ios means *flower* and according to the ancient tradition, Ios was the homeland of Homer’s mother and the final resting place of the great epic poet. It is particularly famous for the wonderful beaches, the picturesque village of Chora and certainly the intense nightlife that attracts mostly young crowds. Click [here](http://www.visitgreece.gr/en/greek_islands/cyclades/ios) for more info.
 
-
 * Samothraki: in my opinion the most magical island in Greece, Samothraki. The moment you reach it, you fall in love with it. It has magical nature with waterfalls, forests and beaches. Also the people you meet there are have a special sense of freedom and hospitality. [click here for photo http://www.oneman.gr/keimena/style/taksidi/menoume-nisi/article3586754.ece/BINARY/w620/vathres+1.jpg]
 
 * **Astypalaia**: The butterfly-shaped island located exactly where the Dodecanese meets the Cyclades, with the bluer-than-blue seas, the crystalline waters and the beautiful beaches is for any visitor a unique discovery. Slide into the crystal waters of Astypalea, enjoy the unique local tastes and experience the thrill of having the best holidays of your life.
@@ -247,6 +244,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * Allou! Fun Park: The most famous theme park of Athens, located at Rentis. It offers plenty of activities for both kids and, why not, adults! Unfortunately, the only public means of transport that gets you there is bus. [click to see location](https://goo.gl/maps/GAZStSK2NeA2)
 
 *If you want to have fun and at the same time educate your kids visit Hellenic Children’s Museum:This museum is dedicated to kids and helps them learn in a fun way about how the world functions. A couple of examples of things they can do is to create with building materials, learn about the concepts of supply and demand in the marketplace, or even experiment with food ingredients in the kitchen.[Just click here to learn more about this interesting museum] (https://www.kidslovegreece.com/en/culture/hellenic-childrens-museum/)
+
 ## Shopping
 
 * The Mall Athens: Located at Marousi, next to the "Neratziotissa station" on the Attiki Odos motorway, it is the biggest shopping centre of Greece hosting more than 200 shopping alternatives. Apart from shopping, the Mall also hosts lots of restaurants and coffee shops, cutting-edge cinemas and leisure areas for all family members. You can get there either by train or suburban railway. [click to see location](https://goo.gl/maps/9rzPaefnvvy)
