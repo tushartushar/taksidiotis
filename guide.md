@@ -99,6 +99,10 @@ http://www.mparmpeekiou.com
 
 * **Feyrouz** - Lebanese Cuisine. Lovely Food. Cheap. Self service. _Karori 23 & Aiolou, Athens_ [See more](http://feyrouz.gr/en/)
 
+## Cafe
+
+* **Little Tree Books & Coffee** - Coffee/Books. Cozy and Charming place. Excellent service. _Kavalloti 2, Athens_
+
 ## Bars
 
 * If you locate yourself in the urban area called Pagkrati ("Παγκράτι") and you want to have a beverage or a drink, you can visit Chelsea Hotel. This spot has an amazing cup of coffee and awesome cocktails at night. Anyone that likes an exquisite and cult spot, would love this place. Warning, it gets really crowded at night.
