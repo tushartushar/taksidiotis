@@ -48,11 +48,7 @@ Athens has a hot-summer Mediterranean climate. The dominant feature of Athens' c
 
 ## Museums/Sightseeing
 
-* [The Pnyx](https://en.wikipedia.org/wiki/Pnyx) is a picturesque location under the Acropolis where many distinguished Greeks addressed the people. [Themistocles](https://en.wikipedia.org/wiki/Themistocles), [Pericles](https://en.wikipedia.org/wiki/Pericles) and [Kolokotronis](https://en.wikipedia.org/wiki/Theodoros_Kolokotronis) were some among them.
-
-* Despite the fact that Greece was the centre of Science and Art in the ancient world, Greeks had to fight many wars. Regardless of its causes or its tolls, every war is a matter of study. [Athens War Museum](http://warmuseum.gr/en) is a place where artifacts from every war fought by the Greeks are gathered. Some of them predate even the iron age.
-
-*ο Αρχαιολογικό Μουσείο Αγρινίου στεγάζεται σε κτίριο που βρίσκεται νοτιοανατολικά του μεγάλου πάρκου της πόλης και κτίστηκε τη δεκαετία του ’60 με δωρεά των αδελφών παπαστράτου
+* ο Αρχαιολογικό Μουσείο Αγρινίου στεγάζεται σε κτίριο που βρίσκεται νοτιοανατολικά του μεγάλου πάρκου της πόλης και κτίστηκε τη δεκαετία του ’60 με δωρεά των αδελφών παπαστράτου
 
 * Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress. More info here: https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes
 
@@ -277,8 +273,6 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 ## Theatre
 
-* Just about 40 minutes from the city center, in a breathtaking location,"theatre of the rocks" or Theatro Vrachon is located. Check the upcoming events [here](https://www.setlist.fm/venue/theatro-vrahon-melina-merkouri-athens-greece-4bd4ebc6.html).
-
 * If you like a bit of art visit the Municipal Theatre in Piraeus. In the heart of the city, reachable by many means of transport it often hosts rather interesting plays with Greek well-known actors.
 
 * Odeon of Herodes Atticus: A stone theatre structure located on the southwest slope of the Acropolis of Athens, Greece. The building was completed in 161 AD and then renovated in 1950. Since then it has been the main venue of the Athens Festival, which runs from May through October each year, featuring a variety of acclaimed Greek as well as International performances.<br/>
@@ -361,8 +355,6 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 
 * Greece is a small country, so it is a good idea to travel almost all around the country and not only to one place, since you decided to travel all the way to the southern country of Europe.
-
-* If a traveller wishes to visit most of Athens' regions, it is highly recommended to use the subway instead of buses. It covers a lot of areas and is actually cheaper that most of european underground transportation systems.
 
 * There are many destinations close to Athens where you can make a daily trip, relaxing from the urban noise and air pollution. One of my favorite destinations is Nafplio, a 2-hours drive from Athens, where you can stroll in the peaceful and picturesque streets and also climb the Palamidi fortress and enjoy a breathtaking view! [For more details click here](https://en.wikipedia.org/wiki/Nafplio)
 
