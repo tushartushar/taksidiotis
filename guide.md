@@ -88,8 +88,6 @@ Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a un
 * Thanasis taverna is one of the most iconic tavernas in Athens, with its trademark dish being kebabs. It is a nice place to go after a walk in the center of Athens and enjoy a meal near the Monastiraki Square.
 [click to see location](https://goo.gl/maps/sA1seLsfrNG2)
 
-> The ultimate in fast food. Great gyros very tasty and good value. Efficient and friendly service. Would definitely come again - Sarah M.
-
 * Just 33 km east of Athens, there is a village named Kalyvia Thorikou. This village is lucky enough to have plenty of simply amazing tavernas. There one might find some of the tastiest delicacies Greece has to offer to meat lovers the world around. The most iconic of them all should be the famous kontosouvli and this is just the tip of the iceberg as you can try tasty grilled goat chops and many many more!!!
 
 * Don't forget to go to "Fetticio" in Glyfada to taste delicious crepes. The best crepe on the menu is number 49! It only costs 5 euros, and is covered with chocolate, crushed cookie (like a graham cracker), bananas, strawberries, and inside is ice cream. <br />
@@ -122,7 +120,6 @@ http://www.mparmpeekiou.com
 
 * A hidden place in the center of Athens is the Restaurant-Cafe-Bar named Cabezon("Καμπεθόν"). This place is unique, you won't find an open door with a big logo outside. It is a house with a garden, and you can either drink your coffee in the morning, eat a meal in the afternoon or party with some techno vibes at night.
 [Location: Καμπεθόν, Kerameikou 110,  Athens](https://goo.gl/maps/6VMXmBKzLwK2)
->>>>>>> 1faf1635a903d732eb4621d686bd1451bd9a7fb6
 
 * For me the best place at the center of Athens is "Avli", which is located at Psirri, Athens. If you are lucky enough to find the tiny door, open it and you will feel like you've entered the square of a small island village with white walls and blue shutters. It's the place were locals go to eat Greek traditional plates, all homemade dishes, and drink raki, tsipouro, ouzo, beer and wine. Despite all the above mentioned, what I personally love the most is the ambience of the place, which makes you forget you are a stranger and someway unites you with other people.
 Here you can take a look at the inside:
@@ -142,10 +139,6 @@ Because of its' difficult location to find, we provide you with one here:
 
 * **Little Tree Books & Coffee** - Coffee/Books. Cozy and Charming place. Excellent service. _Kavalloti 2, Athens_
 
->>>>>>> 1faf1635a903d732eb4621d686bd1451bd9a7fb6
-=======
->>>>>>> a17c39321c15d5090710124c69e51910194156cf
->>>>>>> 8a0b284162d8ccfcabf9b7d14a332d585c84d7c0
 
 ## Bars
 
@@ -188,7 +181,6 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 =======
 * Baba au Rum - As strange as it sounds, this Greek, rum-focused cocktail joint has actually been named one of the world's 50 best bars.The cozy spot has a groovy 1950s feel and is located on a small, pedestrian street close to Syntagma Square. With tables outside and no cars to worry about, visitors tend to simply take over the street, turning the small bar into an awesome block party. It boasts a ridiculous selection of rums from Cuba, Trinidad, Mexico, Puerto Rico, the list goes on. While there is a set cocktail menu featuring everything from Tiki drinks to non-rum varietals like Pimm's Cups and Bloody Marys, patrons can simply tell the bartender what they're in the mood for and they'll mix something unique up especially for you. Don't despair if you can't make it to an island during your first visit to Greece, you'll definitely get the happy-go-lucky summer vibe here (even if it's more Barbados than Mykonos).
   [click to visit website] (http://babaaurum.com/)
->>>>>>> 1faf1635a903d732eb4621d686bd1451bd9a7fb6
 
 ## Night life
 
@@ -276,7 +268,6 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * During your stay in Athens, you should totally visit Ebros!It is an theatre in Psurri, which is occupied by a group of people. They have regular meetings where they organise everything about the theatre 's operation, the events, the concerts the parties and the plays. The good thing about Ebros is that its logic is that all its members are equal, without any boss or individual property. [click for more info http://embrostheater.blogspot.gr/]
 
->>>>>>> 1faf1635a903d732eb4621d686bd1451bd9a7fb6
 ## Cinema
 
 * Cine Thisseon: With a direct view to the one and only Acropolis, Cine Thisseon is a classic summer open air cinema in Athens to check out. Showing films since 1935, it can be found on the paved walkway that connects Thission with Filoppapou Hill. Typically, the operation of the cinema begins the last week of April or the first week of May and ends in late October. [click to see location](https://goo.gl/maps/L2ENKs1wHb12)
@@ -292,7 +283,6 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Bungee Jumping: If you want to feel happiness through the absolute meaning of freedom, this is the place to go. The power of the ability to “fly” everywhere, will definitely rise your adrenaline levels. "Zulu Bungy" have made their personal need of generously sharing smiles to people so as to make their world more beautiful. The spot that has been chosen to set up the appropriate facilities is one of the most magnificent works in the world. The Isthmus is the main strategic point of the Greek area and one of the most important works in East Mediterranean. Its tunneling has been a significant issue since the ancient times  as the creation of the canal would solve a lot of problems and would facilitate the navigation and the trade.
 [click to see what it looks like](https://youtu.be/QcbhWYmjdLw)
->>>>>>> 1faf1635a903d732eb4621d686bd1451bd9a7fb6
 
 
 
