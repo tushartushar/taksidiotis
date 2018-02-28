@@ -89,6 +89,8 @@ Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a un
 * Thanasis taverna is one of the most iconic tavernas in Athens, with its trademark dish being kebabs. It is a nice place to go after a walk in the center of Athens and enjoy a meal near the Monastiraki Square.
 [click to see location](https://goo.gl/maps/sA1seLsfrNG2)
 
+> The ultimate in fast food. Great gyros very tasty and good value. Efficient and friendly service. Would definitely come again - Sarah M.
+
 * Just 33 km east of Athens, there is a village named Kalyvia Thorikou. This village is lucky enough to have plenty of simply amazing tavernas. There one might find some of the tastiest delicacies Greece has to offer to meat lovers the world around. The most iconic of them all should be the famous kontosouvli and this is just the tip of the iceberg as you can try tasty grilled goat chops and many many more!!!
 
 * Don't forget to go to "Fetticio" in Glyfada to taste delicious crepes. The best crepe on the menu is number 49! It only costs 5 euros, and is covered with chocolate, crushed cookie (like a graham cracker), bananas, strawberries, and inside is ice cream. <br />
@@ -100,6 +102,8 @@ This is the crepe called "49" (It is called "49" because it is the number 49 on 
 http://www.mparmpeekiou.com
 
 * Agora Restaurant includes great tasty food with unique atmosphere, great service and music. Dish not to miss : Salmon Spaghetti with Vodka Sauce. (https://www.agora-restaurant.gr/)
+
+> Loved the food and the atmosphere here. Very stylish and pleasant. The food is very tasty and with convenient prices. Will definately get back here during my next visit in Athens - Adri N.
 
 * The various Greek beaches not only benefit us with their waters, where we can swim and cool off the hot days of summer, but also with the organisms that leave there. Therefore you should definitely visit a fish tavern, like 'Logo Timis' in Likovrisi. It is a very clean place with a very hostile owner, and his wife is the best cooker ever. Try the 'regosalata' plate, it is just awesome!
 
@@ -117,7 +121,8 @@ http://www.mparmpeekiou.com
 
 * A hidden place in the center of Athens is the Restaurant-Coffee-Bar named Cabezon("Καμπεθόν"). This place is unique, you won't find an open door with a big logo outside. It is a house with a garden, and you can either drink your coffee in the morning, eat a meal in the afternoon or party with some techno vibes at night.
 [Click to see location](https://goo.gl/maps/6VMXmBKzLwK2)
-<br>
+
+> Cool and relaxed spot, ideal for a drink or more with friends. Vibes are friendly and welcoming and so is the staff. Drinks are quite cheap. Loved the jazz, ragae tunes. Plus it has a beautiful courtyard for the summer - Mania P.
 
 * A hidden place in the center of Athens is the Restaurant-Cafe-Bar named Cabezon("Καμπεθόν"). This place is unique, you won't find an open door with a big logo outside. It is a house with a garden, and you can either drink your coffee in the morning, eat a meal in the afternoon or party with some techno vibes at night.
 [Location: Καμπεθόν, Kerameikou 110,  Athens](https://goo.gl/maps/6VMXmBKzLwK2)
