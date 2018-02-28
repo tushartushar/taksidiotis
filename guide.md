@@ -7,6 +7,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## History
 
+* Ο Μαραθώνιος Δρόμος είναι αγώνας αντοχής δρόμου κάλυψης επίσημης απόστασης 42,195 χιλιομέτρων (26,219 μίλια), που περιλαμβάνεται στα σύγχρονα ολυμπιακά αθλήματα.
+
 * One of the Seven Wonders of the Ancient World, the Colossus of Rhodes was a statue of the Greek titan-god of the sun Helios, erected in the city of Rhodes, on the Greek island of the same name, by Chares of Lindos in 280 BC. More info here: https://en.wikipedia.org/wiki/Colossus_of_Rhodes
 
 * Democracy was inherited to the world by ancient Greece and especially Athens where it was developed around the fifth century BC. The longest-lasting democratic leader was Pericles. [click to see more details](https://en.wikipedia.org/wiki/Athenian_democracy)
@@ -45,6 +47,7 @@ Athens has a hot-summer Mediterranean climate. The dominant feature of Athens' c
 | December  | 15   | 8   | 6 days |
 
 ## Museums/Sightseeing
+*ο Αρχαιολογικό Μουσείο Αγρινίου στεγάζεται σε κτίριο που βρίσκεται νοτιοανατολικά του μεγάλου πάρκου της πόλης και κτίστηκε τη δεκαετία του ’60 με δωρεά των αδελφών παπαστράτου
 
 * Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress. More info here: https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes
 
@@ -76,6 +79,8 @@ Athens has a hot-summer Mediterranean climate. The dominant feature of Athens' c
 * **Benakis Museum** - Antonis Benakis, a politician's son born in Alexandria, Egypt, in the late 19th century, endowed what is perhaps the finest museum in Greece. Its three floors showcase impeccable treasures from the Bronze Age up to WWII. Especially gorgeous are the Byzantine icons and the extensive collection of Greek regional costumes, as well as complete sitting rooms from Macedonian mansions, intricately carved and painted. But Benakis had such a good eye that even the agricultural tools are splendid.
 
 ## Restaurants/Tavernas
+
+*Η Πλατεία Θεάτρου είναι μια πλατεία της Αθήνας. Βρίσκεται στα νότια της συνοικίας της Ομόνοιας, κοντά στο Ψυρρή και στη πλατεία Κουμουνδούρου και τη διασχίζει ο ομώνυμος δρόμος. Στη πλατεία δεσπόζει το επιβλητικό κτήριο της Διπλαρείου Σχολής το οποίο ανεγέρθηκε το 1932, αλλά υπάρχει επίσης παράρτημα της Alpha Bank και του ΕΟΠΥΥ καθώς και εστιατόρια/ταβέρνες. Δίπλα από τη πλατεία υπάρχει επίσης το Μέγαρο Εμπορείου, το οποίο είναι ένα από τα παλιότερα εμπορικά κέντρα της Ελλάδας.
 
 * In Glyfada, you should definetely visit Buffalo Gelato, to taste the most special ice - cream in many different and unusual flavors and of course their famous
  Buffle cone which is a waffle in the shape of cone filled with chocolate, ice-cream and any other ingredient that you want!
