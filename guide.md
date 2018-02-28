@@ -85,13 +85,12 @@ http://www.mparmpeekiou.com
 
 * Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website] (http://www.ciaoitalia.gr/)  
 
-<<<<<<< HEAD
 * Wafflehouse offers an extremely wide variety of homemade ice-cream flavours and delicious fresh baked waffles. It is located in Vouliagmeni and there you can enjoy your dessert while gazing at the mesmerizing sea! (http://www.wafflehouse.gr/)
-=======
+
 * A hidden place in the center of Athens is the Restaurant-Cafe-Bar named Cabezon("Καμπεθόν"). This place is unique, you won't find an open door with a big logo outside. It is a house with a garden, and you can either drink your coffee in the morning, eat a meal in the afternoon or party with some techno vibes at night.
 [Location: Καμπεθόν, Kerameikou 110,  Athens](https://goo.gl/maps/6VMXmBKzLwK2)
 <br>
->>>>>>> c8713f16e56fecda8a8c1718cd14f5bd3dfb8d64
+
 
 ## Bars
 
@@ -127,11 +126,10 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * If you are in the mood for rock and metal music the place in Athens for you to go is Intrepid Fox in Gazi square.A great collection of beers cocktails and shots that will give you a night to remember!
 
-<<<<<<< HEAD
 * 360 Cocktail bar from its beautiful rooftop, offers a panoramic view of the city of Athens and an ideal place to take photos of the Acropolis. It is located right next to Monastiraki Metro station. For more info => http://www.three-sixty.gr/ 
-=======
+
 * An oasis in the heart of Athens called "Six D.O.G.S" combines a lot of different happenings in one place. One can enjoy a relaxing coffee or snack in the back garden, a cocktail watching a concert, or cultural event while mingling with people from different backgrounds. [Click here to see more.] (https://sixdogs.gr/)
->>>>>>> c8713f16e56fecda8a8c1718cd14f5bd3dfb8d64
+
 
 ## Night life
 
