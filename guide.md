@@ -39,10 +39,10 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 ## Restaurants/Tavernas
 
-*In Glyfada, you should definetely visit Buffalo Gelato, to taste the most special ice - cream in many different and unusual flavors and of course their famous
+* In Glyfada, you should definetely visit Buffalo Gelato, to taste the most special ice - cream in many different and unusual flavors and of course their famous
  Buffle cone which is a waffle in the shape of cone filled with chocolate, ice-cream and any other ingredient that you want!
  [click to view website](http://bufalagelato.com)
- <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/buffalo_gelato.png" width="170" height="150"> <br/>
+ <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/buffalo_gelato.png" width="220" height="200"> <br/>
 
 * In the heart of Athens, under the shade of the temple of Hephaestus on the picturesque Adrianou Street, lies the unique restaurant Kuzina.
 The old mansion where the restaurant is hosted keeps a hidden surprise for its guests: the breathtaking view to Acropolis from its Tarazza!
