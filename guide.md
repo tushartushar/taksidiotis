@@ -131,6 +131,7 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic décor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here (https://www.facebook.com/cinderelladisco/?rf=929806063741649)
 
+* Located in Excarcheia, Kioumprik is a bar that you should totally visit! It plays many kind of music such as reggae, hip hop, punk, rock, stoner and more! the people who work there also run it with an assemply, so that they all can have part in its management. There is no relationship of employers - employees something difficult to find in a capitalistic country. [To see photos of Kioumprik click here https://www.google.gr/maps/uv?hl=el&pb=!1s0x14a1bd36e8ade401%3A0x10f139cef177887a!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd%3Dw216-h160-k-no!5zzrrOuc6_z4XOvM-Az4HOuc66IM61zr7Osc-Bz4fOtc65zrEgLSDOkc69zrHOts6uz4TOt8-DzrcgR29vZ2xl&imagekey=!1e10!2sAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd&sa=X&ved=0ahUKEwi0wJK_xsjZAhWDWxQKHbMlCUAQoioIeTAK]
 ## Islands
 
 * To enjoy the most spectacular sunset, alleys, beaches and a beautiful white and blue architecture of houses Santorini is the idial island to go! It's
@@ -167,6 +168,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Ios: If you want to party a lot and live a wonderful experience in the Greek islands then **Ios** should be your choice. Ios means *flower* and according to the ancient tradition, Ios was the homeland of Homer’s mother and the final resting place of the great epic poet. It is particularly famous for the wonderful beaches, the picturesque village of Chora and certainly the intense nightlife that attracts mostly young crowds. Click [here](http://www.visitgreece.gr/en/greek_islands/cyclades/ios) for more info.
 
+* Samothraki: in my opinion the most magical island in Greece, Samothraki. The moment you reach it, you fall in love with it. It has magical nature with waterfalls, forests and beaches. Also the people you meet there are have a special sense of freedom and hospitality. [click here for photo http://www.oneman.gr/keimena/style/taksidi/menoume-nisi/article3586754.ece/BINARY/w620/vathres+1.jpg]
 ## Natural Resorts
 
 * Near the city of Volos (in the Magnisia regional unit), one can find the magical mountain of Pilio. According to myth, this is where the gods used to live during the summer, and with good reason!!! The beauty of Pilio is truly something to behold since it is (possibly) the Greece's nature at it's absolute best! Combining breath-taking mountain forrests and sunny beaches with clear blue waters, this place is a must visit. And most importantly, do not be fooled by the beautiful sea into thinking that this is a place to only visit during the summer. If you are a friend of snow and skiing, just don't think twice.
@@ -179,6 +181,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/Odeon_of_Herodes_Atticus.jpg"><br/>
 [click for more information regarding access, history and upcoming events](http://greekfestival.gr/en/venues/view/odeon-of-herodes-atticus)
 
+* During your stay in Athens, you should totally visit Ebros!It is an theatre in Psurri, which is occupied by a group of people. They have regular meetings where they organise everything about the theatre 's operation, the events, the concerts the parties and the plays. The good thing about Ebros is that its logic is that all its members are equal, without any boss or individual property. [click for more info http://embrostheater.blogspot.gr/] 
 ## Cinema
 
 * Cine Thisseon: With a direct view to the one and only Acropolis, Cine Thisseon is a classic summer open air cinema in Athens to check out. Showing films since 1935, it can be found on the paved walkway that connects Thission with Filoppapou Hill. Typically, the operation of the cinema begins the last week of April or the first week of May and ends in late October. [click to see location](https://goo.gl/maps/L2ENKs1wHb12)
