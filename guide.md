@@ -85,7 +85,17 @@ http://www.mparmpeekiou.com
 
 * Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website] (http://www.ciaoitalia.gr/)  
 
+* A hidden place in the center of Athens is the Restaurant-Cafe-Bar named Cabezon("Καμπεθόν"). This place is unique, you won't find an open door with a big logo outside. It is a house with a garden, and you can either drink your coffee in the morning, eat a meal in the afternoon or party with some techno vibes at night.
+<br>
+[Location: Καμπεθόν, Kerameikou 110,  Athens](https://goo.gl/maps/6VMXmBKzLwK2)
+<br>
+
 ## Bars
+
+* If you locate yourself in the urban area called Pagkrati ("Παγκράτι") and you want to have a beverage or a drink, you can visit Chelsea Hotel. This spot has an amazing cup of coffee and awesome cocktails at night. Anyone that likes an exquisite and cult spot, would love this place. Warning, it gets really crowded at night.
+<br>
+[Location: Archimidous 1, Αθήνα 116 35](https://goo.gl/maps/fvtM1TeBQP62)
+<br>
 
 * In the heart of the town, Speakeasy is a must visit bar with live classic jazz music  and great decoration and tables inspired by 80's.
   [click to visit website](https://foursquare.com/v/the-speakeasy/52b8ab6c11d2bde308cd9ae7)
@@ -118,6 +128,11 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 * An oasis in the heart of Athens called "Six D.O.G.S" combines a lot of different happenings in one place. One can enjoy a relaxing coffee or snack in the back garden, a cocktail watching a concert, or cultural event while mingling with people from different backgrounds. [Click here to see more.] (https://sixdogs.gr/)
 
 ## Night life
+
+* Next, to the station of Metro Metaksourgeio, there is a club called asylum ("Άσυλο"), it doesn't have any logo or any fancy entrance but you can spot it because is the only place that you will have youth outside of it. It has uncommon decoration and a projector that shows cartoonish videos on the wall. The music is always alternative or techno and it has cheap drinks.
+<br>
+[Location: Αχιλλέως 38, Αθήνα 104 36](https://goo.gl/maps/KXh7jEBHb6S2)
+<br>
 
 * Enjoy R&B and house music while enjoying your favorite drink at "Toyroom" in the center of Athens.
 [click to see location](https://www.google.gr/maps/place/ToyRoom+Athens/@37.977635,23.733593,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3931ab9175:0xd4f4699dd47969a8!8m2!3d37.977635!4d23.735787?hl=el)
