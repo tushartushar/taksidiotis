@@ -81,6 +81,8 @@ http://www.mparmpeekiou.com
 
 * Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website] (http://www.ciaoitalia.gr/)  
 
+* Wafflehouse offers an extremely wide variety of homemade ice-cream flavours and delicious fresh baked waffles. It is located in Vouliagmeni and there you can enjoy your dessert while gazing at the mesmerizing sea! (http://www.wafflehouse.gr/)
+
 ## Bars
 
 * In the heart of the town, Speakeasy is a must visit bar with live classic jazz music  and great decoration and tables inspired by 80's.
