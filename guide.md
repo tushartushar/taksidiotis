@@ -69,6 +69,9 @@ http://www.mparmpeekiou.com
 
 * From Hollywood to Athens! The best night club in the city. [click to see location](https://www.google.gr/maps/place/Lohan+Nightclub/@37.980089,23.7118973,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcdf1361cf75:0xd93f0d81a48af300!8m2!3d37.980089!4d23.714086)
 * Enjoy various types of rum and Cuban history in Finca Vigia . Your rum will come along with the best Bar owners of the town and a friendly atmosphere where you can easily fit in. (https://www.facebook.com/fincavigiabar/?rf=176954512815542)
+
+* If you want to hear the best Greek music and party like a Greek then [Plintirio Bar] (https://www.facebook.com/Πλυντήριο-Bar-1413208995564217/) is your destination. Located at Gazi (the area near the city center where most clubs are located) is the perfect choice for you. Check the location [here] (https://goo.gl/maps/DEHBaLYCqXH2).
+
 ## Islands
 
 * In case you have enough time for holidays, a great choice for you is to visit Chania, Crete. A city that combines wonderful nightlife as well as landscapes and well-known beaches. [click to visit website](https://www.discovergreece.com/el/greek-islands/crete/chania)
@@ -87,6 +90,8 @@ Beautiful nature, perfect beaches and a complex history ‒ Spetses is an island
 • Corfu is maybe the most beautiful Ionian Island with so many exciting places to see. It feels a lot like being in Italy, people are always singing and the food is delicious. Don’t forget to visit the Achileon, Sissi’s holiday palace.
 
 * Lefkada: Amazing beaches, easily accesible as you can travel there by car. You can combine your vacation there by visiting other Ionian islands. Lefkada is quite a pieceful island with fewer tourists than other greek islands.
+
+* Ios: If you want to party a lot and live a wonderful experience in the Greek islands then **Ios** should be your choice. Ios means *flower* and according to the ancient tradition, Ios was the homeland of Homer’s mother and the final resting place of the great epic poet. It is particularly famous for the wonderful beaches, the picturesque village of Chora and certainly the intense nightlife that attracts mostly young crowds. Click [here] (http://www.visitgreece.gr/en/greek_islands/cyclades/ios) for more info.
 
 ##Theatre
 
