@@ -20,6 +20,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * The Greeks also are important for the contribution to sports. "Gymnasiums" and "stadiums" today--are names that both come from Greek.  There are lots of other echoes of the Greeks in our sports tradition of today. Some of the universal track and field events (e.g., the javelin and the discus) come out of Greek tradition.  Events like the Marathon and the Decathalon have Greek names, though they weren't specific Greek events. Perhaps the best example of Greek influence on our sports tradition: the Olympic games.
 
+* The **2004 Summer Olympic Games**, officially known as the **Games of the XXVIII Olympiad** and commonly known as Athens 2004, was a premier international multi-sport event held in Athens, Greece, from 13 to 29 August 2004 with the motto Welcome Home. 10,625 athletes competed, some 600 more than expected, accompanied by 5,501 team officials from 201 countries
+
 * The marathon event was created for the modern Olympic Games held in Athens. The marathon is a commemoration of the run of the Greek soldier Pheidippides (also known as Philippides), who ran from Marathon to Athens to report the Athenians’ victory against the Persians in 490 B.C.
 
 ## Museums/Sightseeing
@@ -39,6 +41,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 * Don't forget to visit the Archaeological Museum of Delphi.The Archaeological Museum of Delphi is one of the most important in Greece since it exhibits the history of the Delphic sanctuary, site of the most famous ancient Greek oracle. Its rich collections comprise primarily architectural sculpture and statues donated to the sanctuary reflecting its religious, political and artistic activities from its early years in the 8th century BC to its decline in Late Antiquity.[Click to see more] (http://odysseus.culture.gr/h/1/eh151.jsp?obj_id=3404)
 
 * Stavros Niarchos Foundation Cultural Center: If you want to rest and take a walk into Athens' most beautiful spots [SNFCC](https://en.wikipedia.org/wiki/Stavros_Niarchos_Foundation_Cultural_Center) is your place. [Located in the bay of Phaliron](https://goo.gl/maps/fB6XJbZ5pwk), includes new facilities for the National Library of Greece and the National Opera, as well as the 210,000 m² Stavros Niarchos Park. For more info click [here](https://www.snfcc.org/?lang=en)
+
+* **Benais Museum** - Antonis Benakis, a politician's son born in Alexandria, Egypt, in the late 19th century, endowed what is perhaps the finest museum in Greece. Its three floors showcase impeccable treasures from the Bronze Age up to WWII. Especially gorgeous are the Byzantine icons and the extensive collection of Greek regional costumes, as well as complete sitting rooms from Macedonian mansions, intricately carved and painted. But Benakis had such a good eye that even the agricultural tools are splendid.
 
 
 ## Restaurants/Tavernas
@@ -91,11 +95,21 @@ http://www.mparmpeekiou.com
 [Click to see location](https://goo.gl/maps/6VMXmBKzLwK2)
 <br>
 
+<<<<<<< HEAD
 * For me the best place at the center of Athens is "Avli", which is located at Psirri, Athens. If you are lucky enough to find the tiny door, open it and you will feel like you've entered the square of a small island village with white walls and blue shutters. It's the place were locals go to eat Greek traditional plates, all homemade dishes, and drink raki, tsipouro, ouzo, beer and wine. Despite all the above mentioned, what I personally love the most is the ambience of the place, which makes you forget you are a stranger and someway unites you with other people.
 Here you can take a look at the inside:
 <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/avli.jpg">
 Because of its' difficult location to find, we provide you with one here:
 [click to see location](https://goo.gl/maps/XeHgK5bzf2v)
+=======
+* **Atitamatos** - Greek/Mediterranean Cuisine. Excellent food and service. Moderate price. _Solonos & Kapodistriou 2, Athens_
+
+* **Feyrouz** - Lebanese Cuisine. Lovely Food. Cheap. Self service. _Karori 23 & Aiolou, Athens_ [See more](http://feyrouz.gr/en/)
+
+## Cafe
+
+* **Little Tree Books & Coffee** - Coffee/Books. Cozy and Charming place. Excellent service. _Kavalloti 2, Athens_
+>>>>>>> a17c39321c15d5090710124c69e51910194156cf
 
 ## Bars
 
@@ -195,6 +209,8 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 
 * Samothraki: in my opinion the most magical island in Greece, Samothraki. The moment you reach it, you fall in love with it. It has magical nature with waterfalls, forests and beaches. Also the people you meet there are have a special sense of freedom and hospitality. [click here for photo http://www.oneman.gr/keimena/style/taksidi/menoume-nisi/article3586754.ece/BINARY/w620/vathres+1.jpg]
+
+* **Astypalaia**: The butterfly-shaped island located exactly where the Dodecanese meets the Cyclades, with the bluer-than-blue seas, the crystalline waters and the beautiful beaches is for any visitor a unique discovery. Slide into the crystal waters of Astypalea, enjoy the unique local tastes and experience the thrill of having the best holidays of your life.
 
 ## Natural Resorts
 
