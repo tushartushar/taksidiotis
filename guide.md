@@ -130,7 +130,6 @@ Because of its' difficult location to find, we provide you with one here:
 
 * Nancysweethome located in Monastiraki. Juicy chocolates, loafed strawberries, oriental kazan dibi and carnouses, mastitis creos, syropiasta and all the serbets (for the heavy cribs), arrived at the most relaxed and cute Glycopolis in Athens. (http://nancysweethome.gr/)
 
-=======
 * **Atitamatos** - Greek/Mediterranean Cuisine. Excellent food and service. Moderate price. _Solonos & Kapodistriou 2, Athens_
 
 * **Feyrouz** - Lebanese Cuisine. Lovely Food. Cheap. Self service. _Karori 23 & Aiolou, Athens_ [See more](http://feyrouz.gr/en/)
