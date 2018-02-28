@@ -62,19 +62,18 @@ Athens has a hot-summer Mediterranean climate. The dominant feature of Athens' c
 
 * Stavros Niarchos Foundation Cultural Center: If you want to rest and take a walk into Athens' most beautiful spots [SNFCC](https://en.wikipedia.org/wiki/Stavros_Niarchos_Foundation_Cultural_Center) is your place. [Located in the bay of Phaliron](https://goo.gl/maps/fB6XJbZ5pwk), includes new facilities for the National Library of Greece and the National Opera, as well as the 210,000 m² Stavros Niarchos Park. For more info click [here](https://www.snfcc.org/?lang=en)
 
-<<<<<<< HEAD
 * Athens is famous for its spectacular sights, its picturesque neighbourhoods and its natural beauty, where it is still preserved. If you want to fit as much as you can in only one view, your best bet is to grab a beer and get asap to one of the many hills around the city. The options are practically countless, but some great alternatives would be the following:
 	Philoppappos hill ( https://goo.gl/SAsGeW ) ,
 	Strefi hill ( https://goo.gl/DbtWfi ) ,
 	Mount Lycabettus ( https://goo.gl/pd9dMi ) , 
 	Both sides of the Attiko Alsos ( https://goo.gl/fGnPo8 )
-=======
+
 * Technopolis - Located within touching distance of Syntagma Square and the Monastiraki Flea Market, Technopolis is an event and art space within an old natural gas processing plant. It has sort of a MoMA PS1 vibe. The industrial museum is open to the public Tuesday through Sunday. Visitors learn about the work conditions in the old plant and its experiential approach to its operations during the 19th century. Most Athenians, though, will simply tell you to check the venue's events calendar for any upcoming concerts, parties, DJ sets and exhibits.
+<br/><img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/tp.jpg" width="220" height="200"><br/>
 
 * Eloi 1 - In the basement of the historic building of the Athens University of Economics and Business in Patission Street lies a place of dream and wonder. Where grandmaster Sofos awaits to nurture the young students who frequently use the lab scrambling to finish their projects in Java, SQL and various other subjects. ATTENTION!! Heavy rain might cause the lab to be flooded with water so I wouldn't visit it if the skies are grey.
 
 * **Benakis Museum** - Antonis Benakis, a politician's son born in Alexandria, Egypt, in the late 19th century, endowed what is perhaps the finest museum in Greece. Its three floors showcase impeccable treasures from the Bronze Age up to WWII. Especially gorgeous are the Byzantine icons and the extensive collection of Greek regional costumes, as well as complete sitting rooms from Macedonian mansions, intricately carved and painted. But Benakis had such a good eye that even the agricultural tools are splendid.
->>>>>>> a90a83fc174327ffda0a8709476e78581e1f6dde
 
 ## Restaurants/Tavernas
 
@@ -96,6 +95,8 @@ Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a un
 * Thanasis taverna is one of the most iconic tavernas in Athens, with its trademark dish being kebabs. It is a nice place to go after a walk in the center of Athens and enjoy a meal near the Monastiraki Square.
 [click to see location](https://goo.gl/maps/sA1seLsfrNG2)
 
+> The ultimate in fast food. Great gyros very tasty and good value. Efficient and friendly service. Would definitely come again - Sarah M.
+
 * Just 33 km east of Athens, there is a village named Kalyvia Thorikou. This village is lucky enough to have plenty of simply amazing tavernas. There one might find some of the tastiest delicacies Greece has to offer to meat lovers the world around. The most iconic of them all should be the famous kontosouvli and this is just the tip of the iceberg as you can try tasty grilled goat chops and many many more!!!
 
 * Don't forget to go to "Fetticio" in Glyfada to taste delicious crepes. The best crepe on the menu is number 49! It only costs 5 euros, and is covered with chocolate, crushed cookie (like a graham cracker), bananas, strawberries, and inside is ice cream. <br />
@@ -108,7 +109,13 @@ http://www.mparmpeekiou.com
 
 * Agora Restaurant includes great tasty food with unique atmosphere, great service and music. Dish not to miss : Salmon Spaghetti with Vodka Sauce. (https://www.agora-restaurant.gr/)
 
+<<<<<<< HEAD
 * The various Greek beaches not only benefit us with their waters, where we can swim and cool off the hot days of summer, but also with the organisms that leave there. Therefore you should definitely visit a fish tavern, like 'Logo Timis' in Likovrisi. It is a very clean place with a very hospitable owner, and his wife is the best cook ever. Try the 'regosalata' plate, it is just awesome!
+=======
+> Loved the food and the atmosphere here. Very stylish and pleasant. The food is very tasty and with convenient prices. Will definately get back here during my next visit in Athens - Adri N.
+
+* The various Greek beaches not only benefit us with their waters, where we can swim and cool off the hot days of summer, but also with the organisms that leave there. Therefore you should definitely visit a fish tavern, like 'Logo Timis' in Likovrisi. It is a very clean place with a very hostile owner, and his wife is the best cooker ever. Try the 'regosalata' plate, it is just awesome!
+>>>>>>> 30e6753e02f7510ceae7ef9829f3c8711b5eb728
 
 * When it comes to Greek traditional food, "Christoforos" restaurant is the right place to visit! A cozy atmosphere and plenty of tasty plates, such as lamp, gyros, souvlaki, mousaka, all in affordable prices! The quality and quantity won't disappoint you!
 
@@ -124,7 +131,8 @@ http://www.mparmpeekiou.com
 
 * A hidden place in the center of Athens is the Restaurant-Coffee-Bar named Cabezon("Καμπεθόν"). This place is unique, you won't find an open door with a big logo outside. It is a house with a garden, and you can either drink your coffee in the morning, eat a meal in the afternoon or party with some techno vibes at night.
 [Click to see location](https://goo.gl/maps/6VMXmBKzLwK2)
-<br>
+
+> Cool and relaxed spot, ideal for a drink or more with friends. Vibes are friendly and welcoming and so is the staff. Drinks are quite cheap. Loved the jazz, ragae tunes. Plus it has a beautiful courtyard for the summer - Mania P.
 
 * A hidden place in the center of Athens is the Restaurant-Cafe-Bar named Cabezon("Καμπεθόν"). This place is unique, you won't find an open door with a big logo outside. It is a house with a garden, and you can either drink your coffee in the morning, eat a meal in the afternoon or party with some techno vibes at night.
 [Location: Καμπεθόν, Kerameikou 110,  Athens](https://goo.gl/maps/6VMXmBKzLwK2)
@@ -134,7 +142,6 @@ Here you can take a look at the inside:
 <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/avli.jpg">
 Because of its' difficult location to find, we provide you with one here:
 [click to see location](https://goo.gl/maps/XeHgK5bzf2v)
-
 
 * Nancysweethome located in Monastiraki. Juicy chocolates, loafed strawberries, oriental kazan dibi and carnouses, mastitis creos, syropiasta and all the serbets (for the heavy cribs), arrived at the most relaxed and cute Glycopolis in Athens. (http://nancysweethome.gr/)
 
@@ -205,7 +212,6 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic d?cor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here (https://www.facebook.com/cinderelladisco/?rf=929806063741649)
 
-
 * Located in Excarcheia, Kioumprik is a bar that you should totally visit! It plays many kind of music such as reggae, hip hop, punk, rock, stoner and more! the people who work there also run it with an assemply, so that they all can have part in its management. There is no relationship of employers - employees something difficult to find in a capitalistic country. [To see photos of Kioumprik click here https://www.google.gr/maps/uv?hl=el&pb=!1s0x14a1bd36e8ade401%3A0x10f139cef177887a!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd%3Dw216-h160-k-no!5zzrrOuc6_z4XOvM-Az4HOuc66IM61zr7Osc-Bz4fOtc65zrEgLSDOkc69zrHOts6uz4TOt8-DzrcgR29vZ2xl&imagekey=!1e10!2sAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd&sa=X&ved=0ahUKEwi0wJK_xsjZAhWDWxQKHbMlCUAQoioIeTAK]
 
 * Located in Monastiraki, Crust Athens is an underground club for people who want to party till the morning hours. It's also recommended for those who love pizza due to the fact that it serves great and worth-the-money pizza.(http://www.crust.gr/)
@@ -271,6 +277,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * During your stay in Athens, you should totally visit Ebros!It is an theatre in Psurri, which is occupied by a group of people. They have regular meetings where they organise everything about the theatre 's operation, the events, the concerts the parties and the plays. The good thing about Ebros is that its logic is that all its members are equal, without any boss or individual property. [click for more info http://embrostheater.blogspot.gr/]
 
 * To Treno Sto Rouf : Opened in 1997, the venue is housed in an Italian passenger wagon dating back to 1950. Though small, the stage is fully-equipped and hosts lectures, musical performances and of course, theatrical works. Plus, the wagon is equipped with a mechanism that stimulated the comforting motion of a train. To Treno Sto Rouf’s agenda is rich and varied with educational programs, theatrical performances for adults and children, exhibitions and other cultural events. This little hidden gem is located less than 10 minutes from the nightlife hub of Gazi and certainly deserves a visit. Whether you are in the mood for a play, a performance or simply a drink in an unusual venue, To Treno Sto Rouf is undeniably one of the best-kept secrets in Athens.
+<br/><img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/treno.jpg"><br/>
 
 * During your stay in Athens, you should totally visit Ebros!It is an theatre in Psurri, which is occupied by a group of people. They have regular meetings where they organise everything about the theatre 's operation, the events, the concerts the parties and the plays. The good thing about Ebros is that its logic is that all its members are equal, without any boss or individual property. [click for more info http://embrostheater.blogspot.gr/]
 
@@ -285,14 +292,10 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vouliagmeni offer lessons in many extreme sports such as: SUP, rowing , wind surf, surf, jet ski, sailing and many more.
 [click to see location](https://www.google.gr/maps/place/Varkiza,+Vari+166+72/@37.8175485,23.7817378,14z/data=!3m1!4b1!4m5!3m4!1s0x14a19525c364b6ff:0x77264baecded7346!8m2!3d37.8175503!4d23.7992474?hl=el)
 
-
-
 * If you are a hiking enthusiast, Mount Hymettus, culminating at 1026 kilometers, is located east of Athens, near the Zografou university campus. So skip the monument visits and get your dose of fresh air by climbing up the mountain and enjoying spectacular views of the city all the way to the sea. Make a day of it and try to reach Kaisariani Monastery, a Byzantine monastery dating back to 1100.
 
 * Bungee Jumping: If you want to feel happiness through the absolute meaning of freedom, this is the place to go. The power of the ability to “fly” everywhere, will definitely rise your adrenaline levels. "Zulu Bungy" have made their personal need of generously sharing smiles to people so as to make their world more beautiful. The spot that has been chosen to set up the appropriate facilities is one of the most magnificent works in the world. The Isthmus is the main strategic point of the Greek area and one of the most important works in East Mediterranean. Its tunneling has been a significant issue since the ancient times  as the creation of the canal would solve a lot of problems and would facilitate the navigation and the trade.
 [click to see what it looks like](https://youtu.be/QcbhWYmjdLw)
-
-
 
 ## Graffiti
 
@@ -317,9 +320,9 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * The Mall Athens: Located at Marousi, next to the "Neratziotissa station" on the Attiki Odos motorway, it is the biggest shopping centre of Greece hosting more than 200 shopping alternatives. Apart from shopping, the Mall also hosts lots of restaurants and coffee shops, cutting-edge cinemas and leisure areas for all family members. You can get there either by train or suburban railway. [click to see location](https://goo.gl/maps/9rzPaefnvvy)
 
-<<<<<<< HEAD
+
 * A great place to go shopping and combining it with a strall in one of the most beautiful places of Athens, is the Monastiraki flea market. You will find all sorts of shops just next to each other ( https://www.athensguide.com/monastiraki.html ). At the end of the main market road (Ifestou), you will surely want to keep on walking towards Thissio, a place with wonderful ancient sights on your one side and many restaurants and cafes on the other, while you are talking your walk on a paved road, making the time stop and creating an unrepeatable feeling. ( http://www.athensguide.com/thission/index.html )
-=======
+
 ## Urban Tourist Spots
 
 * Pittaki Street, a poorly lit industrial alley near Monastiraki Square connecting Ermou Street to Psirri, was not a very popular one. Lined with warehouses and small businesses, the pedestrian street was mostly used as a urinal after dusk. But everything changed in 2012, when a non-profit organization called Imagine The City partnered up with creative design studio Beforelight to revamp the forgotten street. Their idea? Turn the dark alley into a promenade. They started by asking locals to donate lamps and shades, and the residents quickly obliged; pretty soon, chandeliers, Chinese paper lanterns, and lamp fixtures piled up and were weatherproofed, wired, and strung together, creating a bright, cozy canopy over the street.
@@ -329,13 +332,15 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * Aeropagus Hill - If you need to take a rest after visiting the Acropolis, take a break at the Vrahakia, the rocky top of Aeropagus Hill, right across from the entrance of the sacred site. From there, you can admire the actual size of the city and simply relax.
 
 * Lycabettus Hill - If you’re the sporty type, why not hike up the paths in Kolonaki? If not take a bus from Panepistimiou Street or the funicular from Aristippou Street. The end game is to enjoy the most amazing view of Athens at an altitude of 300 meters. The 19th century chapel of Saint George, surrounded by pine trees, dominates the top of the mount Lycabettus, while the open-air theater here hosts a number of performances and concerts every summer.
+<br/><img src="https://github.com/tushartushar/taksidiotis/blob/master/lycabettus.jpg"><br/>
 
 ## Events
 
 * Technopolis Jazz Festival - Organized by the Technopolis City of Athens and the Onassis Cultural Center, the Technopolis Jazz Festival is one of the best open-air concert experiences you can have in Athens before the summer. Each year, during the last week of May, multiple talented jazz musicians from Greece and all around the globe come together to celebrate Jazz Music and give you a performance you will never forget! The festival lasts 6 days and the entrance is free so Jazz Be There - pun intended.
+[click to visit website](https://www.technopolisjazzfestival.com/index.php)
 
 * Epidaurus Festival - Ever wondered what theater was like in Ancient Greece? Then why not make the trip to Epidaurus to witness it with your own eyes, in the place where some of the most important figures of Ancient Greece's tragedy and comedy scene like Euripides, Aeschylus and Aristophanes enacted their plays. Epidaurus performances are presented every Friday and Saturday, from the beginning of July to mid-August. Starting hours: 21:00 for Ancient Theatre of Epidaurus, 21:30 for Little Theatre of Ancient Epidaurus.
->>>>>>> a90a83fc174327ffda0a8709476e78581e1f6dde
+[click to visit website](http://greekfestival.gr/gr/events)
 
 ## Other tips and tricks
 
@@ -358,3 +363,6 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * Rafting Ioannina: The famous Zagori, the famous Tzoumerka and wider region of Epirus are waiting to enchant you with the most beautiful rivers in Greece, virgin green forests, huge gorges, canyons and majestic mountains and endless rare natural beauties!
 Equipment required for the activities of Rafting and Canoeing is provided (uniforms neoprene, life jackets, raincoats, helmets, paddles and neoprene shoes) to conduct a safe route. In every activity your experiences will be captured (photographs - video go-pro camera). Your stay in the region will be very pleasant and helpful, as are available numerous hotels and apartments that can meet your various needs in both areas of Zagori and Tzoumerka and the wider area of Ioannina.
 [Click here for more info] (http://www.raftingioannina.gr/index_en.asp)
+
+
+<br/><img src="https://github.com/tushartushar/taksidiotis/blob/master/jug.jpg"><br/>
