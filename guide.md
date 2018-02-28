@@ -1,4 +1,4 @@
-# Taksidiotis - Athens travel guide by the Greeks
+﻿# Taksidiotis - Athens travel guide by the Greeks
 
 Athens is the capital city of Greece and the largest as well. Athens dominates the Attica region and is one of the world's oldest cities, with its recorded history spanning over 3,400 years.
 
@@ -40,6 +40,11 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * Stavros Niarchos Foundation Cultural Center: If you want to rest and take a walk into Athens' most beautiful spots [SNFCC](https://en.wikipedia.org/wiki/Stavros_Niarchos_Foundation_Cultural_Center) is your place. [Located in the bay of Phaliron](https://goo.gl/maps/fB6XJbZ5pwk), includes new facilities for the National Library of Greece and the National Opera, as well as the 210,000 m² Stavros Niarchos Park. For more info click [here](https://www.snfcc.org/?lang=en)
 
+* Athens is famous for its spectacular sights, its picturesque neighbourhoods and its natural beauty, where it is still preserved. If you want to fit as much as you can in only one view, your best bet is to grab a beer and get asap to one of the many hills around the city. The options are practically countless, but some great alternatives would be the following:
+	Philoppappos hill ( https://goo.gl/SAsGeW ) ,
+	Strefi hill ( https://goo.gl/DbtWfi ) ,
+	Mount Lycabettus ( https://goo.gl/pd9dMi ) , 
+	Both sides of the Attiko Alsos ( https://goo.gl/fGnPo8 )
 
 ## Restaurants/Tavernas
 
@@ -73,7 +78,7 @@ http://www.mparmpeekiou.com
 * Agora Restaurant includes great tasty food with unique atmosphere, great service and music. Dish not to miss : Salmon Spaghetti with Vodka Sauce. (https://www.agora-restaurant.gr/)
 
 
-* The various Greek beaches not only benefit us with their waters, where we can swim and cool off the hot days of summer, but also with the organisms that leave there. Therefore you should definitely visit a fish tavern, like 'Logo Timis' in Likovrisi. It is a very clean place with a very hostile owner, and his wife is the best cooker ever. Try the 'regosalata' plate, it is just awesome!
+* The various Greek beaches not only benefit us with their waters, where we can swim and cool off the hot days of summer, but also with the organisms that leave there. Therefore you should definitely visit a fish tavern, like 'Logo Timis' in Likovrisi. It is a very clean place with a very hospitable owner, and his wife is the best cook ever. Try the 'regosalata' plate, it is just awesome!
 
 * When it comes to Greek traditional food, "Christoforos" restaurant is the right place to visit! A cozy atmosphere and plenty of tasty plates, such as lamp, gyros, souvlaki, mousaka, all in affordable prices! The quality and quantity won't disappoint you!
 
@@ -208,6 +213,8 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Cine Thisseon: With a direct view to the one and only Acropolis, Cine Thisseon is a classic summer open air cinema in Athens to check out. Showing films since 1935, it can be found on the paved walkway that connects Thission with Filoppapou Hill. Typically, the operation of the cinema begins the last week of April or the first week of May and ends in late October. [click to see location](https://goo.gl/maps/L2ENKs1wHb12)
 
+*A great choice if to watch a movie if you're in Greece during the summer would be Cine Dexameni. Located right under mount Lycabettus, it is an open air cinema, with a very retro feel, which can give you a taste of what Greece used to look like many decades ago. ( https://www.facebook.com/Cine-Dexameni-127237247287870/ )
+
 ## Extreme sports
 
 * If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vouliagmeni offer lessons in many extreme sports such as: SUP, rowing , wind surf, surf, jet ski, sailing and many more.
@@ -234,6 +241,8 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 ## Shopping
 
 * The Mall Athens: Located at Marousi, next to the "Neratziotissa station" on the Attiki Odos motorway, it is the biggest shopping centre of Greece hosting more than 200 shopping alternatives. Apart from shopping, the Mall also hosts lots of restaurants and coffee shops, cutting-edge cinemas and leisure areas for all family members. You can get there either by train or suburban railway. [click to see location](https://goo.gl/maps/9rzPaefnvvy)
+
+* A great place to go shopping and combining it with a strall in one of the most beautiful places of Athens, is the Monastiraki flea market. You will find all sorts of shops just next to each other ( https://www.athensguide.com/monastiraki.html ). At the end of the main market road (Ifestou), you will surely want to keep on walking towards Thissio, a place with wonderful ancient sights on your one side and many restaurants and cafes on the other, while you are talking your walk on a paved road, making the time stop and creating an unrepeatable feeling. ( http://www.athensguide.com/thission/index.html )
 
 ## Other tips and tricks
 
