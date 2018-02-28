@@ -20,6 +20,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * The Greeks also are important for the contribution to sports. "Gymnasiums" and "stadiums" today--are names that both come from Greek.  There are lots of other echoes of the Greeks in our sports tradition of today. Some of the universal track and field events (e.g., the javelin and the discus) come out of Greek tradition.  Events like the Marathon and the Decathalon have Greek names, though they weren't specific Greek events. Perhaps the best example of Greek influence on our sports tradition: the Olympic games.
 
+* The marathon event was created for the modern Olympic Games held in Athens. The marathon is a commemoration of the run of the Greek soldier Pheidippides (also known as Philippides), who ran from Marathon to Athens to report the Athenians’ victory against the Persians in 490 B.C.
+
 ## Museums/Sightseeing
 
 * Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress. More info here: https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes
@@ -36,13 +38,15 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * Don't forget to visit the Archaeological Museum of Delphi.The Archaeological Museum of Delphi is one of the most important in Greece since it exhibits the history of the Delphic sanctuary, site of the most famous ancient Greek oracle. Its rich collections comprise primarily architectural sculpture and statues donated to the sanctuary reflecting its religious, political and artistic activities from its early years in the 8th century BC to its decline in Late Antiquity.[Click to see more] (http://odysseus.culture.gr/h/1/eh151.jsp?obj_id=3404)
 
+* Stavros Niarchos Foundation Cultural Center: If you want to rest and take a walk into Athens' most beautiful spots [SNFCC](https://en.wikipedia.org/wiki/Stavros_Niarchos_Foundation_Cultural_Center) is your place. [Located in the bay of Phaliron](https://goo.gl/maps/fB6XJbZ5pwk), includes new facilities for the National Library of Greece and the National Opera, as well as the 210,000 m² Stavros Niarchos Park. For more info click [here](https://www.snfcc.org/?lang=en)
+
 
 ## Restaurants/Tavernas
 
-*In Glyfada, you should definetely visit Buffalo Gelato, to taste the most special ice - cream in many different and unusual flavors and of course their famous
+* In Glyfada, you should definetely visit Buffalo Gelato, to taste the most special ice - cream in many different and unusual flavors and of course their famous
  Buffle cone which is a waffle in the shape of cone filled with chocolate, ice-cream and any other ingredient that you want!
  [click to view website](http://bufalagelato.com)
- <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/buffalo_gelato.png" width="170" height="150"> <br/>
+ <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/buffalo_gelato.png" width="220" height="200"> <br/>
 
 * In the heart of Athens, under the shade of the temple of Hephaestus on the picturesque Adrianou Street, lies the unique restaurant Kuzina.
 The old mansion where the restaurant is hosted keeps a hidden surprise for its guests: the breathtaking view to Acropolis from its Tarazza!
@@ -81,12 +85,22 @@ http://www.mparmpeekiou.com
 
 * Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website] (http://www.ciaoitalia.gr/)  
 
+<<<<<<< HEAD
 * Wafflehouse offers an extremely wide variety of homemade ice-cream flavours and delicious fresh baked waffles. It is located in Vouliagmeni and there you can enjoy your dessert while gazing at the mesmerizing sea! (http://www.wafflehouse.gr/)
+=======
+* A hidden place in the center of Athens is the Restaurant-Cafe-Bar named Cabezon("Καμπεθόν"). This place is unique, you won't find an open door with a big logo outside. It is a house with a garden, and you can either drink your coffee in the morning, eat a meal in the afternoon or party with some techno vibes at night.
+[Location: Καμπεθόν, Kerameikou 110,  Athens](https://goo.gl/maps/6VMXmBKzLwK2)
+<br>
+>>>>>>> c8713f16e56fecda8a8c1718cd14f5bd3dfb8d64
 
 ## Bars
 
+* If you locate yourself in the urban area called Pagkrati ("Παγκράτι") and you want to have a beverage or a drink, you can visit Chelsea Hotel. This spot has an amazing cup of coffee and awesome cocktails at night. Anyone that likes an exquisite and cult spot, would love this place. Warning, it gets really crowded at night.
+[Location: Archimidous 1, Αθήνα 116 35](https://goo.gl/maps/fvtM1TeBQP62)
+<br>
+
 * In the heart of the town, Speakeasy is a must visit bar with live classic jazz music  and great decoration and tables inspired by 80's.
-  [click to visit website](https://foursquare.com/v/the-speakeasy/52b8ab6c11d2bde308cd9ae7) 
+  [click to visit website](https://foursquare.com/v/the-speakeasy/52b8ab6c11d2bde308cd9ae7)
 
 * In the top 10 in annual ratings of world's best bars, The Clumsies bar is one of the hottest bars downtown. [click to visit website](http://theclumsies.gr/)
 [reference to 2017 list of world's best bars](https://www.worlds50bestbars.com/fifty-best-bars-list-2017/?ist=6)
@@ -113,9 +127,17 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * If you are in the mood for rock and metal music the place in Athens for you to go is Intrepid Fox in Gazi square.A great collection of beers cocktails and shots that will give you a night to remember!
 
+<<<<<<< HEAD
 * 360 Cocktail bar from its beautiful rooftop, offers a panoramic view of the city of Athens and an ideal place to take photos of the Acropolis. It is located right next to Monastiraki Metro station. For more info => http://www.three-sixty.gr/ 
+=======
+* An oasis in the heart of Athens called "Six D.O.G.S" combines a lot of different happenings in one place. One can enjoy a relaxing coffee or snack in the back garden, a cocktail watching a concert, or cultural event while mingling with people from different backgrounds. [Click here to see more.] (https://sixdogs.gr/)
+>>>>>>> c8713f16e56fecda8a8c1718cd14f5bd3dfb8d64
 
 ## Night life
+
+* Next, to the station of Metro Metaksourgeio, there is a club called asylum ("Άσυλο"), it doesn't have any logo or any fancy entrance but you can spot it because is the only place that you will have youth outside of it. It has uncommon decoration and a projector that shows cartoonish videos on the wall. The music is always alternative or techno and it has cheap drinks.
+[Location: Αχιλλέως 38, Αθήνα 104 36](https://goo.gl/maps/KXh7jEBHb6S2)
+<br>
 
 * Enjoy R&B and house music while enjoying your favorite drink at "Toyroom" in the center of Athens.
 [click to see location](https://www.google.gr/maps/place/ToyRoom+Athens/@37.977635,23.733593,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3931ab9175:0xd4f4699dd47969a8!8m2!3d37.977635!4d23.735787?hl=el)
@@ -125,12 +147,14 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * Enjoy various types of rum and Cuban history in Finca Vigia . Your rum will come along with the best Bar owners of the town and a friendly atmosphere where you can easily fit in. (https://www.facebook.com/fincavigiabar/?rf=176954512815542)
 
+* If you want to hear the best Greek music and party like a Greek then [Plintirio Bar](https://www.facebook.com/Πλυντήριο-Bar-1413208995564217/) is your destination. Located at Gazi (the area near the city center where most clubs are located) is the perfect choice for you. Check the location [here](https://goo.gl/maps/DEHBaLYCqXH2).
+
 * Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic décor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here (https://www.facebook.com/cinderelladisco/?rf=929806063741649)
 
 ## Islands
 
-* To enjoy the most spectacular sunset, alleys, beaches and a beautiful white and blue architecture of houses Santorini is the idial island to go! It's 
-  famous about the sunset, the amazing view from all the places and how romantic is there. 
+* To enjoy the most spectacular sunset, alleys, beaches and a beautiful white and blue architecture of houses Santorini is the idial island to go! It's
+  famous about the sunset, the amazing view from all the places and how romantic is there.
   For the things to do and places you should visit when you go in Santorini [click here](https://santorinidave.com/best-things-to-do-santorini)
 
 * In case you have enough time for holidays, a great choice for you is to visit Chania, Crete. A city that combines wonderful nightlife as well as landscapes and well-known beaches. [click to visit website](https://www.discovergreece.com/el/greek-islands/crete/chania)
@@ -161,7 +185,11 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Amorgos: One of the most impressive Cycladic islands, Amorgos, with its azure waters, unique landscape and picturesque villages is the perfect choise for relaxing holidays in the Aegean.
 
+<<<<<<< HEAD
 * Milos: One of the most beautiful islands of Greece. Its volcanic activity in combination with the turquoise water make a unique landscape that every tourist should visit. Milos is ideal for young couples and a private means of transport would be recommended.
+=======
+* Ios: If you want to party a lot and live a wonderful experience in the Greek islands then **Ios** should be your choice. Ios means *flower* and according to the ancient tradition, Ios was the homeland of Homer’s mother and the final resting place of the great epic poet. It is particularly famous for the wonderful beaches, the picturesque village of Chora and certainly the intense nightlife that attracts mostly young crowds. Click [here](http://www.visitgreece.gr/en/greek_islands/cyclades/ios) for more info.
+>>>>>>> c8713f16e56fecda8a8c1718cd14f5bd3dfb8d64
 
 ## Natural Resorts
 
@@ -177,7 +205,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 ## Cinema
 
-* Cine Thisseon: With a direct view to the one and only Acropolis, Cine Thisseon is a classic summer open air cinema in Athens to check out. Showing films since 1935, it can be found on the paved walkway that connects Thission with Filoppapou Hill. Typically, the operation of the cinema begins the last week of April or the first week of May and ends in late October. [click to see location](https://goo.gl/maps/L2ENKs1wHb12) 
+* Cine Thisseon: With a direct view to the one and only Acropolis, Cine Thisseon is a classic summer open air cinema in Athens to check out. Showing films since 1935, it can be found on the paved walkway that connects Thission with Filoppapou Hill. Typically, the operation of the cinema begins the last week of April or the first week of May and ends in late October. [click to see location](https://goo.gl/maps/L2ENKs1wHb12)
 
 ## Extreme sports
 
@@ -204,7 +232,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 *If you want to have fun and at the same time educate your kids visit Hellenic Children’s Museum:This museum is dedicated to kids and helps them learn in a fun way about how the world functions. A couple of examples of things they can do is to create with building materials, learn about the concepts of supply and demand in the marketplace, or even experiment with food ingredients in the kitchen.[Just click here to learn more about this interesting museum] (https://www.kidslovegreece.com/en/culture/hellenic-childrens-museum/)
 ## Shopping
 
-* The Mall Athens: Located at Marousi, next to the "Neratziotissa station" on the Attiki Odos motorway, it is the biggest shopping centre of Greece hosting more than 200 shopping alternatives. Apart from shopping, the Mall also hosts lots of restaurants and coffee shops, cutting-edge cinemas and leisure areas for all family members. You can get there either by train or suburban railway. [click to see location](https://goo.gl/maps/9rzPaefnvvy) 
+* The Mall Athens: Located at Marousi, next to the "Neratziotissa station" on the Attiki Odos motorway, it is the biggest shopping centre of Greece hosting more than 200 shopping alternatives. Apart from shopping, the Mall also hosts lots of restaurants and coffee shops, cutting-edge cinemas and leisure areas for all family members. You can get there either by train or suburban railway. [click to see location](https://goo.gl/maps/9rzPaefnvvy)
 
 ## Other tips and tricks
 
@@ -221,3 +249,5 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * Mobile Phone Data is important when you’ve stopped using paper maps. Outside the central subway stations you’ll find people set up selling sim cards with various data packs on offer. While they are looking to sell to locals – as a tourist it’s an absolute bargain for the mouth of data you get plus the ability to book bars and restaurants.
 
 * The Greeks will be more friendly and eager to help if you try to speak some Greek, too. Just a couple of words are fine, they love it when they hear a stranger speaking their language. So, say “kalimera” instead of “good morning” and “efxaristo” instead of “thank you”, and you will see some big proud smiles in their faces.
+
+* Adding to the previous tip a visitor can watch this 13 minutes video if he wants to learn something more: https://www.youtube.com/watch?v=O5cI_D1XA7M
