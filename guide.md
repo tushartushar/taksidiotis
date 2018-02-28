@@ -29,20 +29,20 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 Athens has a hot-summer Mediterranean climate. The dominant feature of Athens' climate is alternation between prolonged hot and dry summers and mild to cool winters with moderate rainfall.[37] With an average of 416.8 millimetres (16.41 in) of yearly precipitation, rainfall occurs largely between the months of October and April. July and August are the driest months, where thunderstorms occur sparsely once or twice a month.
 
-| Month     | High | Low |
-| --------- |:----:|:---:|
-| January   | 13   | 7   |
-| February  | 14   | 7   |
-| March     | 16   | 8   |
-| April     | 20   | 11  |
-| May       | 25   | 16  |
-| June      | 29   | 20  |
-| July      | 33   | 23  |
-| August    | 32   | 23  |
-| September | 29   | 20  |
-| October   | 23   | 15  |
-| November  | 18   | 11  |
-| December  | 15   | 8   |
+| Month     | High | Low | Rain   |
+| --------- |:----:|:---:|:------:|
+| January   | 13   | 7   | 5 days |
+| February  | 14   | 7   | 4 days |
+| March     | 16   | 8   | 4 days |
+| April     | 20   | 11  | 3 days |
+| May       | 25   | 16  | 2 days |
+| June      | 29   | 20  | 1 day  |
+| July      | 33   | 23  | 0 day  |
+| August    | 32   | 23  | 0 day  |
+| September | 29   | 20  | 1 day  |
+| October   | 23   | 15  | 3 days |
+| November  | 18   | 11  | 4 days |
+| December  | 15   | 8   | 6 days |
 
 ## Museums/Sightseeing
 
