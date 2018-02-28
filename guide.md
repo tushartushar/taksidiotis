@@ -185,11 +185,10 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Amorgos: One of the most impressive Cycladic islands, Amorgos, with its azure waters, unique landscape and picturesque villages is the perfect choise for relaxing holidays in the Aegean.
 
-<<<<<<< HEAD
 * Milos: One of the most beautiful islands of Greece. Its volcanic activity in combination with the turquoise water make a unique landscape that every tourist should visit. Milos is ideal for young couples and a private means of transport would be recommended.
-=======
+
 * Ios: If you want to party a lot and live a wonderful experience in the Greek islands then **Ios** should be your choice. Ios means *flower* and according to the ancient tradition, Ios was the homeland of Homer’s mother and the final resting place of the great epic poet. It is particularly famous for the wonderful beaches, the picturesque village of Chora and certainly the intense nightlife that attracts mostly young crowds. Click [here](http://www.visitgreece.gr/en/greek_islands/cyclades/ios) for more info.
->>>>>>> c8713f16e56fecda8a8c1718cd14f5bd3dfb8d64
+
 
 ## Natural Resorts
 
