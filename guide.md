@@ -91,6 +91,8 @@ http://www.mparmpeekiou.com
 [Location: Καμπεθόν, Kerameikou 110,  Athens](https://goo.gl/maps/6VMXmBKzLwK2)
 <br>
 
+* Nancysweethome located in Monastiraki. Juicy chocolates, loafed strawberries, oriental kazan dibi and carnouses, mastitis creos, syropiasta and all the serbets (for the heavy cribs), arrived at the most relaxed and cute Glycopolis in Athens. (http://nancysweethome.gr/)
+
 
 ## Bars
 
@@ -126,9 +128,11 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * If you are in the mood for rock and metal music the place in Athens for you to go is Intrepid Fox in Gazi square.A great collection of beers cocktails and shots that will give you a night to remember!
 
-* 360 Cocktail bar from its beautiful rooftop, offers a panoramic view of the city of Athens and an ideal place to take photos of the Acropolis. It is located right next to Monastiraki Metro station. For more info => http://www.three-sixty.gr/ 
+* 360 Cocktail bar from its beautiful rooftop, offers a panoramic view of the city of Athens and an ideal place to take photos of the Acropolis. It is located right next to Monastiraki Metro station. For more info => http://www.three-sixty.gr/
 
 * An oasis in the heart of Athens called "Six D.O.G.S" combines a lot of different happenings in one place. One can enjoy a relaxing coffee or snack in the back garden, a cocktail watching a concert, or cultural event while mingling with people from different backgrounds. [Click here to see more.] (https://sixdogs.gr/)
+
+* Tiki Bar Athens is a well known treasure for the ones visiting the Greek capital, offering some genuine tropical vibes near the Acropolis, Odeon of Herodes Atticus and Athens Central square of Syntagma.Tiki Bar Athens is a place that it's spirit and...high quality spirits can only be found in Quentin Tarantino movies. Given the decoration with Rock and Roll, Tiki, Dia de Los Muertos and B Movies, it's unique style matches the unique cocktails and it's authentic perspective in music from 1920's up to date. (http://www.tikiathens.com/en/)
 
 
 ## Night life
@@ -150,6 +154,8 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 * Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic d?cor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here (https://www.facebook.com/cinderelladisco/?rf=929806063741649)
 
 * Located in Excarcheia, Kioumprik is a bar that you should totally visit! It plays many kind of music such as reggae, hip hop, punk, rock, stoner and more! the people who work there also run it with an assemply, so that they all can have part in its management. There is no relationship of employers - employees something difficult to find in a capitalistic country. [To see photos of Kioumprik click here https://www.google.gr/maps/uv?hl=el&pb=!1s0x14a1bd36e8ade401%3A0x10f139cef177887a!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd%3Dw216-h160-k-no!5zzrrOuc6_z4XOvM-Az4HOuc66IM61zr7Osc-Bz4fOtc65zrEgLSDOkc69zrHOts6uz4TOt8-DzrcgR29vZ2xl&imagekey=!1e10!2sAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd&sa=X&ved=0ahUKEwi0wJK_xsjZAhWDWxQKHbMlCUAQoioIeTAK]
+
+* Located in Monastiraki, Crust Athens is an underground club for people who want to party till the morning hours. It's also recommended for those who love pizza due to the fact that it serves great and worth-the-money pizza.(http://www.crust.gr/)
 ## Islands
 
 * To enjoy the most spectacular sunset, alleys, beaches and a beautiful white and blue architecture of houses Santorini is the idial island to go! It's
@@ -203,7 +209,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/Odeon_of_Herodes_Atticus.jpg"><br/>
 [click for more information regarding access, history and upcoming events](http://greekfestival.gr/en/venues/view/odeon-of-herodes-atticus)
 
-* During your stay in Athens, you should totally visit Ebros!It is an theatre in Psurri, which is occupied by a group of people. They have regular meetings where they organise everything about the theatre 's operation, the events, the concerts the parties and the plays. The good thing about Ebros is that its logic is that all its members are equal, without any boss or individual property. [click for more info http://embrostheater.blogspot.gr/] 
+* During your stay in Athens, you should totally visit Ebros!It is an theatre in Psurri, which is occupied by a group of people. They have regular meetings where they organise everything about the theatre 's operation, the events, the concerts the parties and the plays. The good thing about Ebros is that its logic is that all its members are equal, without any boss or individual property. [click for more info http://embrostheater.blogspot.gr/]
 ## Cinema
 
 * Cine Thisseon: With a direct view to the one and only Acropolis, Cine Thisseon is a classic summer open air cinema in Athens to check out. Showing films since 1935, it can be found on the paved walkway that connects Thission with Filoppapou Hill. Typically, the operation of the cinema begins the last week of April or the first week of May and ends in late October. [click to see location](https://goo.gl/maps/L2ENKs1wHb12)
@@ -212,6 +218,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vouliagmeni offer lessons in many extreme sports such as: SUP, rowing , wind surf, surf, jet ski, sailing and many more.
 [click to see location](https://www.google.gr/maps/place/Varkiza,+Vari+166+72/@37.8175485,23.7817378,14z/data=!3m1!4b1!4m5!3m4!1s0x14a19525c364b6ff:0x77264baecded7346!8m2!3d37.8175503!4d23.7992474?hl=el)
+
 
 ## Graffiti
 
