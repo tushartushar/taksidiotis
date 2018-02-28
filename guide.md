@@ -25,6 +25,25 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * The marathon event was created for the modern Olympic Games held in Athens. The marathon is a commemoration of the run of the Greek soldier Pheidippides (also known as Philippides), who ran from Marathon to Athens to report the Athenians’ victory against the Persians in 490 B.C.
 
+##Climate
+
+Athens has a hot-summer Mediterranean climate. The dominant feature of Athens' climate is alternation between prolonged hot and dry summers and mild to cool winters with moderate rainfall.[37] With an average of 416.8 millimetres (16.41 in) of yearly precipitation, rainfall occurs largely between the months of October and April. July and August are the driest months, where thunderstorms occur sparsely once or twice a month.
+
+| Month     | High | Low |
+| --------- |:----:| ---:|
+| January   | 13   | 7   |
+| February  | 14   | 7   |
+| March     | 16   | 8   |
+| April     | 20   | 11  |
+| May       | 25   | 16  |
+| June      | 29   | 20  |
+| July      | 33   | 23  |
+| August    | 32   | 23  |
+| September | 29   | 20  |
+| October   | 23   | 15  |
+| November  | 18   | 11  |
+| December  | 15   | 8   |
+
 ## Museums/Sightseeing
 
 * Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress. More info here: https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes
