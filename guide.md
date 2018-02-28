@@ -86,14 +86,12 @@ http://www.mparmpeekiou.com
 * Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website] (http://www.ciaoitalia.gr/)  
 
 * A hidden place in the center of Athens is the Restaurant-Cafe-Bar named Cabezon("Καμπεθόν"). This place is unique, you won't find an open door with a big logo outside. It is a house with a garden, and you can either drink your coffee in the morning, eat a meal in the afternoon or party with some techno vibes at night.
-<br>
 [Location: Καμπεθόν, Kerameikou 110,  Athens](https://goo.gl/maps/6VMXmBKzLwK2)
 <br>
 
 ## Bars
 
 * If you locate yourself in the urban area called Pagkrati ("Παγκράτι") and you want to have a beverage or a drink, you can visit Chelsea Hotel. This spot has an amazing cup of coffee and awesome cocktails at night. Anyone that likes an exquisite and cult spot, would love this place. Warning, it gets really crowded at night.
-<br>
 [Location: Archimidous 1, Αθήνα 116 35](https://goo.gl/maps/fvtM1TeBQP62)
 <br>
 
@@ -130,7 +128,6 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 ## Night life
 
 * Next, to the station of Metro Metaksourgeio, there is a club called asylum ("Άσυλο"), it doesn't have any logo or any fancy entrance but you can spot it because is the only place that you will have youth outside of it. It has uncommon decoration and a projector that shows cartoonish videos on the wall. The music is always alternative or techno and it has cheap drinks.
-<br>
 [Location: Αχιλλέως 38, Αθήνα 104 36](https://goo.gl/maps/KXh7jEBHb6S2)
 <br>
 
