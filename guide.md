@@ -16,9 +16,9 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * One of the Seven Wonders of the Ancient World, the Colossus of Rhodes was a statue of the Greek titan-god of the sun Helios, erected in the city of Rhodes, on the Greek island of the same name, by Chares of Lindos in 280 BC. More info here: [Click to see more](https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes)
 
-* Democracy was inherited to the world by ancient Greece and especially Athens where it was developed around the fifth century BC. The longest-lasting democratic leader was Pericles. [click to see more details](https://en.wikipedia.org/wiki/Athenian_democracy)
+* Democracy was inherited to the world by ancient Greece and especially Athens where it was developed around the fifth century BC. The longest-lasting democratic leader was Pericles. [Click to see more details](https://en.wikipedia.org/wiki/Athenian_democracy)
 
-* Mathematics and specifically geometry were greatly advanced in ancient Greece. Among the most famous mathematicians are Pythagoras, Euclides and Thales.  [click to see more details](https://en.wikipedia.org/wiki/Greek_mathematics)
+* Mathematics and specifically geometry were greatly advanced in ancient Greece. Among the most famous mathematicians are Pythagoras, Euclides and Thales.  [Click to see more details](https://en.wikipedia.org/wiki/Greek_mathematics)
 
 * The name of Athens, connected to the name of its patron goddess Athena, originates from an earlier Pre-Greek language.
 
@@ -33,9 +33,9 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 * Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress. More info here: https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes
 
 * The National Archaeological Museum is a must if you want to explore the educational part of Athens and Greek history.
-[click to see location](https://goo.gl/maps/PqarnX2ounx)
+[Click to see location](https://goo.gl/maps/PqarnX2ounx)
 
-* It's impossible to come to Athens and not visit the Acropolis. The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance, the most famous being the Parthenon. [click to see more details](https://en.wikipedia.org/wiki/Acropolis_of_Athens)
+* It's impossible to come to Athens and not visit the Acropolis. The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance, the most famous being the Parthenon. [Click to see more details](https://en.wikipedia.org/wiki/Acropolis_of_Athens)
 
 * Your walk to Acropolis and the monument of Parthenon can ideally match with a visit to the Acropolis Museum. The Acropolis Museum is an archaeological museum focused on the findings of the archaeological site of the Acropolis of Athens. The museum was built to house every artifact found on the rock and on the surrounding slopes, from the Greek Bronze Age to Roman and Byzantine Greece.
 [Click to see more](http://www.theacropolismuseum.gr/)
@@ -49,21 +49,21 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * In Glyfada, you should definetely visit Buffalo Gelato, to taste the most special ice - cream in many different and unusual flavors and of course their famous
  Buffle cone which is a waffle in the shape of cone filled with chocolate, ice-cream and any other ingredient that you want!
- [click to view website](http://bufalagelato.com)
+ [Click to view website](http://bufalagelato.com)
  <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/buffalo_gelato.png" width="170" height="150"> <br/>
 
 * In the heart of Athens, under the shade of the temple of Hephaestus on the picturesque Adrianou Street, lies the unique restaurant Kuzina.
 The old mansion where the restaurant is hosted keeps a hidden surprise for its guests: the breathtaking view to Acropolis from its Tarazza!
 Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a unique menu that makes Kuzina stand out for combining traditional cuisine and culinary inventiveness.
-[click to see more](https://www.kuzina.gr/en/home)
+[Click to see more](https://www.kuzina.gr/en/home)
 
 * Treat yourself with some ice cream and waffles at "Bufala Gelato" in the sunny Glyfada.
-[click to view website](http://bufalagelato.com)
+[Click to view website](http://bufalagelato.com)
 
 * Varoulko restaurant is located in one of the most beautiful places, the Mikrolimano marina, in front of the sea, has easy access from  downtown Athens & Piraeus and provides its visitors an elegant atmosphere and an outstanding view. [Click to see more](http://varoulko.gr/)
 
 * Thanasis taverna is one of the most iconic tavernas in Athens, with its trademark dish being kebabs. It is a nice place to go after a walk in the center of Athens and enjoy a meal near the Monastiraki Square.
-[click to see location](https://goo.gl/maps/sA1seLsfrNG2)
+[Click to see location](https://goo.gl/maps/sA1seLsfrNG2)
 
 * Just 33 km east of Athens, there is a village named "Kalyvia Thorikou". This village is lucky enough to have plenty of simply amazing tavernas. There one might find some of the tastiest delicacies Greece has to offer to meat lovers the world around. The most iconic of them all should be the famous kontosouvli and this is just the tip of the iceberg as you can try tasty grilled goat chops and many many more!!!
 
@@ -90,11 +90,11 @@ This is the crepe called "49" (It is called "49" because it is the number 49 on 
 
 * For me the best place at the center of Athens is "Avli", which is located at Psirri, Athens. If you are lucky enough to find the tiny door, open it and you will feel like you've entered the square of a small island village with white walls and blue shutters. It's the place were locals go to eat Greek traditional plates, all homemade dishes, and drink raki, tsipouro, ouzo, beer and wine. Despite all the above mentioned, what I personally love the most is the ambience of the place, which makes you forget you are a stranger and someway unites you with other people.
 Here you can take a look at the inside:
-<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/avli.jpg" width="220" height="200">
-Because of its' difficult location to find, we provide you with one here:
-[click to see location](https://goo.gl/maps/XeHgK5bzf2v)
+<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/avli.jpg" width="420" height="200">
+ ** Because of its' difficult location to find, we provide you with one here:
+[Click to see location](https://goo.gl/maps/XeHgK5bzf2v)
 
-* Don't forget to visit the Italian restaurant named Ciao. Located in Pagrati, is the best place for pasta, pizza and many other Italian recipes, for sure you will not be disappointed! For more info [click to see the website] [You can visit the website here](http://www.ciaoitalia.gr/)  
+* Don't forget to visit the Italian restaurant named Ciao. Located in Pagrati, is the best place for pasta, pizza and many other Italian recipes, for sure you will not be disappointed! For more info [Click to see the website][You can visit the website here](http://www.ciaoitalia.gr/)  
 
 * Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website] (http://www.ciaoitalia.gr/)  
 
@@ -102,19 +102,19 @@ Because of its' difficult location to find, we provide you with one here:
 ## Bars
 
 * In the heart of the town, Speakeasy is a must visit bar with live classic jazz music  and great decoration and tables inspired by 80's.
-  [click to visit website](https://foursquare.com/v/the-speakeasy/52b8ab6c11d2bde308cd9ae7)
+  [Click to visit website](https://foursquare.com/v/the-speakeasy/52b8ab6c11d2bde308cd9ae7)
 
-* In the top 10 in annual ratings of world's best bars, The Clumsies bar is one of the hottest bars downtown. [click to visit website](http://theclumsies.gr/)
+* In the top 10 in annual ratings of world's best bars, The Clumsies bar is one of the hottest bars downtown. [Click to visit website](http://theclumsies.gr/)
 [reference to 2017 list of world's best bars](https://www.worlds50bestbars.com/fifty-best-bars-list-2017/?ist=6)
 
 * If it's summer and you are in the capital of Greece, a good choice to spend your night is a bar in the city center called "six d.o.g.s". In its garden, you can relax and enjoy good music.
-[click to see the Facebook page](https://www.facebook.com/pg/sixdogsathens/about/?ref=page_internal)
+[Click to see the Facebook page](https://www.facebook.com/pg/sixdogsathens/about/?ref=page_internal)
 
 * Next to "Monastiraki" metro station, on the sixth floor of a small hotel, there is a rooftop cocktail bar called "A for Athens". It is now one of Athens's top after-dark venues. Outrageously popular with locals and visitors alike, it has a stylish open-air lounge terrace with amazing view of the floodlit Acropolis.
 [click to visit website](https://aforathens.com/?lang=el)
 
 * Peek a Bloom is the perfect destination for a night out or coffee. It's environment, innovative cocktails linked to names and stories, amazing coffee made with on the spot roasted beans and healthy snacks are the reason it is one of the top spot for Athenians and tourists.
-[click to see location](https://goo.gl/maps/bm1Af1QsNpD2)
+[Click to see location](https://goo.gl/maps/bm1Af1QsNpD2)
 
 * Don't miss stunning views of the Parthenon from the famous Athens Rooftop Bar called "AthenStyle", the best spot for meeting people and chilling after a long day sightseeing. Enjoy all year happy hours cheap drinks and live the AthenStyle experience! [Click here to see more.](http://athenstyle.com/en_GB/rooftop/)
 
@@ -126,7 +126,7 @@ Because of its' difficult location to find, we provide you with one here:
 
 * MoMix Kerameikos - The first bar in Athens which combined molecular gastronomy with bartending, creating special cocktails for guests who like experiments.
 Opened in November 2012 and soon conquered the Athenians, and offers cocktails in alternative forms, in addition to liquid. The Momix team with lots of imagination and playfulness, shuffles foams, powders and jellies and serves the most original cocktails in cups, plates and bowls!
-[click to see location](https://www.google.gr/maps/place/MoMix+Bar+Kerameikos/@37.981228,23.7103453,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcded85399e7:0x58470aee4d500a46!8m2!3d37.981228!4d23.712534)
+[Click to see location](https://www.google.gr/maps/place/MoMix+Bar+Kerameikos/@37.981228,23.7103453,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcded85399e7:0x58470aee4d500a46!8m2!3d37.981228!4d23.712534)
 
 * If you are in the mood for rock and metal music the place in Athens for you to go is Intrepid Fox in Gazi square.A great collection of beers cocktails and shots that will give you a night to remember!
 
@@ -134,37 +134,37 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 ## Night life
 
 * Enjoy R&B and house music while enjoying your favorite drink at "Toyroom" in the center of Athens.
-[click to see location](https://www.google.gr/maps/place/ToyRoom+Athens/@37.977635,23.733593,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3931ab9175:0xd4f4699dd47969a8!8m2!3d37.977635!4d23.735787?hl=el)
-[check the locals' opinion](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d13137578-Reviews-Toy_Room_Club-Athens_Attica.html)
+[Click to see location](https://www.google.gr/maps/place/ToyRoom+Athens/@37.977635,23.733593,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3931ab9175:0xd4f4699dd47969a8!8m2!3d37.977635!4d23.735787?hl=el)
+[Check the locals' opinion](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d13137578-Reviews-Toy_Room_Club-Athens_Attica.html)
 
-* From Hollywood to Athens! The best night club in the city. [click to see location](https://www.google.gr/maps/place/Lohan+Nightclub/@37.980089,23.7118973,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcdf1361cf75:0xd93f0d81a48af300!8m2!3d37.980089!4d23.714086)
+* From Hollywood to Athens! The best night club in the city. [Click to see location](https://www.google.gr/maps/place/Lohan+Nightclub/@37.980089,23.7118973,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcdf1361cf75:0xd93f0d81a48af300!8m2!3d37.980089!4d23.714086)
 
-* Enjoy various types of rum and Cuban history in Finca Vigia . Your rum will come along with the best Bar owners of the town and a friendly atmosphere where you can easily fit in. [click to see more details](https://www.facebook.com/fincavigiabar/?rf=176954512815542)
+* Enjoy various types of rum and Cuban history in Finca Vigia . Your rum will come along with the best Bar owners of the town and a friendly atmosphere where you can easily fit in. [Click to see more details](https://www.facebook.com/fincavigiabar/?rf=176954512815542)
 
-* Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic décor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here [click to see more details](https://www.facebook.com/cinderelladisco/?rf=929806063741649)
+* Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic décor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here [Click to see more details](https://www.facebook.com/cinderelladisco/?rf=929806063741649)
 
 * Where street meets fun. Where urban culture is expressed. Where? ΕΚΕΙ. Check this place out if you are more into a more chill way of partying. There
 are events every Friday and Saturday with different music on the ground floor(usually mainstream anthems or R&B) and the basement(techno, electro).
-[click to see more details](https://www.facebook.com/ekei.lekka23/)
+[Click to see more details](https://www.facebook.com/ekei.lekka23/)
 
 ## Islands
 
 * To enjoy the most spectacular sunset, alleys, beaches and a beautiful white and blue architecture of houses Santorini is the idial island to go! It's
   famous about the sunset, the amazing view from all the places and how romantic is there.
-  For the things to do and places you should visit when you go in Santorini [click here](https://santorinidave.com/best-things-to-do-santorini)
+  For the things to do and places you should visit when you go in Santorini [Click here](https://santorinidave.com/best-things-to-do-santorini)
 
-* In case you have enough time for holidays, a great choice for you is to visit Chania, Crete. A city that combines wonderful nightlife as well as landscapes and well-known beaches. [click to visit website](https://www.discovergreece.com/el/greek-islands/crete/chania)
+* In case you have enough time for holidays, a great choice for you is to visit Chania, Crete. A city that combines wonderful nightlife as well as landscapes and well-known beaches. [Click to visit website](https://www.discovergreece.com/el/greek-islands/crete/chania)
 
 * Another great city of Crete is Heraklion in which you can visit a lot of well-known sights such as Knossos, Koules and Fountain Morozini.
 
 * Spetses:
 Beautiful nature, perfect beaches and a complex history ? Spetses is an island that has all three. It's close enough to Athens to be enjoyed as a day trip and has enough varied sites and activities to keep you completely occupied for longer trips.
-[click to see more details](http://www.greece-is.com/5-reasons-visit-spetses/)
+[Click to see more details](http://www.greece-is.com/5-reasons-visit-spetses/)
 
 * Santorini is a beautiful and all natural part of the Greek Islands with many wonderful places and a variety of ways you can enjoy your time there.
-[click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/santorini)
+[Click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/santorini)
 
-* Visit Rhodes : Rhodes is a unique island that combines History from different eras of time. It has ancient Greek ruins, Medieval structures, Italian structures from the Italian occupation of Rhodes, Turkish structures etc. It is well known for its sightseeings and landscape variety, which makes it one of the most visited destination in Europe. For more information check the wiki page: [click to see more details](https://en.wikipedia.org/wiki/Rhodes)
+* Visit Rhodes : Rhodes is a unique island that combines History from different eras of time. It has ancient Greek ruins, Medieval structures, Italian structures from the Italian occupation of Rhodes, Turkish structures etc. It is well known for its sightseeings and landscape variety, which makes it one of the most visited destination in Europe. For more information check the wiki page: [Click to see more details](https://en.wikipedia.org/wiki/Rhodes)
 
 * Visit Lesvos : the island of hidden harmony; a unique destination, recognised as a member of the UNESCO Global Geopark Network, with long tradition and history, inherent contrasts of natural beauty, and delightful flavours with olive oil and ouzo in the spotlight!
 
@@ -175,7 +175,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * Serifos: an island with wild beauty and relaxing atmosphere. Not many people visit this island per year, therefore is perfect for those who want to run away from the hustle and bustle of Athens. The beaches are mainly sandy with crystal clear water. If you ever get the chance to go to the island, don't forget to go to the castle and wait for the sunrise. The view will reward you. [Click for more info](https://www.discovergreece.com/el/greek-islands/cyclades/serifos)
 
 * Mykonos: Famous for its nightlife, though Mykonos has a lot more to offer. Beautiful and exotic rocky beaches, well-known restaurants offering traditional plates, mysterious and wonderful alleys. Mykonos combine both the quiet and the frostbite memories you want to add in your summer vacations!  
-[click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/mykonos)
+[Click to visit website](https://www.discovergreece.com/el/greek-islands/cyclades/mykonos)
 
 * Skiathos: Skiathos is among the most popular islands of Greece. Famous for the golden beaches, the green nature and the vivid atmosphere, Skiathos Greece is a favourite destination for both youth and families. The most popular beaches are located on the southern side of the island, including the famous bay of Koukounaries. However, very impressive is the exotic beach of Lalaria, accessible only by boat trip that also goes to the Medieval Castle of the island. The Town is the centre of activities on the island, where visitors head in the evenings to enjoy a relaxing drink. From Skiathos island, visitors can make day excursions to Skopelos and Alonissos, the other islands of Sporades.
 
@@ -193,16 +193,16 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Odeon of Herodes Atticus: A stone theatre structure located on the southwest slope of the Acropolis of Athens, Greece. The building was completed in 161 AD and then renovated in 1950. Since then it has been the main venue of the Athens Festival, which runs from May through October each year, featuring a variety of acclaimed Greek as well as International performances.<br/>
 <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/Odeon_of_Herodes_Atticus.jpg" width="220" height="200"><br/>
-[click for more information regarding access, history and upcoming events](http://greekfestival.gr/en/venues/view/odeon-of-herodes-atticus)
+[Click for more information regarding access, history and upcoming events](http://greekfestival.gr/en/venues/view/odeon-of-herodes-atticus)
 
 ## Cinema
 
-* Cine Thisseon: With a direct view to the one and only Acropolis, Cine Thisseon is a classic summer open air cinema in Athens to check out. Showing films since 1935, it can be found on the paved walkway that connects Thission with Filoppapou Hill. Typically, the operation of the cinema begins the last week of April or the first week of May and ends in late October. [click to see location](https://goo.gl/maps/L2ENKs1wHb12)
+* Cine Thisseon: With a direct view to the one and only Acropolis, Cine Thisseon is a classic summer open air cinema in Athens to check out. Showing films since 1935, it can be found on the paved walkway that connects Thission with Filoppapou Hill. Typically, the operation of the cinema begins the last week of April or the first week of May and ends in late October. [Click to see location](https://goo.gl/maps/L2ENKs1wHb12)
 
 ## Extreme sports
 
 * If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vouliagmeni offer lessons in many extreme sports such as: SUP, rowing , wind surf, surf, jet ski, sailing and many more.
-[click to see location](https://www.google.gr/maps/place/Varkiza,+Vari+166+72/@37.8175485,23.7817378,14z/data=!3m1!4b1!4m5!3m4!1s0x14a19525c364b6ff:0x77264baecded7346!8m2!3d37.8175503!4d23.7992474?hl=el)
+[Click to see location](https://www.google.gr/maps/place/Varkiza,+Vari+166+72/@37.8175485,23.7817378,14z/data=!3m1!4b1!4m5!3m4!1s0x14a19525c364b6ff:0x77264baecded7346!8m2!3d37.8175503!4d23.7992474?hl=el)
 
 ## Graffiti
 
@@ -219,12 +219,13 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * The Children's Museum in Plaka, which operates in collaboration with the Municipality of Athens, is very popular with young visitors, who enjoy the exhibits and the possibility to develop their observation skills, learn more about the cultural heritage and understand everyday life through games. Children can play at the shops of the "Market", make their own biscuits at the "Kitchen", journey through time at the "Attic", learn about their body at the exhibit "How do I move?", experiment and play with water and much more. Children under six years love the playroom where they can play with building blocks and visitors of all ages appreciate the toyshop with original toys and handmade objects.
 
-* Allou! Fun Park: The most famous theme park of Athens, located at Rentis. It offers plenty of activities for both kids and, why not, adults! Unfortunately, the only public means of transport that gets you there is bus. [click to see location](https://goo.gl/maps/GAZStSK2NeA2)
+* Allou! Fun Park: The most famous theme park of Athens, located at Rentis. It offers plenty of activities for both kids and, why not, adults! Unfortunately, the only public means of transport that gets you there is bus. [Click to see location](https://goo.gl/maps/GAZStSK2NeA2)
 
-* If you want to have fun and at the same time educate your kids visit Hellenic Children’s Museum:This museum is dedicated to kids and helps them learn in a fun way about how the world functions. A couple of examples of things they can do is to create with building materials, learn about the concepts of supply and demand in the marketplace, or even experiment with food ingredients in the kitchen.[Just click here to learn more about this interesting museum] (https://www.kidslovegreece.com/en/culture/hellenic-childrens-museum/)
+* If you want to have fun and at the same time educate your kids visit Hellenic Children’s Museum:This museum is dedicated to kids and helps them learn in a fun way about how the world functions. A couple of examples of things they can do is to create with building materials, learn about the concepts of supply and demand in the marketplace, or even experiment with food ingredients in the kitchen.[Just click here to learn more about this interesting museum](https://www.kidslovegreece.com/en/culture/hellenic-childrens-museum/)
+
 ## Shopping
 
-* The Mall Athens: Located at Marousi, next to the "Neratziotissa station" on the Attiki Odos motorway, it is the biggest shopping centre of Greece hosting more than 200 shopping alternatives. Apart from shopping, the Mall also hosts lots of restaurants and coffee shops, cutting-edge cinemas and leisure areas for all family members. You can get there either by train or suburban railway. [click to see location](https://goo.gl/maps/9rzPaefnvvy)
+* The Mall Athens: Located at Marousi, next to the "Neratziotissa station" on the Attiki Odos motorway, it is the biggest shopping centre of Greece hosting more than 200 shopping alternatives. Apart from shopping, the Mall also hosts lots of restaurants and coffee shops, cutting-edge cinemas and leisure areas for all family members. You can get there either by train or suburban railway. [Click to see location](https://goo.gl/maps/9rzPaefnvvy)
 
 ## Other tips and tricks
 
@@ -232,7 +233,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * There are many destinations close to Athens where you can make a daily trip, relaxing from the urban noise and air pollution. One of my favorite destinations is Nafplio, a 2-hours drive from Athens, where you can stroll in the peaceful and picturesque streets and also climb the Palamidi fortress and enjoy a breathtaking view! [For more details click here](https://en.wikipedia.org/wiki/Nafplio)
 
-* A day trip in Sounion (2 hours car drive from Athens) is a nice choice for somebody who wants to escape from the capital. The temple of Poseidon and the view from up there worth the visit. [click to see more details](https://en.wikipedia.org/wiki/Sounion)
+* A day trip in Sounion (2 hours car drive from Athens) is a nice choice for somebody who wants to escape from the capital. The temple of Poseidon and the view from up there worth the visit. [Click to see more details](https://en.wikipedia.org/wiki/Sounion)
 
 * Don't forget your hat and your sunglasses!! Sunscreen is also a must (especially if you are fair-skinned)!
 
