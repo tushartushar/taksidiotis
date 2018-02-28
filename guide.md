@@ -345,7 +345,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 ## Other tips and tricks
 
 * Man's best friend. This will make your day.
-<br/><img src="https://github.com/tushartushar/taksidiotis/blob/master/image1.jpeg"><br/>
+<br/><img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/image1.jpeg"><br/>
 
 
 * Greece is a small country, so it is a good idea to travel almost all around the country and not only to one place, since you decided to travel all the way to the southern country of Europe.
