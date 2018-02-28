@@ -344,6 +344,10 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 ## Other tips and tricks
 
+* Man's best friend. This will make your day.
+<br/><img src="https://github.com/tushartushar/taksidiotis/blob/master/image1.jpeg"><br/>
+
+
 * Greece is a small country, so it is a good idea to travel almost all around the country and not only to one place, since you decided to travel all the way to the southern country of Europe.
 
 * There are many destinations close to Athens where you can make a daily trip, relaxing from the urban noise and air pollution. One of my favorite destinations is Nafplio, a 2-hours drive from Athens, where you can stroll in the peaceful and picturesque streets and also climb the Palamidi fortress and enjoy a breathtaking view! [For more details click here](https://en.wikipedia.org/wiki/Nafplio)
@@ -366,3 +370,5 @@ Equipment required for the activities of Rafting and Canoeing is provided (unifo
 
 
 <br/><img src="https://github.com/tushartushar/taksidiotis/blob/master/jug.jpg"><br/>
+
+
