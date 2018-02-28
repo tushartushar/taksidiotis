@@ -247,6 +247,8 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * Bungee Jumping: If you want to feel happiness through the absolute meaning of freedom, this is the place to go. The power of the ability to “fly” everywhere, will definitely rise your adrenaline levels. "Zulu Bungy" have made their personal need of generously sharing smiles to people so as to make their world more beautiful. The spot that has been chosen to set up the appropriate facilities is one of the most magnificent works in the world. The Isthmus is the main strategic point of the Greek area and one of the most important works in East Mediterranean. Its tunneling has been a significant issue since the ancient times  as the creation of the canal would solve a lot of problems and would facilitate the navigation and the trade.
 [click to see what it looks like](https://youtu.be/QcbhWYmjdLw)
 
+
+
 ## Graffiti
 
 ~ Top Places to See Street Art in Athens:
@@ -303,3 +305,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * The Greeks will be more friendly and eager to help if you try to speak some Greek, too. Just a couple of words are fine, they love it when they hear a stranger speaking their language. So, say “kalimera” instead of “good morning” and “efxaristo” instead of “thank you”, and you will see some big proud smiles in their faces.
 
 * Adding to the previous tip a visitor can watch this 13 minutes video if he wants to learn something more: https://www.youtube.com/watch?v=O5cI_D1XA7M
+
+* Rafting Ioannina: The famous Zagori, the famous Tzoumerka and wider region of Epirus are waiting to enchant you with the most beautiful rivers in Greece, virgin green forests, huge gorges, canyons and majestic mountains and endless rare natural beauties!
+Equipment required for the activities of Rafting and Canoeing is provided (uniforms neoprene, life jackets, raincoats, helmets, paddles and neoprene shoes) to conduct a safe route. In every activity your experiences will be captured (photographs - video go-pro camera). Your stay in the region will be very pleasant and helpful, as are available numerous hotels and apartments that can meet your various needs in both areas of Zagori and Tzoumerka and the wider area of Ioannina.
+[Click here for more info] (http://www.raftingioannina.gr/index_en.asp)
