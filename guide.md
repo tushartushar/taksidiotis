@@ -38,6 +38,8 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * Don't forget to visit the Archaeological Museum of Delphi.The Archaeological Museum of Delphi is one of the most important in Greece since it exhibits the history of the Delphic sanctuary, site of the most famous ancient Greek oracle. Its rich collections comprise primarily architectural sculpture and statues donated to the sanctuary reflecting its religious, political and artistic activities from its early years in the 8th century BC to its decline in Late Antiquity.[Click to see more] (http://odysseus.culture.gr/h/1/eh151.jsp?obj_id=3404)
 
+* Stavros Niarchos Foundation Cultural Center: If you want to rest and take a walk into Athens' most beautiful spots [SNFCC](https://en.wikipedia.org/wiki/Stavros_Niarchos_Foundation_Cultural_Center) is your place. [Located in the bay of Phaliron](https://goo.gl/maps/fB6XJbZ5pwk), includes new facilities for the National Library of Greece and the National Opera, as well as the 210,000 m² Stavros Niarchos Park. For more info click [here](https://www.snfcc.org/?lang=en)
+
 
 ## Restaurants/Tavernas
 
@@ -125,7 +127,7 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * Enjoy various types of rum and Cuban history in Finca Vigia . Your rum will come along with the best Bar owners of the town and a friendly atmosphere where you can easily fit in. (https://www.facebook.com/fincavigiabar/?rf=176954512815542)
 
-* If you want to hear the best Greek music and party like a Greek then [Plintirio Bar] (https://www.facebook.com/Πλυντήριο-Bar-1413208995564217/) is your destination. Located at Gazi (the area near the city center where most clubs are located) is the perfect choice for you. Check the location [here] (https://goo.gl/maps/DEHBaLYCqXH2).
+* If you want to hear the best Greek music and party like a Greek then [Plintirio Bar](https://www.facebook.com/Πλυντήριο-Bar-1413208995564217/) is your destination. Located at Gazi (the area near the city center where most clubs are located) is the perfect choice for you. Check the location [here](https://goo.gl/maps/DEHBaLYCqXH2).
 
 * Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic décor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here (https://www.facebook.com/cinderelladisco/?rf=929806063741649)
 
@@ -163,7 +165,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Amorgos: One of the most impressive Cycladic islands, Amorgos, with its azure waters, unique landscape and picturesque villages is the perfect choise for relaxing holidays in the Aegean.
 
-* Ios: If you want to party a lot and live a wonderful experience in the Greek islands then **Ios** should be your choice. Ios means *flower* and according to the ancient tradition, Ios was the homeland of Homer’s mother and the final resting place of the great epic poet. It is particularly famous for the wonderful beaches, the picturesque village of Chora and certainly the intense nightlife that attracts mostly young crowds. Click [here] (http://www.visitgreece.gr/en/greek_islands/cyclades/ios) for more info.
+* Ios: If you want to party a lot and live a wonderful experience in the Greek islands then **Ios** should be your choice. Ios means *flower* and according to the ancient tradition, Ios was the homeland of Homer’s mother and the final resting place of the great epic poet. It is particularly famous for the wonderful beaches, the picturesque village of Chora and certainly the intense nightlife that attracts mostly young crowds. Click [here](http://www.visitgreece.gr/en/greek_islands/cyclades/ios) for more info.
 
 ## Natural Resorts
 
