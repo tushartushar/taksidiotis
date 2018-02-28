@@ -25,6 +25,25 @@ Take a look at the amazing video capturing Athens at night ["City of Athens - A 
 
 * The marathon event was created for the modern Olympic Games held in Athens. The marathon is a commemoration of the run of the Greek soldier Pheidippides (also known as Philippides), who ran from Marathon to Athens to report the Athenians’ victory against the Persians in 490 B.C.
 
+##Climate
+
+Athens has a hot-summer Mediterranean climate. The dominant feature of Athens' climate is alternation between prolonged hot and dry summers and mild to cool winters with moderate rainfall.[37] With an average of 416.8 millimetres (16.41 in) of yearly precipitation, rainfall occurs largely between the months of October and April. July and August are the driest months, where thunderstorms occur sparsely once or twice a month.
+
+| Month     | High | Low |
+| --------- |:----:| ---:|
+| January   | 13   | 7   |
+| February  | 14   | 7   |
+| March     | 16   | 8   |
+| April     | 20   | 11  |
+| May       | 25   | 16  |
+| June      | 29   | 20  |
+| July      | 33   | 23  |
+| August    | 32   | 23  |
+| September | 29   | 20  |
+| October   | 23   | 15  |
+| November  | 18   | 11  |
+| December  | 15   | 8   |
+
 ## Museums/Sightseeing
 
 * Palace of the Grand Master of the Knights of Rhodes is a medieval castle in the city of Rhodes, on the island of Rhodes in Greece. It is one of the few examples of Gothic architecture in Greece. The site was previously a citadel of the Knights Hospitaller that functioned as a palace, headquarters and fortress. More info here: https://en.wikipedia.org/wiki/Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes
@@ -88,15 +107,26 @@ http://www.mparmpeekiou.com
 * The BALTHAZAR occupies a unique neoclassical building of 1897 with one of the few remaining green gardens on the outskirts of the city center. It works continuously since 1973 and in recent years the kitchen runs the famous chef Christoforos Peskias who takes great care of your gastronomic experience. His cuisine is characterized as Mediterranean with fusion shades. A special sushi menu is also served during the summer season.
 (https://balthazar.gr/)
 
-* While in Athens , you shouldn't miss the opportunity to visit Thanasis, one of the oldest kebab taverns in Athens.Located in Monastiraki square and dating back to 1964, Thanasis is the perfect place to eat a traditional greek kebab!
+* While in Athens , you shouldn't miss the opportunity to visit Thanasis, one of the oldest kebab taverns in Athens. Located in Monastiraki square and dating back to 1964, Thanasis is the perfect place to eat a traditional greek kebab!
 [You can visit the website here](http://othanasis.com)
 
-* Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website] (http://www.ciaoitalia.gr/)  
+* Dont forget to visit the Italian restaurant named Ciao. Located in Pagrati, is the best place for pasta, pizza and many other italian recipes, for sure you will not be dissapointed! For more info [click to see the website] (http://www.ciaoitalia.gr/)  
 
 * Wafflehouse offers an extremely wide variety of homemade ice-cream flavours and delicious fresh baked waffles. It is located in Vouliagmeni and there you can enjoy your dessert while gazing at the mesmerizing sea! (http://www.wafflehouse.gr/)
 
+* A hidden place in the center of Athens is the Restaurant-Coffee-Bar named Cabezon("Καμπεθόν"). This place is unique, you won't find an open door with a big logo outside. It is a house with a garden, and you can either drink your coffee in the morning, eat a meal in the afternoon or party with some techno vibes at night.
+[Click to see location](https://goo.gl/maps/6VMXmBKzLwK2)
+<br>
+
 * A hidden place in the center of Athens is the Restaurant-Cafe-Bar named Cabezon("Καμπεθόν"). This place is unique, you won't find an open door with a big logo outside. It is a house with a garden, and you can either drink your coffee in the morning, eat a meal in the afternoon or party with some techno vibes at night.
 [Location: Καμπεθόν, Kerameikou 110,  Athens](https://goo.gl/maps/6VMXmBKzLwK2)
+>>>>>>> 1faf1635a903d732eb4621d686bd1451bd9a7fb6
+
+* For me the best place at the center of Athens is "Avli", which is located at Psirri, Athens. If you are lucky enough to find the tiny door, open it and you will feel like you've entered the square of a small island village with white walls and blue shutters. It's the place were locals go to eat Greek traditional plates, all homemade dishes, and drink raki, tsipouro, ouzo, beer and wine. Despite all the above mentioned, what I personally love the most is the ambience of the place, which makes you forget you are a stranger and someway unites you with other people.
+Here you can take a look at the inside:
+<img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/avli.jpg">
+Because of its' difficult location to find, we provide you with one here:
+[click to see location](https://goo.gl/maps/XeHgK5bzf2v)
 
 
 * Nancysweethome located in Monastiraki. Juicy chocolates, loafed strawberries, oriental kazan dibi and carnouses, mastitis creos, syropiasta and all the serbets (for the heavy cribs), arrived at the most relaxed and cute Glycopolis in Athens. (http://nancysweethome.gr/)
@@ -109,7 +139,11 @@ http://www.mparmpeekiou.com
 ## Cafe
 
 * **Little Tree Books & Coffee** - Coffee/Books. Cozy and Charming place. Excellent service. _Kavalloti 2, Athens_
+
 >>>>>>> 1faf1635a903d732eb4621d686bd1451bd9a7fb6
+=======
+>>>>>>> a17c39321c15d5090710124c69e51910194156cf
+>>>>>>> 8a0b284162d8ccfcabf9b7d14a332d585c84d7c0
 
 ## Bars
 
@@ -123,7 +157,7 @@ http://www.mparmpeekiou.com
 [reference to 2017 list of world's best bars](https://www.worlds50bestbars.com/fifty-best-bars-list-2017/?ist=6)
 
 * If it's summer and you are in the capital of Greece, a good choice to spend your night is a bar in the city center called "six d.o.g.s". In its garden, you can relax and enjoy good music.
-[click to see the FaceBook page](https://www.facebook.com/pg/sixdogsathens/about/?ref=page_internal)
+[click to see the Facebook page](https://www.facebook.com/pg/sixdogsathens/about/?ref=page_internal)
 
 * Next to Monastiraki metro station, on the sixth floor of a small hotel, there is a rooftop cocktail bar called "A for Athens". It is now one of Athens's top after-dark venues. Outrageously popular with locals and visitors alike, it has a stylish open-air lounge terrace with amazing view of the floodlit Acropolis.
 [click to visit website](https://aforathens.com/?lang=el)
@@ -171,7 +205,7 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic d?cor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here (https://www.facebook.com/cinderelladisco/?rf=929806063741649)
 
-<<<<<<< HEAD
+
 * Located in Excarcheia, Kioumprik is a bar that you should totally visit! It plays many kind of music such as reggae, hip hop, punk, rock, stoner and more! the people who work there also run it with an assemply, so that they all can have part in its management. There is no relationship of employers - employees something difficult to find in a capitalistic country. [To see photos of Kioumprik click here https://www.google.gr/maps/uv?hl=el&pb=!1s0x14a1bd36e8ade401%3A0x10f139cef177887a!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd%3Dw216-h160-k-no!5zzrrOuc6_z4XOvM-Az4HOuc66IM61zr7Osc-Bz4fOtc65zrEgLSDOkc69zrHOts6uz4TOt8-DzrcgR29vZ2xl&imagekey=!1e10!2sAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd&sa=X&ved=0ahUKEwi0wJK_xsjZAhWDWxQKHbMlCUAQoioIeTAK]
 
 * Located in Monastiraki, Crust Athens is an underground club for people who want to party till the morning hours. It's also recommended for those who love pizza due to the fact that it serves great and worth-the-money pizza.(http://www.crust.gr/)
@@ -233,7 +267,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 <img src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/Odeon_of_Herodes_Atticus.jpg"><br/>
 [click for more information regarding access, history and upcoming events](http://greekfestival.gr/en/venues/view/odeon-of-herodes-atticus)
 
-<<<<<<< HEAD
+
 * During your stay in Athens, you should totally visit Ebros!It is an theatre in Psurri, which is occupied by a group of people. They have regular meetings where they organise everything about the theatre 's operation, the events, the concerts the parties and the plays. The good thing about Ebros is that its logic is that all its members are equal, without any boss or individual property. [click for more info http://embrostheater.blogspot.gr/]
 =======
 * To Treno Sto Rouf : Opened in 1997, the venue is housed in an Italian passenger wagon dating back to 1950. Though small, the stage is fully-equipped and hosts lectures, musical performances and of course, theatrical works. Plus, the wagon is equipped with a mechanism that stimulated the comforting motion of a train. To Treno Sto Rouf’s agenda is rich and varied with educational programs, theatrical performances for adults and children, exhibitions and other cultural events. This little hidden gem is located less than 10 minutes from the nightlife hub of Gazi and certainly deserves a visit. Whether you are in the mood for a play, a performance or simply a drink in an unusual venue, To Treno Sto Rouf is undeniably one of the best-kept secrets in Athens.
@@ -250,7 +284,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 * If you're looking for an adrenaline rush the southern suburbs of Varkiza and Vouliagmeni offer lessons in many extreme sports such as: SUP, rowing , wind surf, surf, jet ski, sailing and many more.
 [click to see location](https://www.google.gr/maps/place/Varkiza,+Vari+166+72/@37.8175485,23.7817378,14z/data=!3m1!4b1!4m5!3m4!1s0x14a19525c364b6ff:0x77264baecded7346!8m2!3d37.8175503!4d23.7992474?hl=el)
 
-<<<<<<< HEAD
+
 =======
 * If you are a hiking enthusiast, Mount Hymettus, culminating at 1026 kilometers, is located east of Athens, near the Zografou university campus. So skip the monument visits and get your dose of fresh air by climbing up the mountain and enjoying spectacular views of the city all the way to the sea. Make a day of it and try to reach Kaisariani Monastery, a Byzantine monastery dating back to 1100.
 
