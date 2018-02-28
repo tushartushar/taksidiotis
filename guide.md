@@ -111,6 +111,7 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * If you are in the mood for rock and metal music the place in Athens for you to go is Intrepid Fox in Gazi square.A great collection of beers cocktails and shots that will give you a night to remember!
 
+* 360 Cocktail bar from its beautiful rooftop, offers a panoramic view of the city of Athens and an ideal place to take photos of the Acropolis. It is located right next to Monastiraki Metro station. For more info => http://www.three-sixty.gr/ 
 
 ## Night life
 
@@ -158,7 +159,7 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Amorgos: One of the most impressive Cycladic islands, Amorgos, with its azure waters, unique landscape and picturesque villages is the perfect choise for relaxing holidays in the Aegean.
 
-* Milos:  One of the most beautiful islands of Greece. Its volcanic activity in combination with the turquoise water make a unique landscape that every tourist should visit. Milos is ideal for young couples and a private means of transport would be recommended.
+* Milos: One of the most beautiful islands of Greece. Its volcanic activity in combination with the turquoise water make a unique landscape that every tourist should visit. Milos is ideal for young couples and a private means of transport would be recommended.
 
 ## Natural Resorts
 
