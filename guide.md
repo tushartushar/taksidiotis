@@ -1,4 +1,4 @@
-﻿# Taksidiotis - Athens travel guide by the Greeks
+# Taksidiotis - Athens travel guide by the Greeks
 
 Athens is the capital city of Greece and the largest as well. Athens dominates the Attica region and is one of the world's oldest cities, with its recorded history spanning over 3,400 years.
 
@@ -85,7 +85,18 @@ http://www.mparmpeekiou.com
 
 * Dont forget to visit the Italian restaurant named Ciao.Located in Pagrati,is the best place for pasta,pizza and many other italian recipes, for sure you will not be dissapointed!For more info [click to see the website] (http://www.ciaoitalia.gr/)  
 
+* Wafflehouse offers an extremely wide variety of homemade ice-cream flavours and delicious fresh baked waffles. It is located in Vouliagmeni and there you can enjoy your dessert while gazing at the mesmerizing sea! (http://www.wafflehouse.gr/)
+
+* A hidden place in the center of Athens is the Restaurant-Cafe-Bar named Cabezon("Καμπεθόν"). This place is unique, you won't find an open door with a big logo outside. It is a house with a garden, and you can either drink your coffee in the morning, eat a meal in the afternoon or party with some techno vibes at night.
+[Location: Καμπεθόν, Kerameikou 110,  Athens](https://goo.gl/maps/6VMXmBKzLwK2)
+<br>
+
+
 ## Bars
+
+* If you locate yourself in the urban area called Pagkrati ("Παγκράτι") and you want to have a beverage or a drink, you can visit Chelsea Hotel. This spot has an amazing cup of coffee and awesome cocktails at night. Anyone that likes an exquisite and cult spot, would love this place. Warning, it gets really crowded at night.
+[Location: Archimidous 1, Αθήνα 116 35](https://goo.gl/maps/fvtM1TeBQP62)
+<br>
 
 * In the heart of the town, Speakeasy is a must visit bar with live classic jazz music  and great decoration and tables inspired by 80's.
   [click to visit website](https://foursquare.com/v/the-speakeasy/52b8ab6c11d2bde308cd9ae7)
@@ -115,9 +126,16 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * If you are in the mood for rock and metal music the place in Athens for you to go is Intrepid Fox in Gazi square.A great collection of beers cocktails and shots that will give you a night to remember!
 
+* 360 Cocktail bar from its beautiful rooftop, offers a panoramic view of the city of Athens and an ideal place to take photos of the Acropolis. It is located right next to Monastiraki Metro station. For more info => http://www.three-sixty.gr/ 
+
 * An oasis in the heart of Athens called "Six D.O.G.S" combines a lot of different happenings in one place. One can enjoy a relaxing coffee or snack in the back garden, a cocktail watching a concert, or cultural event while mingling with people from different backgrounds. [Click here to see more.] (https://sixdogs.gr/)
 
+
 ## Night life
+
+* Next, to the station of Metro Metaksourgeio, there is a club called asylum ("Άσυλο"), it doesn't have any logo or any fancy entrance but you can spot it because is the only place that you will have youth outside of it. It has uncommon decoration and a projector that shows cartoonish videos on the wall. The music is always alternative or techno and it has cheap drinks.
+[Location: Αχιλλέως 38, Αθήνα 104 36](https://goo.gl/maps/KXh7jEBHb6S2)
+<br>
 
 * Enjoy R&B and house music while enjoying your favorite drink at "Toyroom" in the center of Athens.
 [click to see location](https://www.google.gr/maps/place/ToyRoom+Athens/@37.977635,23.733593,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3931ab9175:0xd4f4699dd47969a8!8m2!3d37.977635!4d23.735787?hl=el)
@@ -129,7 +147,7 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * If you want to hear the best Greek music and party like a Greek then [Plintirio Bar](https://www.facebook.com/Πλυντήριο-Bar-1413208995564217/) is your destination. Located at Gazi (the area near the city center where most clubs are located) is the perfect choice for you. Check the location [here](https://goo.gl/maps/DEHBaLYCqXH2).
 
-* Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic décor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here (https://www.facebook.com/cinderelladisco/?rf=929806063741649)
+* Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic d?cor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here (https://www.facebook.com/cinderelladisco/?rf=929806063741649)
 
 * Located in Excarcheia, Kioumprik is a bar that you should totally visit! It plays many kind of music such as reggae, hip hop, punk, rock, stoner and more! the people who work there also run it with an assemply, so that they all can have part in its management. There is no relationship of employers - employees something difficult to find in a capitalistic country. [To see photos of Kioumprik click here https://www.google.gr/maps/uv?hl=el&pb=!1s0x14a1bd36e8ade401%3A0x10f139cef177887a!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd%3Dw216-h160-k-no!5zzrrOuc6_z4XOvM-Az4HOuc66IM61zr7Osc-Bz4fOtc65zrEgLSDOkc69zrHOts6uz4TOt8-DzrcgR29vZ2xl&imagekey=!1e10!2sAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd&sa=X&ved=0ahUKEwi0wJK_xsjZAhWDWxQKHbMlCUAQoioIeTAK]
 ## Islands
@@ -166,9 +184,13 @@ Beautiful nature, perfect beaches and a complex history ? Spetses is an island t
 
 * Amorgos: One of the most impressive Cycladic islands, Amorgos, with its azure waters, unique landscape and picturesque villages is the perfect choise for relaxing holidays in the Aegean.
 
+* Milos: One of the most beautiful islands of Greece. Its volcanic activity in combination with the turquoise water make a unique landscape that every tourist should visit. Milos is ideal for young couples and a private means of transport would be recommended.
+
 * Ios: If you want to party a lot and live a wonderful experience in the Greek islands then **Ios** should be your choice. Ios means *flower* and according to the ancient tradition, Ios was the homeland of Homer’s mother and the final resting place of the great epic poet. It is particularly famous for the wonderful beaches, the picturesque village of Chora and certainly the intense nightlife that attracts mostly young crowds. Click [here](http://www.visitgreece.gr/en/greek_islands/cyclades/ios) for more info.
 
+
 * Samothraki: in my opinion the most magical island in Greece, Samothraki. The moment you reach it, you fall in love with it. It has magical nature with waterfalls, forests and beaches. Also the people you meet there are have a special sense of freedom and hospitality. [click here for photo http://www.oneman.gr/keimena/style/taksidi/menoume-nisi/article3586754.ece/BINARY/w620/vathres+1.jpg]
+
 ## Natural Resorts
 
 * Near the city of Volos (in the Magnisia regional unit), one can find the magical mountain of Pilio. According to myth, this is where the gods used to live during the summer, and with good reason!!! The beauty of Pilio is truly something to behold since it is (possibly) the Greece's nature at it's absolute best! Combining breath-taking mountain forrests and sunny beaches with clear blue waters, this place is a must visit. And most importantly, do not be fooled by the beautiful sea into thinking that this is a place to only visit during the summer. If you are a friend of snow and skiing, just don't think twice.
