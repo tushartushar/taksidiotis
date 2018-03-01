@@ -129,6 +129,7 @@ http://www.mparmpeekiou.com
 * When it comes to Greek traditional food, "Christoforos" restaurant is the right place to visit! A cozy atmosphere and plenty of tasty plates, such as lamp, gyros, souvlaki, mousaka, all in affordable prices! The quality and quantity won't disappoint you!
 
 <img align="right" height="100px" src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/juicy-grill.png">
+
 * **Juicy Grill** was born for a reason. To serve pleasure, taste, bliss and delight. If you really like burgers you have to visit this burger joint. With homemade buns and sauces and high quality meat. One of the best in town. Located in [_Keramikou 2, Cholargos_](https://goo.gl/maps/xi6JDeurZH32). Visit [site](http://juicygrill.gr/).
 
 * The BALTHAZAR occupies a unique neoclassical building of 1897 with one of the few remaining green gardens on the outskirts of the city center. It works continuously since 1973 and in recent years the kitchen runs the famous chef Christoforos Peskias who takes great care of your gastronomic experience. His cuisine is characterized as Mediterranean with fusion shades. A special sushi menu is also served during the summer season.
