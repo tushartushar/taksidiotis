@@ -73,7 +73,7 @@ Athens has a hot-summer Mediterranean climate. The dominant feature of Athens' c
 * Athens is famous for its spectacular sights, its picturesque neighbourhoods and its natural beauty, where it is still preserved. If you want to fit as much as you can in only one view, your best bet is to grab a beer and get asap to one of the many hills around the city. The options are practically countless, but some great alternatives would be the following:
 	Philoppappos hill ( https://goo.gl/SAsGeW ) ,
 	Strefi hill ( https://goo.gl/DbtWfi ) ,
-	Mount Lycabettus ( https://goo.gl/pd9dMi ) , 
+	Mount Lycabettus ( https://goo.gl/pd9dMi ) ,
 	Both sides of the Attiko Alsos ( https://goo.gl/fGnPo8 )
 
 * Technopolis - Located within touching distance of Syntagma Square and the Monastiraki Flea Market, Technopolis is an event and art space within an old natural gas processing plant. It has sort of a MoMA PS1 vibe. The industrial museum is open to the public Tuesday through Sunday. Visitors learn about the work conditions in the old plant and its experiential approach to its operations during the 19th century. Most Athenians, though, will simply tell you to check the venue's events calendar for any upcoming concerts, parties, DJ sets and exhibits.
@@ -119,7 +119,6 @@ http://www.mparmpeekiou.com
 
 * Agora Restaurant includes great tasty food with unique atmosphere, great service and music. Dish not to miss : Salmon Spaghetti with Vodka Sauce. (https://www.agora-restaurant.gr/)
 
-<<<<<<< HEAD
 * The various Greek beaches not only benefit us with their waters, where we can swim and cool off the hot days of summer, but also with the organisms that leave there. Therefore you should definitely visit a fish tavern, like 'Logo Timis' in Likovrisi. It is a very clean place with a very hospitable owner, and his wife is the best cook ever. Try the 'regosalata' plate, it is just awesome!
 =======
 > Loved the food and the atmosphere here. Very stylish and pleasant. The food is very tasty and with convenient prices. Will definately get back here during my next visit in Athens - Adri N.
@@ -128,6 +127,8 @@ http://www.mparmpeekiou.com
 >>>>>>> 30e6753e02f7510ceae7ef9829f3c8711b5eb728
 
 * When it comes to Greek traditional food, "Christoforos" restaurant is the right place to visit! A cozy atmosphere and plenty of tasty plates, such as lamp, gyros, souvlaki, mousaka, all in affordable prices! The quality and quantity won't disappoint you!
+
+* **Juicy Grill** was born for a reason. To serve pleasure, taste, bliss and delight. If you really like burgers you have to visit this burger joint. With homemade buns and sauces and high quality meat. One of the best in town. Located in [_Keramikou 2, Cholargos_](https://goo.gl/maps/xi6JDeurZH32). Visit [site](http://juicygrill.gr/). <img align="right" height="500px" src="https://github.com/tushartushar/taksidiotis/blob/master/Photos/juicy-grill.png">
 
 * The BALTHAZAR occupies a unique neoclassical building of 1897 with one of the few remaining green gardens on the outskirts of the city center. It works continuously since 1973 and in recent years the kitchen runs the famous chef Christoforos Peskias who takes great care of your gastronomic experience. His cuisine is characterized as Mediterranean with fusion shades. A special sushi menu is also served during the summer season.
 (https://balthazar.gr/)
@@ -161,7 +162,8 @@ Because of its' difficult location to find, we provide you with one here:
 
 ## Cafe
 
-* **Little Tree Books & Coffee** - Coffee/Books. Cozy and Charming place. Excellent service. _Kavalloti 2, Athens_
+* **Little Tree Books & Coffee** - Coffee/Books. Cozy and Charming place. Excellent service. [_Kavalloti 2, Athens_](https://goo.gl/maps/tvuqAND6kR12)
+* **Madeira** - This coffee & cocktails spot will make you feel that you are on a greek island. Located near N. Heraklion metro station. Great for Summer months. [_Peukon 1, N. Heraklion_](https://goo.gl/maps/QWSoAVFVj5P2)
 
 
 ## Bars
@@ -220,11 +222,11 @@ Opened in November 2012 and soon conquered the Athenians, and offers cocktails i
 
 * If you want to hear the best Greek music and party like a Greek then [Plintirio Bar](https://www.facebook.com/Πλυντήριο-Bar-1413208995564217/) is your destination. Located at Gazi (the area near the city center where most clubs are located) is the perfect choice for you. Check the location [here](https://goo.gl/maps/DEHBaLYCqXH2).
 
-* Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic d?cor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info here (https://www.facebook.com/cinderelladisco/?rf=929806063741649)
-
-* Located in Excarcheia, Kioumprik is a bar that you should totally visit! It plays many kind of music such as reggae, hip hop, punk, rock, stoner and more! the people who work there also run it with an assemply, so that they all can have part in its management. There is no relationship of employers - employees something difficult to find in a capitalistic country. [To see photos of Kioumprik click here https://www.google.gr/maps/uv?hl=el&pb=!1s0x14a1bd36e8ade401%3A0x10f139cef177887a!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd%3Dw216-h160-k-no!5zzrrOuc6_z4XOvM-Az4HOuc66IM61zr7Osc-Bz4fOtc65zrEgLSDOkc69zrHOts6uz4TOt8-DzrcgR29vZ2xl&imagekey=!1e10!2sAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd&sa=X&ved=0ahUKEwi0wJK_xsjZAhWDWxQKHbMlCUAQoioIeTAK]
+* Located in Kolonaki, Cinderella is a disco-club where anyone feeling nostalgic for the 1970s will find solace. With its psychedelic d?cor, relaxed vibe and 1970s- and 1980s-oriented playlist, Cinderella quickly became a nightlife hub in Greece’s capital. As the club attracts a lot of people, make sure to reserve a table or come ‘early’; then all you have to do is get ready to surrender to the fun vibe and dance the night away.Get more info [here](https://www.facebook.com/cinderelladisco/?rf=929806063741649).
 
 * Located in Monastiraki, Crust Athens is an underground club for people who want to party till the morning hours. It's also recommended for those who love pizza due to the fact that it serves great and worth-the-money pizza.(http://www.crust.gr/)
+
+* **Box Athens** is a place to enjoy live clubbing. [Located in Gazi](https://goo.gl/maps/9zgCRHJpSU42) this live stage has an impressive entrance with lights and mirrors which is a popular photo spot ([See photo](http://www.gjp.com.gr/wp-content/uploads/2016/03/006_5280_gjp_boxathens_20160304-1024x683.jpg)). Every Friday and Saturday Box hosts Melisses one of the best pop bands in Greece.
 
 * Located in Excarcheia, Kioumprik is a bar that you should totally visit! It plays many kind of music such as reggae, hip hop, punk, rock, stoner and more! the people who work there also run it with an assemply, so that they all can have part in its management. There is no relationship of employers - employees something difficult to find in a capitalistic country. [To see photos of Kioumprik click here](https://www.google.gr/maps/uv?hl=el&pb=!1s0x14a1bd36e8ade401%3A0x10f139cef177887a!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd%3Dw216-h160-k-no!5zzrrOuc6_z4XOvM-Az4HOuc66IM61zr7Osc-Bz4fOtc65zrEgLSDOkc69zrHOts6uz4TOt8-DzrcgR29vZ2xl&imagekey=!1e10!2sAF1QipMG5B7lS_ckXfJEVGHvjC1FJbBAZora6KgY6qVd&sa=X&ved=0ahUKEwi0wJK_xsjZAhWDWxQKHbMlCUAQoioIeTAK)
 
@@ -385,5 +387,3 @@ Equipment required for the activities of Rafting and Canoeing is provided (unifo
 
 
 <br/><img src="https://github.com/tushartushar/taksidiotis/blob/master/jug.jpg"><br/>
-
-
