@@ -102,6 +102,8 @@ Based on modern Greek cuisine, Aris Tsanaklidis, the renowned chef, creates a un
 
 * Varoulko restaurant is located in one of the most beautiful places, the Mikrolimano marina, in front of the sea, has easy access from  downtown Athens & Piraeus and provides its visitors an elegant atmosphere and an outstanding view. [Click to see more](http://varoulko.gr/)
 
+* Addition by angor
+
 * Thanasis taverna is one of the most iconic tavernas in Athens, with its trademark dish being kebabs. It is a nice place to go after a walk in the center of Athens and enjoy a meal near the Monastiraki Square.
 [click to see location](https://goo.gl/maps/sA1seLsfrNG2)
 
